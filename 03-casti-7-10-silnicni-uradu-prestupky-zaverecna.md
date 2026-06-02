@@ -34,13 +34,20 @@
 > (1) K ochraně dálnice, silnice a místní komunikace I. nebo II. třídy a provozu na nich mimo zastavěné území obcí slouží silniční ochranná pásma. Silniční ochranné pásmo pro nově budovanou nebo rekonstruovanou dálnici, silnici a místní komunikaci I. nebo II. třídy vzniká na základě rozhodnutí o povolení záměru podle stavebního zákona.
 >
 > (2) Silničním ochranným pásmem se pro účely tohoto zákona rozumí prostor ohraničený svislými plochami vedenými do výšky 50 m a ve vzdálenosti
-> a) 50 m od osy přilehlého jízdního pásu dálnice anebo od osy větve její křižovatky s jinou pozemní komunikací; pokud by takto určené pásmo nezahrnovalo celou plochu odpočívky, tvoří hranici pásma hranice silničního pozemku,
-> b) 50 m od osy vozovky nebo přilehlého jízdního pásu silnice I. třídy nebo místní komunikace I. třídy,
-> c) 15 m od osy vozovky nebo od osy přilehlého jízdního pásu silnice II. třídy nebo III. třídy a místní komunikace II. třídy.
 >
-> (3) Zastavěným územím obce je pro účely určení silničního ochranného pásma … území, které splňuje tyto podmínky:
-> a) na území je postaveno pět a více budov odlišných vlastníků, kterým bylo přiděleno popisné nebo evidenční číslo a které jsou evidovány v katastru nemovitostí …
-> b) mezi jednotlivými budovami, jejichž půdorys se pro tyto účely zvětší po celém obvodu o 5 m, nebude spojnice delší než 75 m. …
+> - a) 50 m od osy přilehlého jízdního pásu dálnice anebo od osy větve její křižovatky s jinou pozemní komunikací; pokud by takto určené pásmo nezahrnovalo celou plochu odpočívky, tvoří hranici pásma hranice silničního pozemku,
+>
+> - b) 50 m od osy vozovky nebo přilehlého jízdního pásu silnice I. třídy nebo místní komunikace I. třídy,
+>
+> - c) 15 m od osy vozovky nebo od osy přilehlého jízdního pásu silnice II. třídy nebo III. třídy a místní komunikace II. třídy.
+>
+> (3) Zastavěným územím obce je pro účely určení silničního ochranného pásma podle tohoto zákona území, které splňuje tyto podmínky:
+>
+> - a) na území je postaveno pět a více budov odlišných vlastníků, kterým bylo přiděleno popisné nebo evidenční číslo a které jsou evidovány v katastru nemovitostí27),
+>
+> - b) mezi jednotlivými budovami, jejichž půdorys se pro tyto účely zvětší po celém obvodu o 5 m, nebude spojnice delší než 75 m. Spojnice tvoří rohy zvětšeného půdorysu jednotlivých budov (u oblouků se použijí tečny). Spojnice mezi zvětšenými půdorysy budov, spolu se stranami upravených půdorysů budov, tvoří zastavěné území obce.
+>
+> Ochranné pásmo může být zřízeno s ohledem na stanovené podmínky pouze po jedné straně dálnice, silnice nebo místní komunikace I. a II. třídy.
 >
 > (4) Hranice silničního ochranného pásma definovaná v § 30 odst. 2 písm. a) je pro případ povolování zřizování a provozování reklamních zařízení, které by byly viditelné uživateli dotčené pozemní komunikace, posunuta z 50 metrů na 250 metrů.
 
@@ -61,9 +68,28 @@
 > (3) Jedná-li se o reklamní zařízení viditelné z pozemní komunikace v silničním ochranném pásmu dálnice a silnice I. třídy, lze jeho zřízení a provozování povolit pouze pokud splňuje podmínky podle odstavce 2 a slouží-li k označení provozovny, která se nachází v silničním ochranném pásmu ve vzdálenosti do 200 metrů od reklamního zařízení.
 >
 > (4) Povolení podle odstavce 1 vydává příslušný silniční správní úřad po předchozím souhlasu
-> a) vlastníka dotčené nemovitosti …,
-> b) Ministerstva vnitra, jde-li o silniční ochranné pásmo dálnice,
-> c) Policie České republiky, jde-li o silniční ochranné pásmo silnice a místní komunikace.
+>
+> - a) vlastníka dotčené nemovitosti, na které má být reklamní zařízení zřizováno a provozováno,
+>
+> - b) Ministerstva vnitra, jde-li o silniční ochranné pásmo dálnice,
+>
+> - c) Policie České republiky, jde-li o silniční ochranné pásmo silnice a místní komunikace.
+>
+> (5) Silniční správní úřad vydá rozhodnutí o povolení zřizovat a provozovat reklamní zařízení právnické nebo fyzické osobě na základě písemné žádosti na dobu určitou, nejdéle na dobu pěti let, a v rozhodnutí stanoví podmínky zřizování a provozování reklamního zařízení.
+>
+> (6) Vlastník nemovitosti v silničním ochranném pásmu je oprávněn v obecném zájmu umístit na své nemovitosti pouze reklamní zařízení, které bylo povoleno.
+>
+> (7) Porušuje-li právnická nebo fyzická osoba podmínky stanovené v rozhodnutí o vydání povolení ke zřizování a provozování reklamních zařízení, silniční správní úřad rozhodne o odnětí povolení. Právnické nebo fyzické osobě, které bylo odňato povolení, lze udělit povolení na základě znovu podané žádosti nejdříve po uplynutí tří let ode dne, kdy rozhodnutí o odnětí povolení nabylo právní moci.
+>
+> (8) Silniční správní úřad může rozhodnout o změně vydaného povolení na základě odůvodněné žádosti držitele povolení.
+>
+> (9) Je-li v silničním ochranném pásmu zřízeno nebo provozováno reklamní zařízení v rozporu s odstavcem 1 bez povolení, vyzve silniční správní úřad neprodleně poté, co se o tom dozvěděl, vlastníka pozemní komunikace, v jejímž ochranném pásmu je reklamní zařízení zřízeno nebo provozováno, nebo jejího správce, je-li výkon její správy zajišťován prostřednictvím správce, k odstranění reklamního zařízení, a vlastníka nemovitosti, na které je reklamní zařízení zřízeno nebo provozováno, k poskytnutí součinnosti podle odstavce 12. Silniční správní úřad vlastníka pozemní komunikace nebo jejího správce nevyzývá, je-li současně vlastníkem nemovitosti, na které je reklamní zařízení zřízeno nebo provozováno; v takovém případě silniční správní úřad vlastníku nebo správci pozemní komunikace na jeho žádost sdělí, zda je reklamní zařízení zřízeno a provozováno na základě povolení podle odstavce 1.
+>
+> (10) Reklamní zařízení zřízené nebo provozované v ochranném pásmu pozemní komunikace v rozporu s odstavcem 1 bez povolení je vlastník této pozemní komunikace nebo její správce, je-li výkon její správy zajišťován prostřednictvím správce, povinen na náklady jeho vlastníka odstranit a uskladnit na vhodném místě. Odstranění reklamního zařízení bude provedeno bez ohledu na skutečnost, zda reklamní zařízení bylo povoleno stavebním úřadem5).
+>
+> (11) Vlastník nebo správce pozemní komunikace, který odstranil reklamní zařízení postupem podle odstavce 10, zveřejní po dobu 3 měsíců způsobem umožňujícím dálkový přístup identifikační údaje reklamního zařízení a informaci, kde a jakým způsobem si může reklamní zařízení jeho vlastník vyzvednout. Reklamní zařízení lze jeho vlastníku vydat pouze po uhrazení nákladů na odstranění a uskladnění reklamního zařízení. Nedojde-li k vydání reklamního zařízení jeho vlastníku do 3 měsíců ode dne zveřejnění informací podle věty první, je vlastník nebo správce pozemní komunikace, který reklamní zařízení odstranil, oprávněn reklamní zařízení na náklady jeho vlastníka zlikvidovat.
+>
+> (12) Vlastník nemovitosti, na které je zřízeno a provozováno reklamní zařízení bez povolení podle odstavce 1, je povinen umožnit na nezbytnou dobu a v nezbytné míře vstup na svoji nemovitost za účelem odstranění tohoto reklamního zařízení. Vznikne-li tím škoda na nemovitosti, je ten, kdo škodu způsobil, povinen ji nahradit; této odpovědnosti se nemůže zprostit.
 
 **Výklad.** § 31 je nejcitovanějším paragrafem v exekutivních akcích **odstraňování nepovolených billboardů**. Logická stavba:
 
@@ -91,15 +117,17 @@ Důvody pro **neudělení souhlasu** (odst. 3): ohrožení bezpečnosti, naruše
 
 #### § 33
 
-> V silničním ochranném pásmu na vnitřní straně oblouku silnice a místní komunikace I. nebo II. třídy o poloměru 500 m a menším a v rozhledových trojúhelnících prostorů úrovňových křižovatek těchto pozemních komunikací se nesmí zřizovat a provozovat jakékoliv objekty, vysazovat stromy nebo vysoké keře a pěstovat takové kultury, které by svým vzrůstem … rušily rozhled potřebný pro bezpečnost silničního provozu …
+> V silničním ochranném pásmu na vnitřní straně oblouku silnice a místní komunikace I. nebo II. třídy o poloměru 500 m a menším a v rozhledových trojúhelnících prostorů úrovňových křižovatek těchto pozemních komunikací se nesmí zřizovat a provozovat jakékoliv objekty, vysazovat stromy nebo vysoké keře a pěstovat takové kultury, které by svým vzrůstem a s přihlédnutím k úrovni terénu rušily rozhled potřebný pro bezpečnost silničního provozu; to neplatí pro lesní porosty s keřovým parkem zajišťující stabilitu okraje lesa. Strany rozhledových trojúhelníků se stanovují 100 m u silnice označené dopravní značkou podle zvláštního předpisu2) jako silnice hlavní a 55 m u silnice označené dopravní značkou podle zvláštního předpisu2) jako silnice vedlejší.
 
 **Výklad.** **Rozhledové trojúhelníky** v zatáčkách a křižovatkách: absolutní zákaz vysoké zástavby a vegetace. Strany trojúhelníku: **100 m hlavní silnice / 55 m vedlejší**. Porušení je přestupkem podle § 42a odst. 1 písm. o) / § 42b odst. 1 písm. o) — pokuta do 300 000 Kč.
 
 #### § 34
 
-> (1) Vlastník, popřípadě správce dálnice, silnice a místní komunikace I. nebo II. třídy je oprávněn v silničním ochranném pásmu na nezbytnou dobu a v nezbytné míře vstupovat na cizí pozemky, nebo na stavby na nich stojící, za účelem oprav, údržby, umístění zásněžek, odstraňování následků nehod a jiných překážek omezujících silniční provoz. …
+> (1) Vlastník, popřípadě správce dálnice, silnice a místní komunikace I. nebo II. třídy je oprávněn v silničním ochranném pásmu na nezbytnou dobu a v nezbytné míře vstupovat na cizí pozemky, nebo na stavby na nich stojící, za účelem oprav, údržby, umístění zásněžek, odstraňování následků nehod a jiných překážek omezujících silniční provoz. Přitom je povinen dbát toho, aby tím byla co nejméně rušena práva vlastníků a aby vstupem a činnostmi nevznikly škody, kterým je možno zabránit. Vznikne-li tím škoda na pozemku nebo na stavbě, je ten, kdo škodu způsobil, povinen ji nahradit; této odpovědnosti se nemůže zprostit.
 >
-> (3) Nelze-li dosáhnout požadovaného účelu jinak, je vlastník, popřípadě správce … oprávněn ve stavu nouze nebo v naléhavém veřejném zájmu na zachování sjízdnosti a schůdnosti této pozemní komunikace na nezbytnou dobu, v nezbytné míře a za náhradu použít nemovitost vlastníka v silničním ochranném pásmu …
+> (2) Jedná-li se o pozemní komunikaci nebo její část, pro kterou se nezřizuje silniční ochranné pásmo, platí toto ustanovení pro vstup vlastníka, popřípadě správce pozemní komunikace na sousední pozemky.
+>
+> (3) Nelze-li dosáhnout požadovaného účelu jinak, je vlastník, popřípadě správce dálnice, silnice nebo místní komunikace oprávněn ve stavu nouze nebo v naléhavém veřejném zájmu na zachování sjízdnosti a schůdnosti této pozemní komunikace na nezbytnou dobu, v nezbytné míře a za náhradu použít nemovitost vlastníka v silničním ochranném pásmu, a není-li silniční ochranné pásmo zřízeno, vlastníka sousední nemovitosti.
 
 **Výklad.** Veřejnoprávní omezení vlastnického práva **z titulu zákona**:
 
@@ -108,9 +136,11 @@ Důvody pro **neudělení souhlasu** (odst. 3): ohrožení bezpečnosti, naruše
 
 #### § 35
 
-> (1) Vlastníci nemovitostí v sousedství dálnice, silnice a místní komunikace jsou povinni strpět, aby na jejich pozemcích byla provedena nezbytná opatření k zabránění sesuvů půdy, padání kamenů, lavin a stromů nebo jejich částí, vznikne-li toto nebezpečí výstavbou nebo provozem dálnice, silnice a místní komunikace nebo přírodními vlivy; vznikne-li toto nebezpečí z jednání těchto vlastníků, jsou povinni učinit nezbytná opatření na svůj náklad. …
+> (1) Vlastníci nemovitostí v sousedství dálnice, silnice a místní komunikace jsou povinni strpět, aby na jejich pozemcích byla provedena nezbytná opatření k zabránění sesuvů půdy, padání kamenů, lavin a stromů nebo jejich částí, vznikne-li toto nebezpečí výstavbou nebo provozem dálnice, silnice a místní komunikace nebo přírodními vlivy; vznikne-li toto nebezpečí z jednání těchto vlastníků, jsou povinni učinit nezbytná opatření na svůj náklad. O rozsahu a způsobu provedení nezbytných opatření a o tom, kdo je provede, rozhodne silniční správní úřad.
 >
-> (3) Vlastník nemovitosti sousedící s průjezdním úsekem silnice nebo s místní komunikací v zastavěném území je v nezbytně nutných případech povinen za jednorázovou úhradu strpět zřízení věcného břemene na své nemovitosti spočívajícího v umístění veřejného osvětlení, dopravních značek světelných signálů, dopravních zařízení a zařízení pro provozní informace …
+> (2) Silniční správní úřad zjišťuje zdroje ohrožování dálnice, silnice a místní komunikace a zdroje rušení silničního provozu na nich. Zjistí-li zdroj ohrožení jiný, než je uveden v odstavci 1, nařídí silniční správní úřad jeho provozovateli nebo vlastníku odstranění zdroje tohoto ohrožení. Nevyhoví-li provozovatel nebo vlastník zdroje ohrožení, silniční správní úřad rozhodne o odstranění zdroje ohrožení na jeho náklady.
+>
+> (3) Vlastník nemovitosti sousedící s průjezdním úsekem silnice nebo s místní komunikací v zastavěném území je v nezbytně nutných případech povinen za jednorázovou úhradu strpět zřízení věcného břemene na své nemovitosti spočívajícího v umístění veřejného osvětlení, dopravních značek světelných signálů, dopravních zařízení a zařízení pro provozní informace a tabulek s označením místních názvů. Rozhodnutí o zřízení věcného břemene a o výši úhrady vydává příslušný silniční správní úřad u dopravních značek světelných signálů, dopravních zařízení a zařízení pro provozní informace na základě stanovení místní úpravy provozu na pozemních komunikacích nebo zařízení pro provozní informace.11a)
 
 **Výklad.** **Asymetrické rozložení odpovědnosti** podle zdroje ohrožení (odst. 1):
 
@@ -121,11 +151,21 @@ Odst. 3 zavádí **zákonné věcné břemeno** pro veřejné osvětlení a dopr
 
 #### § 36 — Styk s vedeními
 
-> (1) Žádá-li to veřejný zájem, může dálnice, silnice a místní komunikace křížit inženýrské sítě a jiná vedení, vody, … a může být jimi křížena nebo jinak dotčena …
+> (1) Žádá-li to veřejný zájem, může dálnice, silnice a místní komunikace křížit inženýrské sítě a jiná vedení, vody, zásoby přírodních podzemních vod, území chráněná podle zvláštních předpisů,15) vodohospodářská a jiná díla, nebo se jich jinak dotknout a může být jimi křížena nebo jinak dotčena, a to způsobem přiměřeným ochraně životního prostředí a místním poměrům tak, aby byly co nejméně dotčeny zájmy zúčastněných vlastníků.
 >
-> (2) Energetická, telekomunikační, vodovodní, kanalizační a jiná vedení, zařízení pro rozvod tepla a topných plynů (dále jen „vedení"), s výjimkou vedení tramvajových a trolejbusových drah, pokud nejsou zřizována pro potřeby dálnice, silnice nebo místní komunikace, nesmějí být podélně umísťována v jejich tělese, na silničních pozemcích a v nich a na mostech a mostních objektech, pokud v dalších ustanoveních není stanoveno jinak.
+> (2) Energetická, telekomunikační, vodovodní, kanalizační a jiná vedení, zařízení pro rozvod tepla a topných plynů (dále jen „vedení“), s výjimkou vedení tramvajových a trolejbusových drah, pokud nejsou zřizována pro potřeby dálnice, silnice nebo místní komunikace, nesmějí být podélně umísťována v jejich tělese, na silničních pozemcích a v nich a na mostech a mostních objektech, pokud v dalších ustanoveních není stanoveno jinak.
 >
-> (3) Na silniční pozemek nebo do něj, s výjimkou silničního pozemku pod vozovkou nebo krajnicí a středního dělícího pásu, nebo na most nebo mostní objekt lze podélně umístit vedení pouze na základě smlouvy o zřízení věcného břemene nebo jiné smlouvy uzavřené mezi vlastníkem pozemní komunikace a vlastníkem vedení a za jednorázovou úhradu …
+> (3) Na silniční pozemek nebo do něj, s výjimkou silničního pozemku pod vozovkou nebo krajnicí a středního dělícího pásu, nebo na most nebo mostní objekt lze podélně umístit vedení pouze na základě smlouvy o zřízení věcného břemene nebo jiné smlouvy uzavřené mezi vlastníkem pozemní komunikace a vlastníkem vedení a za jednorázovou úhradu, nestanoví-li zvláštní právní předpis jinak; podmínky stanovené stavebním zákonem tím nejsou dotčeny. Nedojde-li k dohodě, rozhodne o zřízení věcného břemene a výši úhrady soud.
+>
+> (4) V zastavěném území mohou být podélně umísťována vedení, kromě případů uvedených v odstavci 3 a za podmínek uvedených v tomto odstavci, i v chodnících a v přilehlých zelených pásech průjezdního úseku silnice nebo v místní komunikaci při nejvyšším možném ohledu vůči vegetaci. V případech, kdy je vyloučena možnost jiného technického řešení, mohou být vedení dále umístěna i v silničním pozemku pod vozovkou, krajnicí, nebo ve středním dělícím pásu těchto pozemních komunikací.
+>
+> (5) Při provádění stavebních prací na dálnici, silnici nebo místní komunikaci, při kterých by mohlo dojít k poškození vedení, je vlastník vedení povinen na výzvu vlastníka dotčené pozemní komunikace zajistit bezúplatně potřebné podklady a odborný dozor.
+>
+> (6) V případě havárie vedení není pro nezbytné práce k bezprostřednímu odstranění této havárie potřebné předchozí povolení ke zvláštnímu užívání dálnice, silnice nebo místní komunikace. Vlastník vedení je povinen neprodleně oznámit vlastníku dotčené pozemní komunikace nebo správci, je-li výkon správy dotčené pozemní komunikace zajišťován prostřednictvím správce, provedení prací, jejich místo alespoň provizorně označit a zabezpečit a zajistit následné uvedení dotčeného úseku pozemní komunikace do původního stavu podle podmínek stanovených v dodatečném povolení ke zvláštnímu užívání pozemní komunikace.
+>
+> (7) Při výstavbě nové dálnice, silnice nebo místní komunikace nebo při jejich rekonstrukci je objednatel této stavby povinen uhradit jen vyvolané nezbytné úpravy přímo dotčeného úseku vedení, a to na úrovni stávajícího technického řešení. Úpravy související s modernizací nebo se zvýšením výkonnosti vedení je povinen uhradit jejich vlastník.
+>
+> (8) Pokud tento zákon nestanoví jinak, platí zvláštní předpisy15) o styku dálnice, silnice a místní komunikace s inženýrskými sítěmi a jinými vedeními, s vodami, zásobami přírodních podzemních vod, s územím chráněným podle zvláštních předpisů, s dobývacím prostorem a s vodohospodářskými a jinými díly. Podrobnosti o způsobu umísťování, oprav a udržování inženýrských sítí a jiných vedení na silničních pozemcích stanoví prováděcí předpis.
 
 **Výklad.** § 36 řeší věčný **konflikt mezi silnicí a inženýrskými sítěmi**:
 
@@ -168,7 +208,7 @@ Praktická aplikace: každá rekonstrukce vodovodu, plynovodu nebo optické sít
 
 #### § 39
 
-> Dojde-li k podstatnému nárůstu zatížení části pozemní komunikace, jejíž stavební stav nebo dopravně technický stav tomuto nárůstu zjevně neodpovídá, je osoba, která nárůst způsobila, povinna uhradit vlastníkovi dotčené části pozemní komunikace náklady spojené s nezbytnou úpravou a opravou …
+> Dojde-li k podstatnému nárůstu zatížení části pozemní komunikace, jejíž stavební stav nebo dopravně technický stav tomuto nárůstu zjevně neodpovídá, je osoba, která nárůst způsobila, povinna uhradit vlastníkovi dotčené části pozemní komunikace náklady spojené s nezbytnou úpravou a opravou takto dotčené části pozemní komunikace. Nedojde-li k dohodě o výši úhrady s vlastníkem dotčené části pozemní komunikace, rozhodne na návrh vlastníka soud.
 
 **Výklad.** „**Nadměrné zatížení**" — typicky kamenolomy, pískovny, biomasové elektrárny generující intenzivní nákladní dopravu na obecních silnicích, které pro to nebyly projektovány. Vlastník komunikace má **soukromoprávní nárok** (rozhoduje **soud**, nikoli správní orgán) na **náhradu nákladů** úprav.
 
@@ -178,11 +218,27 @@ Kontrolní vážení je samostatný blok vložený do Části VII novelou č. 22
 
 #### § 38a
 
-> (1) Na dálnicích, silnicích a místních komunikacích se provádí kontrolní vážení a měření (dále jen „kontrolní vážení") vozidel spadajících do kategorie M2, M3, N1, N2, N3, T, C, O, R, S nebo SS …
+> (1) Na dálnicích, silnicích a místních komunikacích se provádí kontrolní vážení a měření (dále jen „kontrolní vážení“) vozidel spadajících do kategorie M2, M3, N1, N2, N3, T, C, O, R, S nebo SS10) nebo jízdních souprav tvořených těmito vozidly. Kontrolní vážení může zahrnovat kontrolu hmotnosti vozidla nebo jízdní soupravy, kontrolu poměru hmotností vozidel v jízdní soupravě, kontrolu rozložení hmotnosti na nápravy, skupiny náprav, kola nebo skupiny kol, kontrolu rozměrů vozidla nebo jízdní soupravy včetně nákladu nebo kontrolu dodržení podmínek spojitelnosti vozidel v jízdní soupravu.
 >
 > (2) Podle tohoto zákona se rozlišují dvě kategorie kontrolního vážení:
-> a) kontrolní vážení vozidla nebo jízdní soupravy nepřenosnými vysokorychlostními vahami, při kterém nedochází k odklonění vozidla z provozu (dále jen „vysokorychlostní kontrolní vážení"), a
-> b) kontrolní vážení vozidla nebo jízdní soupravy všemi jinými technickými zařízeními … při kterém dochází k odklonění vozidla z provozu (dále jen „nízkorychlostní kontrolní vážení").
+>
+> - a) kontrolní vážení vozidla nebo jízdní soupravy nepřenosnými vysokorychlostními vahami, při kterém nedochází k odklonění vozidla z provozu (dále jen „vysokorychlostní kontrolní vážení“), a
+>
+> - b) kontrolní vážení vozidla nebo jízdní soupravy všemi jinými technickými zařízeními, než jaká jsou uvedena v písmenu a) výše, při kterém dochází k odklonění vozidla z provozu (dále jen „nízkorychlostní kontrolní vážení“).
+>
+> (3) Nízkorychlostní kontrolní vážení
+>
+> - a) zajišťuje v součinnosti s Policií České republiky nebo s Inspekcí silniční dopravy vlastník pozemní komunikace nebo jím pověřená osoba, nebo
+>
+> - b) provádí Policie České republiky nebo Inspekce silniční dopravy samostatně.
+>
+> (4) Vysokorychlostní kontrolní vážení zajišťuje vlastník pozemní komunikace nebo jím pověřená osoba.
+>
+> (5) Odesílatel nesmí v dokladech, které vydal k přepravované zásilce, uvést nižší hmotnost zásilky, než je její skutečná hmotnost. Je-li zásilka přepravována v kontejneru nebo výměnné nástavbě, vydá odesílatel k zásilce doklad obsahující údaje o hmotnosti zásilky a hmotnosti kontejneru nebo výměnné nástavby. Provozovatel vozidla nebo, je-li zásilka přepravována jízdní soupravou, provozovatel jízdní soupravy zajistí, aby doklady vydané odesílatelem byly k dispozici ve vozidle nebo v jízdní soupravě, kterými je zásilka přepravována.
+>
+> (6) Provozovatelem jízdní soupravy se pro účely tohoto zákona rozumí provozovatel tažného vozidla této jízdní soupravy.
+>
+> (7) Policie České republiky a Inspekce silniční dopravy, jde-li o nízkorychlostní kontrolní vážení, a vlastníci pozemních komunikací, jde-li o vysokorychlostní kontrolní vážení, poskytnou Ministerstvu dopravy vždy do 31. května údaje za předchozí kalendářní rok o počtu jimi zajištěných nebo provedených kontrolních vážení a o počtu vozidel nebo jízdních souprav, u nichž bylo při kontrolním vážení zjištěno nedodržení hodnot pro hmotnost vozidla nebo jízdní soupravy nebo pro rozložení hmotnosti na nápravy nebo skupiny náprav stanovených zákonem o silničním provozu.
 
 **Výklad.** Dvě technologie, dvě regulace:
 
@@ -215,9 +271,13 @@ Stručná, jednoparagrafová část implementující směrnici 2010/40/EU o ITS.
 
 > (1) Inteligentní dopravní systém je souborem elektronických prostředků, technických zařízení, programového vybavení a jiných nástrojů, které umožňují vyhledávání, shromažďování, zpřístupňování, používání a jiné zpracovávání údajů o pozemních komunikacích, silničním provozu, cestování, logistice a dopravním spojení, a jehož účelem je zvýšení bezpečného a koordinovaného užívání pozemních komunikací a snížení negativních dopadů silničního provozu na životní prostředí.
 >
-> (2) Poskytovatel služby inteligentního dopravního systému je povinen při poskytování této služby užívat pouze součásti inteligentního dopravního systému, které odpovídají specifikacím stanoveným Evropskou komisí …
+> (2) Poskytovatel služby inteligentního dopravního systému je povinen při poskytování této služby užívat pouze součásti inteligentního dopravního systému, které odpovídají specifikacím stanoveným Evropskou komisí a uveřejněným v Úředním věstníku Evropské unie, a poskytovat služby inteligentního dopravního systému způsobem odpovídajícím těmto specifikacím.
 >
-> (4) Pokud Ministerstvo dopravy zjistí … že součást inteligentního dopravního systému není v souladu s požadavkem podle odstavce 2 nebo 3, uloží ochranné opatření podle zvláštního právního předpisu …
+> (3) Stanoví-li tak specifikace podle odstavce 2, lze uvádět na trh a do provozu pouze ty součásti inteligentního dopravního systému, pro které bylo provedeno posouzení shody nebo vhodnosti pro použití v souladu s touto specifikací.
+>
+> (4) Pokud Ministerstvo dopravy zjistí nebo má důvodné podezření, že součást inteligentního dopravního systému není v souladu s požadavkem podle odstavce 2 nebo 3, uloží ochranné opatření podle zvláštního právního předpisu35).
+>
+> (5) Poskytovatel služby inteligentního dopravního systému je povinen zajistit, aby jím poskytované služby byly v souladu s pravidly pro zpracování osobních údajů podle zvláštního právního předpisu36).
 
 **Výklad.** Definice ITS je široká: cokoli, co používá elektroniku a data o dopravě. Praktická aplikace pokrývá:
 
@@ -315,11 +375,13 @@ Tento úřad vznikl novelou stavebního zákona z r. 2024 (DESÚ).
 
 ### § 41 — Státní dozor
 
-> (1) Státní dozor na dálnicích, silnicích, místních komunikacích a veřejně přístupných účelových komunikacích vykonávají silniční správní úřady, celní úřady, Inspekce silniční dopravy a stavební úřady v rozsahu své působnosti. Ministerstvo dopravy vykonává státní dozor v oblasti poskytování evropské služby elektronického mýtného, v oblasti poskytování služby inteligentního dopravního systému a vrchní státní dozor …
+> (1) Státní dozor na dálnicích, silnicích, místních komunikacích a veřejně přístupných účelových komunikacích vykonávají silniční správní úřady, celní úřady, Inspekce silniční dopravy a stavební úřady v rozsahu své působnosti. Ministerstvo dopravy vykonává státní dozor v oblasti poskytování evropské služby elektronického mýtného, v oblasti poskytování služby inteligentního dopravního systému a vrchní státní dozor nad výkonem státního dozoru prováděného příslušnými silničními správními úřady a Inspekcí silniční dopravy.
 >
-> (2) Zjistí-li osoba pověřená výkonem státního dozoru porušení povinností stanovených tímto zákonem, podle potřeby a povahy zjištěných nedostatků může uložit v řízení na místě nebo v řízení zahájeném z moci úřední na základě protokolu o kontrole povinnosti k odstranění těchto nedostatků. …
+> (2) Zjistí-li osoba pověřená výkonem státního dozoru porušení povinností stanovených tímto zákonem, podle potřeby a povahy zjištěných nedostatků může uložit v řízení na místě nebo v řízení zahájeném z moci úřední na základě protokolu o kontrole povinnosti k odstranění těchto nedostatků. Rozhodnutí vydané na základě protokolu o kontrole je prvním úkonem v řízení.
 >
-> (3) Zjistí-li osoba pověřená výkonem státního dozoru při výkonu dozoru závažné závady ve stavebním stavu nebo v dopravně technickém stavu pozemní komunikace, které bezprostředně ohrožují uživatele nebo pozemní komunikaci, je oprávněna písemně nařídit vlastníku této pozemní komunikace okamžité zastavení nebo omezení jejího užívání …
+> (3) Zjistí-li osoba pověřená výkonem státního dozoru při výkonu dozoru závažné závady ve stavebním stavu nebo v dopravně technickém stavu pozemní komunikace, které bezprostředně ohrožují uživatele nebo pozemní komunikaci, je oprávněna písemně nařídit vlastníku této pozemní komunikace okamžité zastavení nebo omezení jejího užívání a vyrozumí o tom příslušný silniční správní úřad, který je povinen ve lhůtě dvou dnů zahájit příslušné správní řízení.
+>
+> (4) Pověření k výkonu státního dozoru nebo vrchního státního dozoru ve věcech pozemních komunikací ve formě průkazu vydává správní orgán, do jehož působnosti výkon dozoru spadá. Náležitosti průkazu a jeho vzor stanoví prováděcí právní předpis.
 
 **Výklad.** Státní dozor je **kontrolní pravomoc** odlišná od správního řízení o přestupcích:
 
@@ -332,8 +394,29 @@ Tento úřad vznikl novelou stavebního zákona z r. 2024 (DESÚ).
 
 ### § 41b — Údaje obce z registrů
 
-> (1) Obec využívá pro účely organizování dopravy na území obce ze základního registru obyvatel údaje v rozsahu …
-> (2) Obec využívá pro účely organizování dopravy na území obce ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci …
+> (1) Obec využívá pro účely organizování dopravy na území obce ze základního registru obyvatel údaje v rozsahu
+>
+> - a) příjmení,
+>
+> - b) jméno, popřípadě jména,
+>
+> - c) datum, místo a okres narození; u subjektu údajů, který se narodil v cizině, datum, místo a stát, kde se narodil,
+>
+> - d) adresa místa pobytu,
+>
+> - e) státní občanství, popřípadě více státních občanství,
+>
+> - f) datum, místo a okres úmrtí; jde-li o úmrtí subjektu údajů mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který nepřežil, a datum nabytí právní moci tohoto rozhodnutí.
+>
+> (2) Obec využívá pro účely organizování dopravy na území obce ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci kromě veřejně přístupných údajů údaje v rozsahu
+>
+> - a) jméno, popřípadě jména, a příjmení podnikající fyzické osoby nebo zahraniční osoby a
+>
+> - b) adresa místa pobytu v České republice, popřípadě bydliště v zahraničí podnikající fyzické osoby nebo zahraniční osoby.
+>
+> (3) Z údajů podle odstavců 1 a 2 lze v konkrétním případě využít vždy jen takové údaje, které jsou nezbytné ke splnění daného úkolu.
+>
+> Přestupky
 
 **Výklad.** Toto je **referenční ustanovení** pro obce, které potřebují pracovat s osobními údaji při dopravním plánování (např. dotazování na vlastníky vozidel parkujících v zóně placeného stání). Implementuje GDPR — viz [Komentář k GDPR](/home/vojtech/Komentar-GDPR-110-2019/). Omezení: jen **nezbytné údaje** k danému úkolu (odst. 3).
 
@@ -348,7 +431,7 @@ ZPK rozlišuje:
 Toto rozdělení je důležité **pro odpovědnostní princip**: u § 42b se uplatňuje **objektivní odpovědnost s liberací** (§ 21 ZOdPř), u § 42a klasická **subjektivní odpovědnost s presumcí zavinění** (§ 13 ZOdPř).
 
 > § 42a (1) Fyzická osoba se dopustí přestupku tím, že
-> a) v rozporu s § 19 odst. 1 omezí obecné užívání dálnice, silnice, místní komunikace nebo veřejně přístupné účelové komunikace nebo bez povolení podle § 24 nebo v rozporu s tímto povolením neoprávněně zřídí objížďku nebo neoznačí uzavírku nebo objížďku, …
+> a) v rozporu s § 19 odst. 1 omezí obecné užívání dálnice, silnice, místní komunikace nebo veřejně přístupné účelové komunikace nebo bez povolení podle § 24 nebo v rozporu s tímto povolením neoprávněně zřídí objížďku nebo neoznačí uzavírku nebo objížďku,
 
 **Výklad — celkový přehled § 42a odst. 1 (FO‑NP):**
 
@@ -392,8 +475,8 @@ Toto rozdělení je důležité **pro odpovědnostní princip**: u § 42b se upl
 > § 42a (4) Řidič vozidla se dopustí přestupku tím, že
 > a) neuposlechne výzvy policisty nebo inspektora silniční dopravy, aby podrobil vozidlo nízkorychlostnímu kontrolnímu vážení,
 > b) neuposlechne pokyn osoby obsluhující zařízení na nízkorychlostní kontrolní vážení, nebo
-> c) řídí vozidlo nebo jízdní soupravu, u nichž bylo nízkorychlostním kontrolním vážením zjištěno nedodržení hodnot …,
-> d) v rozporu se zákazem podle § 38c odst. 1 pokračuje v jízdě vozidlem nebo jízdní soupravou, u nichž bylo nízkorychlostním kontrolním vážením zjištěno nedodržení hodnot …
+> c) řídí vozidlo nebo jízdní soupravu, u nichž bylo nízkorychlostním kontrolním vážením zjištěno nedodržení hodnot nebo podmínek stanovených zákonem o silničním provozu,
+> d) v rozporu se zákazem podle § 38c odst. 1 pokračuje v jízdě vozidlem nebo jízdní soupravou, u nichž bylo nízkorychlostním kontrolním vážením zjištěno nedodržení hodnot nebo podmínek stanovených zákonem o silničním provozu.
 
 **§ 42a odst. 4** — **kontrolní vážení / řidič**: pokuta do **500 000 Kč** (standardně); příkazem na místě **100 000 Kč** (písm. a, b, d) nebo **15 000 Kč** (písm. c).
 
@@ -423,17 +506,94 @@ Toto rozdělení je důležité **pro odpovědnostní princip**: u § 42b se upl
 #### § 42b — Přestupky právnických a podnikajících fyzických osob
 
 > (1) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
-> a) v rozporu s § 19 odst. 1 omezí obecné užívání …
-> [paralelní katalog k § 42a odst. 1]
-> …
-> r) jako provozovatel vozidla v systému časového zpoplatnění oznámí osvobození vozidla od zpoplatnění …
-> s) jím provozovaným vozidlem, které je osvobozeno od zpoplatnění, je užita zpoplatněná pozemní komunikace, aniž by osvobození vozidla od zpoplatnění bylo … oznámeno Státnímu fondu dopravní infrastruktury,
-> t) jako provozovatel vozidla v systému časového zpoplatnění nesplní oznamovací povinnost …
-> u) jako provozovatel vozidla nebo jízdní soupravy provozuje vozidlo nebo jízdní soupravu, u nichž bylo kontrolním vážením zjištěno nedodržení hodnot nebo podmínek stanovených zákonem o silničním provozu,
-> v) jako odesílatel zásilky přepravované v kontejneru nebo výměnné nástavbě v rozporu s § 38a odst. 5 nevydá doklad …,
-> w) jako provozovatel vozidla nebo jízdní soupravy v rozporu s § 38a odst. 5 nezajistil, aby byly ve vozidle nebo v jízdní soupravě k dispozici doklady vydané odesílatelem k přepravované zásilce,
-> x) jako odesílatel zásilky v rozporu s § 38a odst. 5 vydá k přepravované zásilce doklad, v němž uvede nižší hmotnost zásilky …,
-> y) jako provozovatel vozidla provozuje vozidlo, s nímž byl porušen zákaz nebo omezení tranzitní nákladní dopravy …
+>
+> - a) v rozporu s § 19 odst. 1 omezí obecné užívání dálnice, silnice, místní komunikace nebo veřejně přístupné účelové komunikace nebo bez povolení podle § 24 nebo v rozporu s tímto povolením neoprávněně zřídí objížďku nebo neoznačí uzavírku nebo objížďku,
+>
+> - b) v rozporu s § 25 odst. 1 až 7 užije bez povolení zvláštního užívání dálnici, silnici nebo místní komunikaci jiným než obvyklým způsobem nebo k jiným účelům, než pro které jsou určeny, anebo nedodrží podmínky stanovené v povolení zvláštního užívání nebo v opatření obecné povahy podle § 24b,
+>
+> - c) jako vlastník věci umístěné, zřizované nebo provozované bez povolení podle § 25 odst. 1 neuposlechne v rozporu s § 25 odst. 8 výzvy k jejímu odstranění,
+>
+> - d) v rozporu s § 25 zřizuje nebo provozuje reklamní zařízení na dálnici, silnici nebo místní komunikaci nebo na silničním pomocném pozemku bez povolení ke zvláštnímu užívání nebo nedodrží podmínky tohoto povolení,
+>
+> - e) v rozporu s § 31 zřizuje nebo provozuje reklamní zařízení v silničním ochranném pásmu bez povolení podle § 31 odst. 1 nebo nedodrží podmínky tohoto povolení,
+>
+> - f) v rozporu s § 10 odst. 1 a 3 připojí sousední nemovitost nebo pozemní komunikaci k dálnici, silnici nebo místní komunikaci nebo upraví takové připojení nebo je zruší,
+>
+> - g) znečistí nebo poškodí dálnici, silnici nebo místní komunikaci, její součást nebo příslušenství, nebo veřejně přístupnou účelovou komunikaci s vozovkou,
+>
+> - h) poškodí veřejně přístupnou účelovou komunikaci bez vozovky takovým způsobem, že znemožní její obecné užívání,
+>
+> - i) na dálnici, silnici nebo místní komunikaci provádí činnost, která je podle § 19 odst. 2 písm. a) až h) zakázána,
+>
+> - j) na veřejně přístupné účelové komunikaci provádí činnost, která je na ní podle § 19 odst. 3 zakázána,
+>
+> - k) bez průtahů neodstraní jí způsobené znečištění dálnice, silnice nebo místní komunikace, ani neprodleně místo takového znečištění alespoň provizorně neoznačí nebo neprodleně takovou závadu neoznámí vlastníku, popřípadě správci pozemní komunikace,
+>
+> - l) neprodleně neoznámí jí způsobené poškození dálnice, silnice nebo místní komunikace vlastníku, popřípadě správci pozemní komunikace anebo neprodleně místo takového poškození alespoň provizorním způsobem neoznačí,
+>
+> - m) v rozporu s § 29 umístí na pozemní komunikaci pevnou překážku nebo ji neodstraní na svůj náklad ve lhůtě stanovené silničním správním úřadem,
+>
+> - n) v rozporu s § 32 provádí stavbu nebo nestavební záměr v silničním ochranném pásmu bez povolení stavebního úřadu nebo v rozporu s tímto povolením,
+>
+> - o) v silničním ochranném pásmu na vnitřní straně oblouku silnice nebo místní komunikace I. nebo II. třídy anebo v rozhledových trojúhelnících prostorů úrovňových křižovatek těchto pozemních komunikací provádí činnost v rozporu s § 33,
+>
+> - p) jako vlastník nemovitosti v sousedství dálnice, silnice nebo místní komunikace nestrpí provedení nezbytných opatření k zabránění sesuvů půdy, padání kamenů, lavin a stromů nebo jejich částí, vznikne-li takové nebezpečí výstavbou nebo provozem pozemní komunikace anebo přírodními vlivy,
+>
+> - q) jako vlastník nemovitosti v sousedství dálnice, silnice nebo místní komunikace neučiní na svůj náklad nezbytná opatření k zabránění sesuvů půdy, padání kamenů, lavin a stromů nebo jejich částí, vznikne-li takové nebezpečí z jeho jednání,
+>
+> - r) jako provozovatel vozidla v systému časového zpoplatnění oznámí osvobození vozidla od zpoplatnění Státnímu fondu dopravní infrastruktury podle § 21b odst. 1, aniž by byly naplněny důvody pro osvobození vozidla od zpoplatnění,
+>
+> - s) jím provozovaným vozidlem, které je osvobozeno od zpoplatnění, je užita zpoplatněná pozemní komunikace, aniž by osvobození vozidla od zpoplatnění bylo podle § 21 odst. 1 písm. b) oznámeno Státnímu fondu dopravní infrastruktury,
+>
+> - t) jako provozovatel vozidla v systému časového zpoplatnění nesplní oznamovací povinnost podle § 21b odst. 5,
+>
+> - u) jako provozovatel vozidla nebo jízdní soupravy provozuje vozidlo nebo jízdní soupravu, u nichž bylo kontrolním vážením zjištěno nedodržení hodnot nebo podmínek stanovených zákonem o silničním provozu,
+>
+> - v) jako odesílatel zásilky přepravované v kontejneru nebo výměnné nástavbě v rozporu s § 38a odst. 5 nevydá doklad obsahující údaje o hmotnosti zásilky a hmotnosti kontejneru nebo výměnné nástavby,
+>
+> - w) jako provozovatel vozidla nebo jízdní soupravy v rozporu s § 38a odst. 5 nezajistil, aby byly ve vozidle nebo v jízdní soupravě k dispozici doklady vydané odesílatelem k přepravované zásilce,
+>
+> - x) jako odesílatel zásilky v rozporu s § 38a odst. 5 vydá k přepravované zásilce doklad, v němž uvede nižší hmotnost zásilky, kontejneru nebo výměnné nástavby, než je jejich skutečná hmotnost, pokud je u vozidla nebo jízdní soupravy kontrolním vážením zjištěno nedodržení hodnot nebo podmínek stanovených zákonem o silničním provozu, s výjimkou překročení největších povolených rozměrů vozidel nebo jízdních souprav,
+>
+> - y) jako provozovatel vozidla provozuje vozidlo, s nímž byl porušen zákaz nebo omezení tranzitní nákladní dopravy stanovené místní úpravou provozu na pozemních komunikacích podle zvláštního právního předpisu2).
+>
+> (2) Právnická nebo podnikající fyzická osoba se jako provozovatel vozidla v systému elektronického mýtného dopustí přestupku tím, že v rozporu s § 22i
+>
+> - a) nezajistí zaevidování vozidla do systému elektronického mýtného, k zaevidování poskytne nesprávné údaje nebo nenahlásí bez zbytečného odkladu změnu údajů potřebných k zaevidování,
+>
+> - b) nezajistí instalování zaevidovaného elektronického zařízení do vozidla,
+>
+> - c) nezajistí úhradu mýtného,
+>
+> - d) přikáže, dovolí nebo svěří řízení vozidla v systému elektronického mýtného, které není vybaveno funkčním elektronickým zařízením, po zpoplatněné pozemní komunikaci,
+>
+> - e) užije elektronické zařízení určené na konkrétní vozidlo a zaevidované v systému elektronického mýtného do jiného vozidla v systému elektronického mýtného, nebo
+>
+> - f) nepoučí řidiče jím provozovaných vozidel o způsobu nakládání s elektronickým zařízením a jeho užívání.
+>
+> (3) Právnická nebo podnikající fyzická osoba se jako vlastník sítě nebo vedení dopustí přestupku tím, že
+>
+> - a) v rozporu s § 36 odst. 6 neprodleně neuzavře nebo neoznačí příslušnou část pozemní komunikace v případě havárie této sítě nebo tohoto vedení anebo havárii neprodleně neoznámí vlastníku, popřípadě správci pozemní komunikace,
+>
+> - b) v rozporu s § 36 odst. 6 neoznámí vlastníku, popřípadě správci pozemní komunikace provedení nezbytných prací k bezprostřednímu odstranění havárie této sítě nebo tohoto vedení anebo neoznačí nebo nezabezpečí místo provádění těchto prací, nebo
+>
+> - c) v rozporu s § 36 odst. 5 nesplní povinnost zajistit bezúplatně potřebné podklady a odborný dozor při provádění stavebních prací na dálnici, silnici nebo místní komunikaci.
+>
+> (4) Právnická nebo podnikající fyzická osoba se jako vlastník nemovitosti v silničním ochranném pásmu dopustí přestupku tím, že na takové nemovitosti strpí umístění reklamního zařízení bez povolení silničního správního úřadu.
+>
+> (5) Právnická nebo podnikající fyzická osoba se jako poskytovatel služby inteligentního dopravního systému dopustí přestupku tím, že užívá součást inteligentního dopravního systému, která neodpovídá specifikacím podle § 39a odst. 2, nebo poskytuje službu inteligentního dopravního systému způsobem neodpovídajícím těmto specifikacím.
+>
+> (6) Za přestupek lze uložit pokutu
+>
+> - a) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), u), v) a x) a odstavce 5,
+>
+> - b) do 300 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), d), e), f), g), i), k), l), m), o) a q),
+>
+> - c) do 200 000 Kč, jde-li o přestupek podle odstavce 1 písm. h), j) a p) a odstavců 3 a 4,
+>
+> - d) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. n), r), w) a y) a odstavce 2,
+>
+> - e) do 5 000 Kč, jde-li o přestupek podle odstavce 1 písm. s) a t).
 
 **Výklad — § 42b odst. 1.** Skladba paralelně k § 42a odst. 1 + specifika **dopravce / odesílatele**:
 
@@ -443,19 +603,19 @@ Toto rozdělení je důležité **pro odpovědnostní princip**: u § 42b se upl
 - **písm. y)** — **tranzit nákladní dopravy** mimo povolenou trasu. Tento přestupek byl zaveden zejména pro vymáhání **zákazu kamionů na obecních silnicích** (Praha, lázeňské obce).
 
 > (2) Právnická nebo podnikající fyzická osoba se jako provozovatel vozidla v systému elektronického mýtného dopustí přestupku tím, že v rozporu s § 22i
-> a) nezajistí zaevidování vozidla do systému elektronického mýtného …
-> b) nezajistí instalování zaevidovaného elektronického zařízení …
-> c) nezajistí úhradu mýtného,
-> d) přikáže, dovolí nebo svěří řízení vozidla v systému elektronického mýtného, které není vybaveno funkčním elektronickým zařízením, …
-> e) užije elektronické zařízení určené na konkrétní vozidlo … do jiného vozidla …,
-> f) nepoučí řidiče … o způsobu nakládání s elektronickým zařízením …
+> - a) nezajistí zaevidování vozidla do systému elektronického mýtného, k zaevidování poskytne nesprávné údaje nebo nenahlásí bez zbytečného odkladu změnu údajů potřebných k zaevidování,
+> - b) nezajistí instalování zaevidovaného elektronického zařízení do vozidla,
+> - c) nezajistí úhradu mýtného,
+> - d) přikáže, dovolí nebo svěří řízení vozidla v systému elektronického mýtného, které není vybaveno funkčním elektronickým zařízením, po zpoplatněné pozemní komunikaci,
+> - e) užije elektronické zařízení určené na konkrétní vozidlo a zaevidované v systému elektronického mýtného do jiného vozidla v systému elektronického mýtného, nebo
+> - f) nepoučí řidiče jím provozovaných vozidel o způsobu nakládání s elektronickým zařízením a jeho užívání.
 
 **§ 42b odst. 2** — **přestupek dopravce v SEM**: paralelní k § 42a odst. 3, ale na úrovni **provozovatele** (právnické osoby). Pokuta do 100 000 Kč.
 
 > (3) Právnická nebo podnikající fyzická osoba se jako vlastník sítě nebo vedení dopustí přestupku tím, že
-> a) v rozporu s § 36 odst. 6 neprodleně neuzavře nebo neoznačí příslušnou část pozemní komunikace v případě havárie …,
-> b) v rozporu s § 36 odst. 6 neoznámí … provedení nezbytných prací k bezprostřednímu odstranění havárie …,
-> c) v rozporu s § 36 odst. 5 nesplní povinnost zajistit bezúplatně potřebné podklady a odborný dozor …
+> - a) v rozporu s § 36 odst. 6 neprodleně neuzavře nebo neoznačí příslušnou část pozemní komunikace v případě havárie této sítě nebo tohoto vedení anebo havárii neprodleně neoznámí vlastníku, popřípadě správci pozemní komunikace,
+> - b) v rozporu s § 36 odst. 6 neoznámí vlastníku, popřípadě správci pozemní komunikace provedení nezbytných prací k bezprostřednímu odstranění havárie této sítě nebo tohoto vedení anebo neoznačí nebo nezabezpečí místo provádění těchto prací, nebo
+> - c) v rozporu s § 36 odst. 5 nesplní povinnost zajistit bezúplatně potřebné podklady a odborný dozor při provádění stavebních prací na dálnici, silnici nebo místní komunikaci.
 
 **§ 42b odst. 3** — **vlastník inženýrské sítě** (vodárna, ČEZ, ČEPS, CETIN) při havárii pod silnicí nebo v silnici. Pokuta do 200 000 Kč.
 
@@ -479,7 +639,25 @@ Toto rozdělení je důležité **pro odpovědnostní princip**: u § 42b se upl
 
 ### § 43 — Společná ustanovení k § 42a a § 42b
 
-> (1) Jde-li o přestupek podle § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u), činí výměra pokuty 9 000 Kč za každou započatou tunu, která překračuje největší povolenou hmotnost vozidla nebo jízdní soupravy stanovenou zákonem o silničním provozu. Není-li nejvyšší povolená hmotnost vozidla nebo jízdní soupravy překročena o více než 500 kg, činí výměra pokuty 5 000 Kč. …
+> (1) Jde-li o přestupek podle § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u), činí výměra pokuty 9 000 Kč za každou započatou tunu, která překračuje největší povolenou hmotnost vozidla nebo jízdní soupravy stanovenou zákonem o silničním provozu. Není-li nejvyšší povolená hmotnost vozidla nebo jízdní soupravy překročena o více než 500 kg, činí výměra pokuty 5 000 Kč. Bylo-li zjištěno překročení největší povolené hmotnosti vozidla i jízdní soupravy, určí se výměra pokuty podle největšího překročení. Bylo-li kontrolním vážením zjištěno nedodržení jiné hodnoty nebo podmínky stanovené zákonem o silničním provozu, věty první a druhá se nepoužijí. Výměra pokuty ukládané příkazem za přestupek podle § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u) činí polovinu výměry pokuty podle věty první nebo druhé; v případě podání odporu není dotčena výše pokuty podle věty první nebo druhé.
+>
+> (2) Přestupky podle tohoto zákona projednává v přenesené působnosti obecní úřad obce s rozšířenou působností nebo Ministerstvo dopravy podle působnosti stanovené v § 40 odst. 2 písm. i) anebo celní úřad podle působnosti stanovené v § 40 odst. 9. Přestupky podle § 42a odst. 2 a 3 může projednat příkazem na místě Policie České republiky nebo celní úřad. Přestupky podle § 42a odst. 4 může projednat příkazem na místě Policie České republiky nebo Inspekce silniční dopravy. Přestupky podle § 42a odst. 1 písm. a), b), g), h), i), j) a k) může projednat příkazem na místě obecní policie nebo Policie České republiky.
+>
+> (3) Příjem z pokut uložených za přestupky podle § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u) je ze 40 % příjmem vlastníka pozemní komunikace, na níž bylo kontrolní vážení provedeno, v případě pozemní komunikace ve vlastnictví státu je příjmem Státního fondu dopravní infrastruktury, ze 30 % příjmem kraje, v jehož územním obvodu bylo kontrolní vážení provedeno, a z 30 % příjmem rozpočtu, ze kterého je hrazena činnost orgánu, který pokutu uložil. Pokuta uložená za přestupek podle tohoto zákona, která byla předána obecním úřadem obce s rozšířenou působností obecnému správci daně ke správě placení, je z 30 % příjmem státního rozpočtu a ze 70 % příjmem obce, jejíž orgán pokutu uložil, nejedná-li se o pokutu podle § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u).
+>
+> (4) Pokud je provozovatel vozidla nebo jízdní soupravy, u nichž je při nízkorychlostním kontrolním vážení zjištěno nedodržení hodnot nebo podmínek stanovených zákonem o silničním provozu, současně jeho řidičem, odpovídá pouze za přestupek provozovatele vozidla nebo jízdní soupravy.
+>
+> (5) S výjimkou překročení největších povolených rozměrů vozidel a jízdních souprav není řidič vozidla odpovědný za přestupek podle § 42a odst. 4 písm. c), pokud prokáže, že odesílatel nebo provozovatel vozidla mu vydal k přepravované zásilce doklad, v němž uvedl nižší hmotnost zásilky, než je její skutečná hmotnost, a při převzetí zásilky nemohl provést kontrolu hmotnosti zásilky. Řidič není dále odpovědný za přestupek podle § 42a odst. 4 písm. c), pokud bylo při kontrolním vážení zjištěno pouze nedodržení hodnot pro rozložení hmotnosti na nápravy, skupiny náprav, kola nebo skupiny kol stanovených zákonem o silničním provozu a řidič prokázal, že byl přepravován pouze sypký materiál, jehož pohybu během přepravy nemohl bez nepřiměřených opatření zabránit.
+>
+> (6) Pokud správní orgán rozhodne o uložení správního trestu za přestupek spáchaný protiprávním jednáním uvedeným v přímo použitelných předpisech Evropské unie upravujících klasifikaci závažných porušení, která mohou vést ke ztrátě dobré pověsti28), dopravci provozujícímu silniční dopravu velkými vozidly pro cizí potřeby podle zákona o silniční dopravě nebo jeho odpovědnému zástupci, zašle kopii pravomocného rozhodnutí dopravnímu úřadu podle zákona o silniční dopravě, v jehož správním obvodu
+>
+> - a) je sídlo dopravce, jde-li o dopravce, který je usazen v České republice, nebo
+>
+> - b) má tento správní orgán sídlo, jde-li o dopravce, který není usazen v České republice.
+>
+> (7) Nepodaří-li se adresátovi, jehož sídlo nebo pobyt, popřípadě jiná adresa pro doručování je v cizině, doručit oznámení o zahájení řízení o přestupku, příkaz vydávaný jako první úkon v řízení o přestupku nebo jinou písemnost v řízení o přestupku podle tohoto zákona, doručí se mu tato písemnost i další písemnosti v tomto řízení prostřednictvím veřejné vyhlášky; opatrovník se mu neustanovuje. Správní orgán současně učiní pokus vyrozumět adresáta vhodným způsobem o dalších doručovaných písemnostech, pokud jsou jeho sídlo, pobyt, adresa pro doručování nebo elektronická adresa známy.
+>
+> (8) Vymezení materiálu, který lze považovat za sypký materiál podle odstavce 5, a jeho fyzikálních vlastností stanoví prováděcí právní předpis.
 
 **Výklad — odst. 1 (přetížení).** „**Tunový tarif**" — fixní 9 000 Kč × tuna. Pro praxi: kamion s povolenou hmotností 40 t naložený na 47 t → **63 000 Kč** (7 t × 9 000 Kč). Při výrobě v lomu / pískovně tedy několik tisíc přetížených jízd ročně může činit **milionové sankce**. Pokud je překročení do 500 kg, „pevný" minimální tarif 5 000 Kč. **Příkazem** (= příkaz na místě nebo příkaz vydávaný jako první úkon) se ukládá **polovina** této částky.
 
@@ -494,7 +672,7 @@ Toto rozdělení je důležité **pro odpovědnostní princip**: u § 42b se upl
 
 **Praktický dopad:** obecní policie může uložit pokutu **na místě** za zakázaná parkování na chodníku (§ 19/2 — zakázané činnosti). To je důležitý nástroj obcí.
 
-> (3) Příjem z pokut uložených za přestupky podle § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u) je ze 40 % příjmem vlastníka pozemní komunikace, na níž bylo kontrolní vážení provedeno, v případě pozemní komunikace ve vlastnictví státu je příjmem Státního fondu dopravní infrastruktury, ze 30 % příjmem kraje, v jehož územním obvodu bylo kontrolní vážení provedeno, a z 30 % příjmem rozpočtu, ze kterého je hrazena činnost orgánu, který pokutu uložil. Pokuta uložená za přestupek podle tohoto zákona, která byla předána obecním úřadem obce s rozšířenou působností obecnému správci daně ke správě placení, je z 30 % příjmem státního rozpočtu a ze 70 % příjmem obce, jejíž orgán pokutu uložil …
+> (3) Příjem z pokut uložených za přestupky podle § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u) je ze 40 % příjmem vlastníka pozemní komunikace, na níž bylo kontrolní vážení provedeno, v případě pozemní komunikace ve vlastnictví státu je příjmem Státního fondu dopravní infrastruktury, ze 30 % příjmem kraje, v jehož územním obvodu bylo kontrolní vážení provedeno, a z 30 % příjmem rozpočtu, ze kterého je hrazena činnost orgánu, který pokutu uložil. Pokuta uložená za přestupek podle tohoto zákona, která byla předána obecním úřadem obce s rozšířenou působností obecnému správci daně ke správě placení, je z 30 % příjmem státního rozpočtu a ze 70 % příjmem obce, jejíž orgán pokutu uložil, nejedná-li se o pokutu podle § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u).
 
 **Výklad — odst. 3 (rozpočtové dělení pokut).** Klíčová motivace pro **kontrolní vážení**:
 
@@ -507,7 +685,7 @@ To je důvod, proč obce zřídily „**Tým kontrolního vážení**" jako de f
 
 **Výklad — odst. 4 (zákaz dvojího postihu).** Pokud OSVČ-dopravce řídí vlastní vozidlo a má přetížení, odpovídá **jen jako provozovatel** (§ 42b odst. 1 písm. u), 9 000 Kč/t), **NIKOLI** zároveň jako řidič (§ 42a odst. 4 písm. c). To je provedení **zásady ne bis in idem** v ZPK.
 
-> (5) S výjimkou překročení největších povolených rozměrů vozidel a jízdních souprav není řidič vozidla odpovědný za přestupek podle § 42a odst. 4 písm. c), pokud prokáže, že odesílatel nebo provozovatel vozidla mu vydal k přepravované zásilce doklad, v němž uvedl nižší hmotnost zásilky … a při převzetí zásilky nemohl provést kontrolu hmotnosti zásilky. …
+> (5) S výjimkou překročení největších povolených rozměrů vozidel a jízdních souprav není řidič vozidla odpovědný za přestupek podle § 42a odst. 4 písm. c), pokud prokáže, že odesílatel nebo provozovatel vozidla mu vydal k přepravované zásilce doklad, v němž uvedl nižší hmotnost zásilky, než je její skutečná hmotnost, a při převzetí zásilky nemohl provést kontrolu hmotnosti zásilky. Řidič není dále odpovědný za přestupek podle § 42a odst. 4 písm. c), pokud bylo při kontrolním vážení zjištěno pouze nedodržení hodnot pro rozložení hmotnosti na nápravy, skupiny náprav, kola nebo skupiny kol stanovených zákonem o silničním provozu a řidič prokázal, že byl přepravován pouze sypký materiál, jehož pohybu během přepravy nemohl bez nepřiměřených opatření zabránit.
 
 **Výklad — odst. 5 (liberace řidiče).** Řidič **není odpovědný** za přetížení, pokud:
 - prokáže, že **odesílatel uvedl nižší hmotnost** v dokladech, a
@@ -515,19 +693,45 @@ To je důvod, proč obce zřídily „**Tým kontrolního vážení**" jako de f
 
 Druhá liberace: **přeprava sypkého materiálu** (písek, štěrk) — pokud se zboží během přepravy přesypalo, řidič se může liberovat. Definice „sypkého materiálu" je v prováděcím předpisu (vyhláška 209/2018 Sb. — k § 43 odst. 8).
 
-> (6) Pokud správní orgán rozhodne o uložení správního trestu za přestupek spáchaný protiprávním jednáním uvedeným v přímo použitelných předpisech Evropské unie upravujících klasifikaci závažných porušení, která mohou vést ke ztrátě dobré pověsti, dopravci provozujícímu silniční dopravu velkými vozidly pro cizí potřeby … zašle kopii pravomocného rozhodnutí dopravnímu úřadu …
+> (6) Pokud správní orgán rozhodne o uložení správního trestu za přestupek spáchaný protiprávním jednáním uvedeným v přímo použitelných předpisech Evropské unie upravujících klasifikaci závažných porušení, která mohou vést ke ztrátě dobré pověsti28), dopravci provozujícímu silniční dopravu velkými vozidly pro cizí potřeby podle zákona o silniční dopravě nebo jeho odpovědnému zástupci, zašle kopii pravomocného rozhodnutí dopravnímu úřadu podle zákona o silniční dopravě, v jehož správním obvodu
+> - a) je sídlo dopravce, jde-li o dopravce, který je usazen v České republice, nebo
+> - b) má tento správní orgán sídlo, jde-li o dopravce, který není usazen v České republice.
 
 **Výklad — odst. 6 (nařízení 1071/2009).** Eurorámec dobré pověsti dopravce: závažné přestupky (typicky opakovaná přetížení) → dopravce může **ztratit dobrou pověst** a tím i **koncesní licenci**. Komunikace mezi silničním správním úřadem a dopravním úřadem podle zákona o silniční dopravě.
 
-> (7) Nepodaří-li se adresátovi, jehož sídlo nebo pobyt … je v cizině, doručit oznámení o zahájení řízení o přestupku, příkaz vydávaný jako první úkon v řízení o přestupku nebo jinou písemnost v řízení o přestupku podle tohoto zákona, doručí se mu tato písemnost i další písemnosti v tomto řízení prostřednictvím veřejné vyhlášky; opatrovník se mu neustanovuje. …
+> (7) Nepodaří-li se adresátovi, jehož sídlo nebo pobyt, popřípadě jiná adresa pro doručování je v cizině, doručit oznámení o zahájení řízení o přestupku, příkaz vydávaný jako první úkon v řízení o přestupku nebo jinou písemnost v řízení o přestupku podle tohoto zákona, doručí se mu tato písemnost i další písemnosti v tomto řízení prostřednictvím veřejné vyhlášky; opatrovník se mu neustanovuje. Správní orgán současně učiní pokus vyrozumět adresáta vhodným způsobem o dalších doručovaných písemnostech, pokud jsou jeho sídlo, pobyt, adresa pro doručování nebo elektronická adresa známy.
 
 **Výklad — odst. 7 (cizinci).** **Speciální procesní pravidlo** pro doručování zahraničním pachatelům. **Vylučuje obecná pravidla SŘ**: lze doručovat **veřejnou vyhláškou** bez ustanovení opatrovníka. Účelem je překonat praktickou nedostupnost dopravců z balkánských zemí, Ukrajiny apod.
 
 ### § 43a — Vybírání kaucí
 
 > (1) Celník je oprávněn vybrat kauci v rozmezí od 2 500 Kč do 200 000 Kč od řidiče motorového vozidla
-> a) který je podezřelý ze spáchání přestupku uvedeného v § 42a odst. 2 a 3 a u kterého je důvodné podezření, že se bude vyhýbat přestupkovému řízení nebo že by případné vymáhání uložené pokuty bylo spojeno s nepřiměřenými náklady …, nebo
-> b) v případě, že provozovatel tohoto vozidla je podezřelý ze spáchání přestupku uvedeného v § 42b odst. 1 písm. r) nebo § 42b odst. 2 písm. a) až e) …
+>
+> - a) který je podezřelý ze spáchání přestupku uvedeného v § 42a odst. 2 a 3 a u kterého je důvodné podezření, že se bude vyhýbat přestupkovému řízení nebo že by případné vymáhání uložené pokuty bylo spojeno s nepřiměřenými náklady, popřípadě nebylo vůbec možné, nebo
+>
+> - b) v případě, že provozovatel tohoto vozidla je podezřelý ze spáchání přestupku uvedeného v § 42b odst. 1 písm. r) nebo § 42b odst. 2 písm. a) až e) a je důvodné podezření, že se bude vyhýbat řízení o přestupku nebo že by případné vymáhání uložené pokuty bylo spojeno s nepřiměřenými náklady, popřípadě nebylo vůbec možné.
+>
+> (2) Policista je oprávněn vybrat kauci v rozmezí od 2 500 Kč do 200 000 Kč od řidiče motorového vozidla
+>
+> - a) který je podezřelý ze spáchání přestupku uvedeného v § 42a odst. 2 a 4 a u kterého je důvodné podezření, že se bude vyhýbat přestupkovému řízení nebo že by případné vymáhání uložené pokuty bylo spojeno s nepřiměřenými náklady, popřípadě nebylo vůbec možné, nebo
+>
+> - b) v případě, že provozovatel tohoto vozidla je podezřelý ze spáchání přestupku uvedeného v § 42a odst. 1 písm. r) a § 42b odst. 1 písm. u) a je důvodné podezření, že se bude vyhýbat řízení o přestupku nebo že by případné vymáhání uložené pokuty bylo spojeno s nepřiměřenými náklady, popřípadě nebylo vůbec možné.
+>
+> (3) Inspektor silniční dopravy je oprávněn vybrat kauci v rozmezí od 2 500 Kč do 200 000 Kč od řidiče motorového vozidla
+>
+> - a) který je podezřelý ze spáchání přestupku uvedeného v § 42a odst. 4 a u kterého je důvodné podezření, že se bude vyhýbat přestupkovému řízení nebo že by případné vymáhání uložené pokuty bylo spojeno s nepřiměřenými náklady, popřípadě nebylo vůbec možné, nebo
+>
+> - b) v případě, že provozovatel tohoto vozidla je podezřelý ze spáchání přestupku uvedeného v § 42a odst. 1 písm. r) nebo § 42b odst. 1 písm. u) a je důvodné podezření, že se bude vyhýbat řízení o přestupku nebo že by případné vymáhání uložené pokuty bylo spojeno s nepřiměřenými náklady, popřípadě nebylo vůbec možné.
+>
+> (4) Při stanovení výše kauce se přihlíží k závažnosti, významu a době trvání protiprávního jednání a rozsahu způsobené škody. Výše kauce nesmí překročit nejvyšší výměru pokuty, kterou lze za daný přestupek uložit.
+>
+> (5) Kauci nelze vybrat od osoby, která požívá imunit a výsad podle zákona nebo mezinárodního práva.
+>
+> (6) Při výběru kauce policista, celník nebo inspektor silniční dopravy poučí řidiče o důsledku vybrání kauce a podmínkách jejího vracení a vystaví potvrzení o převzetí kauce. V potvrzení musí být uveden důvod uložení kauce, její výše a úřad, který je příslušný k vedení řízení o přestupku.
+>
+> (7) Jedno vyhotovení potvrzení o převzetí kauce vydá policista, celník nebo inspektor silniční dopravy řidiči, jedno vyhotovení doručí v případě uvedeném v odstavci 1 písm. b), odstavci 2 písm. b) nebo odstavci 3 písm. b) bez zbytečného odkladu provozovateli vozidla a jedno vyhotovení ponechá pro evidenční účely Policie České republiky, celního úřadu nebo Inspekce silniční dopravy.
+>
+> (8) V případě, že kauci vybral policista nebo inspektor silniční dopravy, Policie České republiky nebo Inspekce silniční dopravy předá jedno vyhotovení potvrzení o převzetí kauce úřadu příslušnému k vedení řízení o přestupku a převede vybranou kauci nejpozději následující pracovní den na bankovní účet tohoto úřadu.
 
 **Výklad — § 43a.** **Kauce** = preventivní složení peněžní jistoty od podezřelého z přestupku. **Tři aprobované orgány**:
 
@@ -541,9 +745,31 @@ Druhá liberace: **přeprava sypkého materiálu** (písek, štěrk) — pokud s
 
 ### § 43b — Zabránění v jízdě
 
-> (1) Je-li celník, policista nebo inspektor silniční dopravy oprávněn vybrat od řidiče motorového vozidla kauci podle § 43a a řidič kauci na jeho výzvu nesloží, přikáže celník, policista nebo inspektor silniční dopravy řidiči motorového vozidla jízdu na nejbližší místo … vhodné k odstavení vozidla, a
-> a) zabrání mu v jízdě použitím technického prostředku k zabránění odjezdu vozidla nebo odtažením vozidla, nebo
-> b) zakáže pokračovat v jízdě a zadrží tabulky státní poznávací značky vozidla; pokud je řidič vozidla odmítne na výzvu celníka, policisty nebo inspektora silniční dopravy vydat, tabulky státní poznávací značky odejme.
+> (1) Je-li celník, policista nebo inspektor silniční dopravy oprávněn vybrat od řidiče motorového vozidla kauci podle § 43a a řidič kauci na jeho výzvu nesloží, přikáže celník, policista nebo inspektor silniční dopravy řidiči motorového vozidla jízdu na nejbližší místo, které je z hlediska bezpečnosti a plynulosti provozu na pozemních komunikacích vhodné k odstavení vozidla, a
+>
+> - a) zabrání mu v jízdě použitím technického prostředku k zabránění odjezdu vozidla nebo odtažením vozidla, nebo
+>
+> - b) zakáže pokračovat v jízdě a zadrží tabulky státní poznávací značky vozidla; pokud je řidič vozidla odmítne na výzvu celníka, policisty nebo inspektora silniční dopravy vydat, tabulky státní poznávací značky odejme.
+>
+> (2) Náklady spojené s postupem podle odstavce 1 jdou k tíži osoby podezřelé ze spáchání přestupku. Odpovědnost řidiče nebo provozovatele vozidla za vozidlo, náklad nebo přepravované osoby není postupem podle odstavce 1 dotčena. Škoda na vozidle způsobená odejmutím tabulek státní poznávací značky vozidla jde k tíži řidiče.
+>
+> (3) Při postupu podle odstavce 1 poučí celník, policista nebo inspektor silniční dopravy řidiče o podmínkách uvolnění vozidla nebo vrácení zadržených tabulek státní poznávací značky vozidla a vystaví potvrzení o zabránění v jízdě nebo o zadržení tabulek státní poznávací značky vozidla. V potvrzení uvede důvod zabránění v jízdě nebo zadržení tabulek státní poznávací značky vozidla, důvod uložení kauce a její výši a správní orgán příslušný k vedení řízení o přestupku. Celník, policista nebo inspektor silniční dopravy vydá 1 vyhotovení potvrzení řidiči, 1 vyhotovení zašle bez zbytečného odkladu provozovateli vozidla, nejde-li o tutéž osobu, 1 vyhotovení zašle správnímu orgánu příslušnému k vedení řízení o přestupku a 1 vyhotovení ponechá pro evidenční účely celního úřadu, Policie České republiky nebo Inspekce silniční dopravy.
+>
+> (4) V případě zabránění v jízdě nebo zadržení tabulek státní poznávací značky lze kauci složit u orgánu, v jehož působnosti byl tento úkon proveden, nebo u správního orgánu příslušného k vedení řízení o přestupku. Orgán, který kauci vybral, o tom vydá řidiči potvrzení; na obsah potvrzení se § 43a odst. 6 použije obdobně. Celní úřad, Policie České republiky nebo Inspekce silniční dopravy zašle potvrzení o převzetí kauce spolu s kaucí nejpozději do 2 pracovních dnů správnímu orgánu, který je příslušný k vedení řízení o přestupku. O složení kauce u správního orgánu příslušného k vedení řízení o přestupku tento správní orgán bezodkladně informuje orgán, v jehož působnosti byl úkon podle odstavce 1 proveden.
+>
+> (5) Netrvá-li jiný důvod pro zabránění v jízdě nebo zadržení tabulek státní poznávací značky vozidla, celní úřad, Policie České republiky nebo Inspekce silniční dopravy zajistí uvolnění vozidla nebo vrácení tabulek státní poznávací značky vozidla, pokud
+>
+> - a) byla složena kauce,
+>
+> - b) byla věc odložena, řízení o přestupku bylo zastaveno nebo nebyla uložena pokuta v řízení o přestupku, nebo
+>
+> - c) byla zaplacena pokuta uložená v řízení o přestupku a náklady řízení.
+>
+> (6) Zabránit řidiči v jízdě nebo zakázat mu pokračovat v jízdě nelze, pokud by vozidlo tvořilo překážku provozu na pozemních komunikacích nebo jsou-li ve vozidle převážena živá zvířata.
+>
+> (7) Nevrátí-li celní úřad, Policie České republiky nebo Inspekce silniční dopravy zadržené tabulky státní poznávací značky vozidla do 3 let ode dne jejich zadržení, řidiči nebo provozovateli vozidla se tyto tabulky již nevrací a celní úřad, Policie České republiky nebo Inspekce silniční dopravy je předá správnímu orgánu příslušnému k vedení registru vozidel nebo cizímu státu, který je vydal.
+>
+> (8) O zadržení nebo vrácení tabulek státní poznávací značky vozidla zapsaného v registru silničních vozidel informuje celní úřad, Policie České republiky nebo Inspekce silniční dopravy Ministerstvo dopravy způsobem umožňujícím dálkový přístup.
 
 **Výklad — § 43b.** Operativní donucovací nástroj:
 
@@ -570,7 +796,13 @@ Druhá liberace: **přeprava sypkého materiálu** (písek, štěrk) — pokud s
 
 ### § 43d — Informační formulář (zahraniční řidiči)
 
-> (1) Pokud je podezřelým z přestupku podle § 42a odst. 2, § 42a odst. 3 nebo § 42b odst. 2 písm. a) až e) řidič nebo provozovatel vozidla, které je registrováno v jiném členském státě Evropské unie, zašle celní úřad této osobě spolu s oznámením o zahájení řízení nebo spolu s příkazem, který je vydáván jako první úkon v řízení, informační formulář v úředním jazyce tohoto členského státu Evropské unie …
+> (1) Pokud je podezřelým z přestupku podle § 42a odst. 2, § 42a odst. 3 nebo § 42b odst. 2 písm. a) až e) řidič nebo provozovatel vozidla, které je registrováno v jiném členském státě Evropské unie, zašle celní úřad této osobě spolu s oznámením o zahájení řízení nebo spolu s příkazem, který je vydáván jako první úkon v řízení, informační formulář v úředním jazyce tohoto členského státu Evropské unie; je-li známo, v jakém jazyce bylo osvědčení o registraci vozidla vydáno, zašle celní úřad informační formulář v tomto jazyce.
+>
+> (2) Informační formulář musí obsahovat popis skutku s označením místa a času jeho spáchání, označení přestupku, jehož znaky skutek vykazuje, a vymezení správních trestů, které lze za přestupek uložit. Informační formulář zasílaný spolu s příkazem obsahuje dále vymezení správního trestu, který je příkazem ukládán, a poučení o právu podat proti příkazu odpor. V případě, že jde o skutek zjištěný prostřednictvím automatizovaného technického prostředku, musí informační formulář obsahovat identifikační údaje o tomto prostředku.
+>
+> (3) Celní úřad poskytne Ministerstvu dopravy vždy do 28. února údaje o počtu zahájených řízení, ve kterých v předchozím kalendářním roce postupoval podle odstavce 1.
+>
+> (4) Vzor informačního formuláře stanoví prováděcí právní předpis.
 
 **Výklad.** **Implementace směrnice (EU) 2019/520** (EETS). Pro zahraniční řidiče registrované v EU **musí** být oznámení doplněno **informačním formulářem v jejich úředním jazyce**. Cíl: zajistit, aby zahraniční dopravce **mohl porozumět** přestupkovému příkazu a hájit svá práva. Bez tohoto formuláře by řízení bylo zatíženo procesní vadou.
 
@@ -582,7 +814,7 @@ Druhá liberace: **přeprava sypkého materiálu** (písek, štěrk) — pokud s
 
 > (1) Stanoviska uplatněná k územně plánovací dokumentaci a k územnímu opatření o stavební uzávěře nejsou správním rozhodnutím.
 >
-> (2) Při převodu dálnice nebo silnice včetně silničního pozemku z vlastnictví státu do vlastnictví kraje nebo obce v souvislosti se změnou kategorie nebo třídy pozemní komunikace podle § 3 odst. 3 a při převodu investiční výstavbou dotčeného pozemku z vlastnictví státu na jiné osoby podle § 38 odst. 1 se nepoužijí předpisy vyžadující k převodům majetku státu na jiné osoby zvláštního souhlasu nebo výjimky. …
+> (2) Při převodu dálnice nebo silnice včetně silničního pozemku z vlastnictví státu do vlastnictví kraje nebo obce v souvislosti se změnou kategorie nebo třídy pozemní komunikace podle § 3 odst. 3 a při převodu investiční výstavbou dotčeného pozemku z vlastnictví státu na jiné osoby podle § 38 odst. 1 se nepoužijí předpisy vyžadující k převodům majetku státu na jiné osoby zvláštního souhlasu nebo výjimky20). Tyto předpisy se rovněž nepoužijí při převodech silnic, místních nebo účelových komunikací včetně silničních pozemků z vlastnictví krajů nebo obcí do vlastnictví státu v souvislosti se změnou kategorie nebo třídy pozemní komunikace a při převodech silničních pozemků včetně příslušenství stavby dálnice nebo silnice z vlastnictví jiných osob podle § 38 do vlastnictví státu.
 
 **Výklad — § 44 odst. 1.** Stanoviska silničních správních úřadů k územnímu plánu **nejsou rozhodnutím** podle správního řádu — nepodléhají odvolání, nelze je samostatně přezkoumat soudně. To je v souladu s **obecnou doktrínou** o závazných stanoviscích ve fázi koncepčního plánování (judikatura NSS ke stanoviskům k ÚPD).
 
@@ -609,7 +841,7 @@ Druhá liberace: **přeprava sypkého materiálu** (písek, štěrk) — pokud s
 >
 > (2) Pokud byla platná územně plánovací dokumentace schválena před 1. červencem 1992 a nebyly proto v její závazné části vymezeny stavby dálnice, silnice a rychlostní místní komunikace jako veřejně prospěšné stavby, jsou tyto stavby veřejně prospěšnými stavbami, pro jejichž uskutečnění lze vyvlastnit pozemky, stavby a práva k nim podle zvláštních předpisů.
 >
-> (3) Pro vedení, která byla ke dni účinnosti tohoto zákona již uložena v silničních pozemcích nebo na nich, není třeba žádat povolení ke zvláštnímu užívání pozemní komunikace podle § 25 odst. 4 písm. d); …
+> (3) Pro vedení, která byla ke dni účinnosti tohoto zákona již uložena v silničních pozemcích nebo na nich, není třeba žádat povolení ke zvláštnímu užívání pozemní komunikace podle § 25 odst. 4 písm. d); tím není dotčeno ustanovení § 29 odst. 4.
 
 **Výklad.** Tři přechodná pravidla **pro stav před 1. 4. 1997**:
 1. Stará povolení připojení na dálnice **zůstávají platná** i kdyby byla v rozporu s § 10 odst. 3.
@@ -618,7 +850,7 @@ Druhá liberace: **přeprava sypkého materiálu** (písek, štěrk) — pokud s
 
 ### § 46 — Zmocňovací ustanovení
 
-> (1) Vláda stanoví nařízením výši sazeb mýtného podle § 22 odst. 5 a způsob stanovení výše odměny za poskytování evropské služby elektronického mýtného … Vláda může nařízením stanovit nejpřísnější emisní úroveň vozidel a dobu, po kterou se u těchto vozidel … neukládá příslušná část mýtného, a výši slevy na mýtném, podmínky uplatnění slevy na mýtném a postup při uplatnění slevy na mýtném podle § 22 odst. 3.
+> (1) Vláda stanoví nařízením výši sazeb mýtného podle § 22 odst. 5 a způsob stanovení výše odměny za poskytování evropské služby elektronického mýtného podle § 22c odst. 8. Vláda může nařízením stanovit nejpřísnější emisní úroveň vozidel a dobu, po kterou se u těchto vozidel podle § 22 odst. 2 písm. a) neukládá příslušná část mýtného, a výši slevy na mýtném, podmínky uplatnění slevy na mýtném a postup při uplatnění slevy na mýtném podle § 22 odst. 3.
 >
 > (2) Ministerstvo dopravy vydá vyhlášku k provedení § 6 odst. 4, § 8 odst. 3, § 9 odst. 6, § 10 odst. 6, § 12a odst. 3, § 16 odst. 3, § 18g odst. 10, § 18i odst. 4, § 18j odst. 5, § 18m odst. 5, § 18n odst. 6, § 20 odst. 1, § 21a odst. 6, § 22 odst. 5 a 8, § 22a odst. 3, § 22c odst. 2 písm. f), § 22c odst. 7, § 22d odst. 8, § 22i odst. 4, § 22j odst. 1 písm. c), § 22j odst. 3, § 24 odst. 9, § 25 odst. 13, § 25 odst. 15, § 25a odst. 11, § 27 odst. 7, § 29a odst. 8, § 36 odst. 8, § 37 odst. 1, § 38b odst. 5, § 38d odst. 4, § 41 odst. 4, § 43 odst. 8 a § 43d odst. 4.
 
@@ -636,14 +868,22 @@ Pro praxi: žádné rozhodnutí silničního správního úřadu **nemůže obej
 ### § 47 — Zrušovací ustanovení
 
 > Zrušují se:
-> 1. Zákon č. 135/1961 Sb., o pozemních komunikacích (silniční zákon), ve znění zákona č. 27/1984 Sb., zákona č. 213/1993 Sb. a zákona č. 134/1994 Sb., s výjimkou ustanovení § 6 odst. 3, § 6a, 6b a § 24 odst. 1 písm. l), která se zrušují dnem 31. prosince 1997.
-> 2. Vyhláška Federálního ministerstva dopravy č. 35/1984 Sb., kterou se provádí zákon o pozemních komunikacích (silniční zákon).
-> 3. Výnos Federálního ministerstva dopravy č.j. SM-1976/77-23 …
-> 4. Výnos Federálního ministerstva dopravy č.j. 14 078/82-025 o uzavírkách dálnic …
-> 5. Výnos Federálního ministerstva dopravy č.j. 23 462/83-25 o používání pozemních komunikací při přesunech bojové techniky …
-> 6. Výnos Federálního ministerstva dopravy č.j. 22 130/1984-025 o kontrolním odznaku státního odborného dozoru …
-> 7. Výnos Federálního ministerstva dopravy č.j. 8 013/1986-025 o údržbě dálnic, silnic a místních komunikací …
-> 8. § 82 vyhlášky č. 145/1956 Ú. l., o provozu na silnicích.
+>
+> - 1. Zákon č. 135/1961 Sb., o pozemních komunikacích (silniční zákon), ve znění zákona č. 27/1984 Sb., zákona č. 213/1993 Sb. a zákona č. 134/1994 Sb., s výjimkou ustanovení § 6 odst. 3, § 6a, 6b a § 24 odst. 1 písm. l), která se zrušují dnem 31. prosince 1997.
+>
+> - 2. Vyhláška Federálního ministerstva dopravy č. 35/1984 Sb., kterou se provádí zákon o pozemních komunikacích (silniční zákon).
+>
+> - 3. Výnos Federálního ministerstva dopravy č.j. SM-1976/77-23, kterým se vydávají Směrnice o předcházení škodám a vypořádání škod způsobených bojovou technikou ozbrojených sil na pozemních komunikacích (registrován v částce 24/1977 Sb.), včetně změny vydané dne 10. 4. 1986 pod č.j. 80/86.
+>
+> - 4. Výnos Federálního ministerstva dopravy č.j. 14 078/82-025 o uzavírkách dálnic (registrován v částce 35/1982 Sb.).
+>
+> - 5. Výnos Federálního ministerstva dopravy č.j. 23 462/83-25 o používání pozemních komunikací při přesunech bojové techniky ve zvláštním režimu (registrován v částce 32/1983 Sb.).
+>
+> - 6. Výnos Federálního ministerstva dopravy č.j. 22 130/1984-025 o kontrolním odznaku státního odborného dozoru nad pozemními komunikacemi (registrován v částce 16/1985 Sb.).
+>
+> - 7. Výnos Federálního ministerstva dopravy č.j. 8 013/1986-025 o údržbě dálnic, silnic a místních komunikací (registrován v částce 5/1986 Sb.).
+>
+> - 8. § 82 vyhlášky č. 145/1956 Ú. l., o provozu na silnicích.
 
 **Výklad.** § 47 likviduje **celý socialistický právní rámec silniční správy**: starý silniční zákon č. 135/1961 Sb., jeho prováděcí vyhlášku, **federální výnosy** Federálního ministerstva dopravy a poslední přežívající ustanovení **vyhlášky 145/1956 Ú. l.** z dob ČSR (sic!). Pozoruhodné je, že některá ustanovení starého ZPK 135/1961 zůstala platná **až do 31. 12. 1997** (§ 6 odst. 3, § 6a, 6b, § 24 odst. 1 písm. l) — důvodem byla legisvakance pro nová pravidla mýtného/poplatků (§§ 20–22 ZPK nabyla účinnosti až 1. 1. 1998).
 
