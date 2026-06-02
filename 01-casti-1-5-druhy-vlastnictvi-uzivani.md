@@ -87,6 +87,11 @@ Klíčový a v praxi často přehlížený znak: **účelová komunikace vzniká
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Co 129/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9CD04EB69E63C88CC1257A4E0064E633?openDocument) — 6. 4. 2010, kat. A
+  > „O zařazení pozemní komunikace do kategorie uvedené v § 3 odst. 1 zákona č. 13/1997 Sb. ve znění pozdějších předpisů rozhoduje příslušný silniční správní úřad na základě jejího určení, dopravního významu a stavebnětechnického vybavení Dokud o kategorii nerozhodne, nemůže ani soud postupem podle § 135 odst. 2 o. s. ř. dospět k závěru, že komunikace náleží do určité kategorie, a podle toho určit vlastníka pozemní komunikace"
+
 #### Konstitutivní rozhodnutí silničního správního úřadu (odst. 1)
 
 Zařazení komunikace do kategorie dálnice, silnice nebo místní komunikace a do jejich tříd je **konstitutivním aktem** silničního správního úřadu (správní rozhodnutí podle § 67 a násl. správního řádu). Účelovou komunikaci úmyslně z odstavce zákonodárce vyňal — ta vzniká ex lege (viz § 7).
@@ -329,6 +334,13 @@ Těleso průjezdního úseku silnice je ohraničeno **šířkou vozovky s krajni
 > *(6) Prováděcí právní předpis stanoví členění, rozsah, obsah, četnost a způsob provádění prohlídek dálnic, silnic a místních komunikací, členění, rozsah, obsah a způsob provádění údržby a opravy dálnic, silnic a místních komunikací a obsah, rozsah, formu a způsob vedení evidence dálnic, silnic a místních komunikací.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2393/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF1969C8AD559ED0C1258B8E004D3F42?openDocument) — 31. 7. 2024, kat. A
+  > „Vlastník komunikace je povinen nahradit újmu způsobenou uživateli komunikace závadou ve schůdnosti či sjízdnosti zřídí-li však k tomu účelu právnickou osobu (správce), má takovou povinnost správce, zatímco vlastník za splnění povinnosti k náhradě poškozenému ručí (§ 27 odst. 6 zákona č. 13/1997 Sb.). Naproti tomu povinnost hradit újmu způsobenou porušením zákonné povinnosti udržovat komunikace v řádném stavu vzniká jen samotnému vlastníku komunikace bez ohledu na to, zda si i k tomuto účelu zřídil samostatný subjekt"
+- *NS* [31 Cdo 1178/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9E01CD14D5C3CEFC1258A8C0031A342?openDocument) — 8. 11. 2023, kat. A
+  > „Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení přípustnosti dovolání prostřednictvím hodnotového censu vyjádřeného v § 238 odst. 1 písm. c/ o. s. ř. se neuplatní, jestliže se dovolání týká právních otázek, jejichž řešení je těmto nárokům společné (vychází ze skutkového základu těmto nárokům společného). Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení…"
 
 #### Vlastnické rozdělení (odst. 1) — kogentní pravidlo
 

@@ -38,6 +38,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4546/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C19252A89B2F861C1257A4E00657492?openDocument) — 9. 12. 2010, kat. A
+  > „Je-li vlastníkem místní komunikace nebo průjezdního úseku silnice v souladu s ustanovením § 19 odst. 5 a 6 zákona č. 13/1997 Sb., o pozemních komunikacích, odstraněno silniční vozidlo na náklady jeho provozovatele, je vlastník místní komunikace nebo průjezdního úseku silnice (nepřevzal-li poté vozidlo jeho provozovatel) po odpadnutí důvodu veřejného zájmu, pro který byla místní komunikace nebo průjezdní úsek silnice označena dočasně dopravní značkou zákazu stání silničních vozidel, povinen vrátit odtažené vozidlo zpět na místo, odkud bylo odtaženo"
+
 #### Pojem obecného užívání (odst. 1) — veřejnoprávní oprávnění každého
 
 Obecné užívání je **veřejnoprávní obecné oprávnění** (ius commercii viae) každého (právnické i fyzické osoby, tuzemce i cizince), jež plyne přímo ze zákona, nevyžaduje žádný individuální správní akt a zakládá tzv. **veřejné subjektivní právo** užívat PK. Toto pojetí odlišuje českou úpravu od koncepce čistě soukromoprávního přístupu (kde by užívání cizí věci vždy předpokládalo souhlas vlastníka) — vlastník PK nemůže obecné užívání individuálně odepřít: jeho vlastnické právo je obecným užíváním z principu omezeno.
@@ -919,6 +924,17 @@ Silniční správní úřad **musí v rozhodnutí stanovit**, že nadměrné voz
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2393/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF1969C8AD559ED0C1258B8E004D3F42?openDocument) — 31. 7. 2024, kat. A
+  > „Vlastník komunikace je povinen nahradit újmu způsobenou uživateli komunikace závadou ve schůdnosti či sjízdnosti zřídí-li však k tomu účelu právnickou osobu (správce), má takovou povinnost správce, zatímco vlastník za splnění povinnosti k náhradě poškozenému ručí (§ 27 odst. 6 zákona č. 13/1997 Sb.). Naproti tomu povinnost hradit újmu způsobenou porušením zákonné povinnosti udržovat komunikace v řádném stavu vzniká jen samotnému vlastníku komunikace bez ohledu na to, zda si i k tomuto účelu zřídil samostatný subjekt"
+- *NS* [31 Cdo 1178/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9E01CD14D5C3CEFC1258A8C0031A342?openDocument) — 8. 11. 2023, kat. A
+  > „Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení přípustnosti dovolání prostřednictvím hodnotového censu vyjádřeného v § 238 odst. 1 písm. c/ o. s. ř. se neuplatní, jestliže se dovolání týká právních otázek, jejichž řešení je těmto nárokům společné (vychází ze skutkového základu těmto nárokům společného). Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení…"
+- *NS* [31 Cdo 1621/2020](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-31_Cdo_1621_2020.txt) — 9. 12. 2020, kat. A
+  > „Zákon č. 13/1997 Sb., o pozemních komunikacích (silniční zákon), zakládá přísnou (tzv. objektivní) odpovědnost vlastníka komunikace za újmy, jejichž příčinou byla závada ve schůdnosti. Jde o odpovědnost bez ohledu na protiprávnost a zavinění, která je spojena s existencí závady ve schůdnosti, tedy s takovým nedostatkem komunikace, který se vymyká jejímu stavu z hlediska stavebního, dopravně technického i z hlediska celkového působení povětrnostních vlivů a který představuje pro chodce nenadálou a nepředvídatelnou změnu hrozící vznikem újmy. Požadavek předvídavosti chodce ve vztahu k celkové kvalitě komunikace se projeví jen při hodnocení povahy závady ve smyslu § 26 odst. 7 silničního zákona a nemůže být zdvojován v rámci závěru o spoluzpůsobení si újmy poškozeným (§ 2918 o. z.) zde je možno hodnotit již jen další projevy neobezřetnosti chodce při samotném pohybu po takovém úseku…"
+- *NS* [25 Cdo 1713/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F29FA2456AC310FC1257A4E006758EC?openDocument) — 25. 8. 2010, kat. A
+  > „Závadami ve schůdnosti pozemní komunikace se rozumí natolik významné změny (zhoršení) schůdnosti komunikace, že chodec ani při obezřetné chůzi respektující stav komunikace či důsledky povětrnostních vlivů nemůže jejich výskyt předpokládat a účinně na ně reagovat"
+
 #### Sjízdnost a schůdnost — relativní pojmy
 
 § 26 zakládá **relativní pojetí sjízdnosti** (a schůdnosti): komunikace je „sjízdná" tehdy, umožňuje-li bezpečný pohyb **přizpůsobený** stavu komunikace a počasí. Sjízdnost se tedy neposuzuje v absolutním měřítku — letní silnice je sjízdná i pro vozidlo bez zimních pneumatik, zimní silnice nikoli. **Rozhodující je vždy souhra tří faktorů**:
@@ -973,6 +989,15 @@ Pro chodce platí obdobný relativní koncept. Závada ve schůdnosti je nepřed
 > *(7) Prováděcí předpis blíže vymezí rozsah, způsob a časové lhůty pro odstraňování závad ve sjízdnosti dálnice, silnice a místní komunikace. Obec stanoví nařízením rozsah, způsob a lhůty odstraňování závad ve schůdnosti chodníků, místních komunikací a průjezdních úseků silnic.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2393/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF1969C8AD559ED0C1258B8E004D3F42?openDocument) — 31. 7. 2024, kat. A
+  > „Vlastník komunikace je povinen nahradit újmu způsobenou uživateli komunikace závadou ve schůdnosti či sjízdnosti zřídí-li však k tomu účelu právnickou osobu (správce), má takovou povinnost správce, zatímco vlastník za splnění povinnosti k náhradě poškozenému ručí (§ 27 odst. 6 zákona č. 13/1997 Sb.). Naproti tomu povinnost hradit újmu způsobenou porušením zákonné povinnosti udržovat komunikace v řádném stavu vzniká jen samotnému vlastníku komunikace bez ohledu na to, zda si i k tomuto účelu zřídil samostatný subjekt"
+- *NS* [31 Cdo 1178/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9E01CD14D5C3CEFC1258A8C0031A342?openDocument) — 8. 11. 2023, kat. A
+  > „Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení přípustnosti dovolání prostřednictvím hodnotového censu vyjádřeného v § 238 odst. 1 písm. c/ o. s. ř. se neuplatní, jestliže se dovolání týká právních otázek, jejichž řešení je těmto nárokům společné (vychází ze skutkového základu těmto nárokům společného). Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení…"
+- *NS* [25 Cdo 1713/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F29FA2456AC310FC1257A4E006758EC?openDocument) — 25. 8. 2010, kat. A
+  > „Závadami ve schůdnosti pozemní komunikace se rozumí natolik významné změny (zhoršení) schůdnosti komunikace, že chodec ani při obezřetné chůzi respektující stav komunikace či důsledky povětrnostních vlivů nemůže jejich výskyt předpokládat a účinně na ně reagovat"
 
 #### Strukturní význam § 27 — speciální deliktní skutková podstata
 
