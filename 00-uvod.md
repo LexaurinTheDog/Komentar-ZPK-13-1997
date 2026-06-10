@@ -70,6 +70,44 @@ Nejvíce **mediálně i prakticky exponované** ustanovení ZPK je **§ 27** o o
 - *NS* [25 Cdo 1713/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F29FA2456AC310FC1257A4E006758EC?openDocument) — 25. 8. 2010, kat. A
   > „Závadami ve schůdnosti pozemní komunikace se rozumí natolik významné změny (zhoršení) schůdnosti komunikace, že chodec ani při obezřetné chůzi respektující stav komunikace či důsledky povětrnostních vlivů nemůže jejich výskyt předpokládat a účinně na ně reagovat"
 
+### F. Kazuistika
+
+**1. Modelová situace.** Chodkyně N. upadne 18. ledna v 6:40 ráno na chodníku (místní komunikace IV. třídy) ve městě X na úseku pokrytém vrstvou ledu skrytou pod čerstvým sněhovým popraškem; utrpí tříštivou zlomeninu kotníku. Chodník vlastní obec, zimní údržbu zajišťuje její příspěvková organizace Technické služby města X (správce ve smyslu § 27 odst. 6 ZPK). Plán zimní údržby zařazuje úsek do II. pořadí se lhůtou ošetření do 12 hodin; sněžení skončilo předchozí den v 15:00, posyp do okamžiku pádu proveden nebyl. Důkazy k obstarání: fotodokumentace místa z doby pádu, svědecké výpovědi, meteorologická zpráva ČHMÚ, plán zimní údržby a deník výjezdů techniky, lékařské zprávy, záznam městské policie.
+
+**2. Právní otázka.** Odpovídá správce komunikace (a obec jako ručitel) podle § 27 odst. 3 a 6 ZPK za újmu na zdraví chodkyně, tj. byla ledová plotna pod sněhovým popraškem „závadou ve schůdnosti" ve smyslu § 26 odst. 7 ZPK, kterou bylo v mezích možností správce odstranit, zmírnit nebo na ni upozornit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 ZPK — objektivní odpovědnost vlastníka za škodu ze závady ve sjízdnosti/schůdnosti s liberačním důvodem (odst. 2 a 3); přenos povinnosti na správce a ručení vlastníka (odst. 6).
+- *Související ustanovení téhož zákona:* § 26 odst. 6–7 (definice závady — změna, kterou uživatel nemohl předvídat při chůzi přizpůsobené stavu a počasí), § 27 odst. 5 (vymezení neudržovaných úseků nařízením kraje/obce), § 9 (vlastnictví místních komunikací obcí).
+- *Související předpisy:* vyhláška č. 104/1997 Sb. (lhůty a technologie zimní údržby, náležitosti plánu zimní údržby); OZ 89/2012 Sb. (§ 2958 — náhrada újmy na zdraví, § 2918 — spoluzavinění poškozeného).
+- *Judikatura:* NS 25 Cdo 1713/2008 (závadou ve schůdnosti je jen tak významná změna, že ji chodec ani při obezřetné chůzi nemůže předpokládat a účinně na ni reagovat); NS 25 Cdo 2393/2023 (zřídil-li vlastník k údržbě právnickou osobu, povinnost k náhradě má správce a vlastník ručí; nárok z porušení obecné povinnosti udržovat komunikaci v řádném stavu však směřuje jen proti vlastníku); velký senát NS 31 Cdo 1178/2023 (k hodnotovému censu dovolání u více nároků z téže škodní události).
+
+**4. Subsumpce.** Splněno: chodník je místní komunikací s povinností údržby; led skrytý pod popraškem je typová „nepředvídatelná" změna schůdnosti (na rozdíl od obecné zimní kluzkosti); lhůta ošetření z plánu údržby (12 h od konce spadu) marně uplynula (pád po cca 15,7 h), což zásadně oslabuje liberaci dle § 27 odst. 3. Sporné/neprokázané: zda nebyl stav rozpoznatelný pouhým pohledem (pak by nešlo o závadu), zda chodkyně přizpůsobila chůzi a obuv zimním podmínkám (spoluzavinění dle § 2918 OZ).
+
+**5. Řešení.** Žalobu na náhradu újmy na zdraví směřovat primárně proti správci (Technické služby) podle § 27 odst. 6 ZPK; obec přibrat z titulu zákonného ručení (případně samostatný nárok z porušení udržovací povinnosti jen proti obci jako vlastníku — per NS 25 Cdo 2393/2023). Při prokázání marného uplynutí lhůt údržby je výsledek pravděpodobně úspěšný, s krácením o spoluzavinění (v praxi typicky 10–30 %). Procesní kroky: předžalobní výzva, zajištění deníku zimní údržby a GPS záznamů techniky, znalecké posouzení újmy. Riziko: soud může stav posoudit jako celkovou povětrnostní situaci, nikoli závadu — pak nárok zcela odpadá.
+
+**6. Varianty.** (a) Vymezila-li obec úsek nařízením podle § 27 odst. 5 jako neudržovaný pro malý dopravní význam a označila jej, je liberace paušální a žaloba bude zamítnuta. (b) Vznikla-li náledí náhle mrznoucím deštěm krátce (např. 30 minut) před pádem, správce se liberuje — odstranění závady nebylo v mezích jeho možností (§ 27 odst. 3); chodkyně nese riziko sama.
+
+### G. Protiargumenty a rizika
+
+- „Obecná zimní kluzkost není závadou ve schůdnosti" — nejčastější obrana žalovaných; neutralizace: prokázat lokální a skrytý charakter změny (led pod popraškem) odlišný od okolního, vizuálně rozpoznatelného stavu, který ani obezřetný chodec nepředvídá (NS 25 Cdo 1713/2008).
+- „Správce postupoval podle plánu zimní údržby, liberace dle § 27 odst. 3" — neutralizace: důkazní břemeno liberace nese správce; konfrontovat deník výjezdů s meteorologickými daty a lhůtami vyhlášky č. 104/1997 Sb.
+- Riziko chybné pasivní legitimace: žaloba jen proti obci, ač povinným je správce (či naopak), hrozí zamítnutím — žalovat oba subjekty (správce jako dlužníka, vlastníka jako ručitele) a nároky právně odlišit.
+- Slabé místo: bez fotografií a svědků z doby pádu je prokázání konkrétního stavu místa zpětně velmi obtížné; samotná lékařská zpráva mechanismus pádu nedokazuje.
+
+### H. Praktický závěr
+
+§ 27 ZPK zakládá objektivní odpovědnost vlastníka (resp. správce dle odst. 6) za nepředvídatelné závady ve sjízdnosti a schůdnosti, nikoli pojištění uživatele proti běžným zimním podmínkám. Klíč k výsledku sporu leží v rozlišení „závada vs. celkový stav komunikace" (§ 26 odst. 6–7) a v důkazu o (ne)dodržení lhůt údržby.
+
+**Checklist (advokát poškozeného / obec a správce):**
+- [ ] Určit kategorii komunikace a vlastníka i správce (§ 9, § 27 odst. 6) — pasport komunikací, zřizovací listina správce.
+- [ ] Posoudit, zda jde o závadu dle § 26 odst. 6–7, nebo o předvídatelný celkový stav.
+- [ ] Ověřit plán zimní údržby a lhůty dle vyhlášky č. 104/1997 Sb. a jejich skutečné plnění (deník údržby).
+- [ ] Zkontrolovat, zda úsek není nařízením dle § 27 odst. 5 vymezen jako neudržovaný a označen.
+- [ ] Vyčíslit nároky (§ 2958 OZ) a zohlednit možné spoluzavinění poškozeného (§ 2918 OZ).
+
+**Typicky rozhodné důkazy / podklady:** fotodokumentace místa a obuvi poškozeného, zpráva ČHMÚ o počasí, plán zimní údržby a deník výjezdů (GPS techniky), lékařské zprávy a znalecký posudek, svědecké výpovědi, záznam policie či záchranné služby.
+
 ## Mimořádné instituty zákona
 
 Vedle uvedeného obsahuje ZPK řadu specifických institutů, které není namístě hledat v jiných zákonech:
