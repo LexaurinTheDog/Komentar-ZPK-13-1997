@@ -88,6 +88,15 @@ ZPK upravuje **statické** otázky pozemních komunikací (vlastnictví, kategor
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 166/2024 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742491) — 16. 6. 2025
+  > „Komunikace musí být stálá a patrná v terénu (§ 2 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích), musí naplňovat dopravní účel stanovený zákonem (§ 7 odst. 1 zákona o pozemních komunikacích), musí existovat souhlas vlastníka s jejím obecným užíváním a musí naplňovat nutnou komunikační potřebu"
+- *ÚS* [I.ÚS 3143/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3143-13_1) — nález, 23. 3. 2015
+  > „Závěrem Nejvyšší soud vyložil, že dráhu ke vzletům a přistávání letadel nelze posuzovat ani jako pozemní komunikaci ve smyslu § 2 zákona č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, … neboť se nejedná o dopravní cestu určenou k užití silničními či jinými vozidly a chodci"
+- *NSS* [25 A 19/2023 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722871) — 24. 4. 2024
+  > „Jak plyne z ustálené judikatury soudů … veřejně přístupná účelová komunikace je kategorií pozemní komunikace, k jejímuž vzniku, na rozdíl od ostatních kategorií uvedených v § 2 odst. 2 zákona č. 13/1997 Sb., postačuje naplnění jejích definičních znaků"
+
 #### Pojem pozemní komunikace (odst. 1) — tři pojmové znaky
 
 Legální definice obsahuje **tři kumulativní znaky**:
@@ -161,7 +170,7 @@ Před jakýmkoli sporem o cestu je třeba postavit najisto (a) zda vůbec jde o 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [22 Co 129/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9CD04EB69E63C88CC1257A4E0064E633?openDocument) — 6. 4. 2010, kat. A
+- *NS* [22 Co 129/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9CD04EB69E63C88CC1257A4E0064E633?openDocument) — kat. A, 6. 4. 2010
   > „O zařazení pozemní komunikace do kategorie uvedené v § 3 odst. 1 zákona č. 13/1997 Sb. ve znění pozdějších předpisů rozhoduje příslušný silniční správní úřad na základě jejího určení, dopravního významu a stavebnětechnického vybavení Dokud o kategorii nerozhodne, nemůže ani soud postupem podle § 135 odst. 2 o. s. ř. dospět k závěru, že komunikace náleží do určité kategorie, a podle toho určit vlastníka pozemní komunikace"
 
 #### Konstitutivní rozhodnutí silničního správního úřadu (odst. 1)
@@ -473,6 +482,15 @@ U místních komunikací vždy ověřit existenci rozhodnutí o zařazení — p
 > *(2) Účelovou komunikací je i pozemní komunikace v uzavřeném prostoru nebo objektu, která slouží potřebě vlastníka nebo provozovatele uzavřeného prostoru nebo objektu. Tato účelová komunikace není přístupná veřejně, ale v rozsahu a způsobem, který stanoví vlastník nebo provozovatel uzavřeného prostoru nebo objektu. V pochybnostech, zda z hlediska pozemní komunikace jde o uzavřený prostor nebo objekt, rozhoduje příslušný silniční správní úřad.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 268/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-268-06_1) — nález, 9. 1. 2008
+  > „…tzv. veřejně přístupných účelových komunikací definovaných v ustanovení § 7 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích, v jejichž případě je vlastnické právo omezeno tím, že vlastník musí strpět obecné užívání pozemku jako komunikace (§ 19 citovaného zákona) a umožnit na něj veřejný přístup. Účelovou komunikací se pozemek stává přímo ze zákona, pokud splňuje definici podanou v ustanovení § 7 odst. 1 citovaného zákona…"
+- *ÚS* [III.ÚS 2942/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2942-10_1) — nález, 15. 3. 2011
+  > „Obecný soud v rámci ústavně konformní interpretace § 7 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích, na základě důkazního řízení musí mít za prokázané, že vlastník poskytl - výslovně anebo konkludentně - souhlas s veřejným užíváním účelové komunikace, a dále musí mít za prokázanou podmínku potřebnosti, tj. existují-li jiné způsoby, jak dosáhnout sledovaného cíle (zajištění komunikačního spojení nemovitostí), aniž by došlo k omezení vlastnického práva, je třeba dát před omezením vlastnického práva přednost těmto jiným způsobům"
+- *ÚS* [I.ÚS 263/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-263-11_1) — nález, 27. 10. 2011
+  > „Účelová komunikace přitom nevzniká správním rozhodnutím, ale musí být naplněny znaky pozemní komunikace dle § 7 zákona č. 13/1997 Sb., o pozemních komunikacích"
 
 #### Vznik účelové komunikace ex lege — judikatura ÚS a NSS
 
@@ -1511,6 +1529,13 @@ Povolování staveb komunikací je integrováno do stavebního zákona, ale ZPK 
 > *(4) Sjednává-li se nájem pozemku nebo stavby potřebných k uskutečnění výstavby, opravy, úpravy, údržby, modernizace nebo rekonstrukce dálnice, silnice I. třídy, jejich součástí, příslušenství nebo staveb souvisejících, nesmí nájemné překročit nejvyšší možnou výši vyplývající z regulace cen stanovené a vydávané podle zákona o cenách pro pozemky veřejné infrastruktury užívané ve veřejném zájmu, je-li uplatněna, a současně nesmí překročit cenu obvyklou; to platí i v případě, sjednává-li se nájem pozemku, na kterém byla zřízena dálnice, silnice I. třídy, jejich součásti, příslušenství nebo stavby související.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 24/2023 - 71](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/710967) — 18. 4. 2023
+  > „…při pokusu o majetkoprávní vypořádání mezi vlastníkem stavby dálnice, silnice nebo místní komunikace a vlastníkem pozemku, na němž jsou tyto komunikace umístěny (§ 17 odst. 2 zákona č. 13/1997 Sb., o pozemních komunikacích) je třeba s ohledem na konkrétní okolnosti případu sledovat zejména naplnění zásad šetření práv vlastníka pozemku a zároveň zohlednění potřeby využívání pozemní komunikace"
+- *NSS* [9 As 84/2024 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721151) — 7. 5. 2024
+  > „Přípustný zákonem stanovený účel vyvlastnění byl dán s ohledem na to, že stavba … je veřejně prospěšnou stavbou dopravní infrastruktury ve smyslu § 170 odst. 1 písm. a) zákona č. 183/2006 Sb., … a § 17 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů"
 
 #### Veřejná prospěšnost — předpoklad vyvlastnění (odst. 1)
 

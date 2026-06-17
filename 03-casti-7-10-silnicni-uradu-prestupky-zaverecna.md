@@ -137,6 +137,11 @@ SOP působí ex lege mimo zastavěné území obce (v autonomním pojetí ZPK). 
 
 **Vazba na § 32 a § 33 OZ.** Vlastník nemovitosti, na které je reklama, je dle odst. 12 povinen **strpět vstup** za účelem odstranění — jde o **zákonné věcné břemeno strpění** sui generis.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 53/2019 - 79](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/436305) — 26. 6. 2019
+  > „Princip povolování zakázaných či omezených činností včetně staveb v silničním ochranném pásmu silničním správním úřadem (či dříve silničním správním orgánem) je v § 31 zákona č. 13/1997 Sb. zakotven po celou dobu účinnosti tohoto zákona, a stejně tomu tak bylo i v § 11 předchozího zákona č. 135/1961 Sb., o pozemních komunikacích (silniční zákon)"
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Reklamní agentura provozuje od r. 2009 billboard na pronajatém poli 180 m od osy dálnice D1, viditelný z dálnice; disponuje stavebním povolením stavebního úřadu, povolení silničního správního úřadu podle § 31 však nikdy vydáno nebylo. Silniční správní úřad vyzve ŘSD jako správce dálnice k odstranění zařízení a vlastníka pozemku k součinnosti. Agentura namítá vlastnické právo k zařízení a existenci stavebního povolení. Důkazy: fotodokumentace viditelnosti z dálnice, zaměření polohy (180 m < 250 m dle § 30 odst. 4), spisy povolovacích řízení, nájemní smlouva.
@@ -566,6 +571,11 @@ Zrušení přejezdu stojí na třech pilířích: náhradní trasa vhodná, del�
 
 **Výklad.** **Princip „kdo způsobí zásah, ten platí"** v čisté podobě: investor (např. developer obchodního centra, těžební firma) musí na vlastní náklad postavit **náhradní komunikaci**. Vlastnictví **přechází automaticky** na původního vlastníka silnice — tedy stát / kraj / obec. Toto je klíčové ustanovení pro velké stavby a vyvolané investice.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 225/2023 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724944) — 18. 9. 2024
+  > „…investor přeložky [není] automaticky jejím vlastníkem – tím je vlastník přeložené komunikace. Tento princip vyplývá z § 38 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích, a byl obsažen i v právní úpravě účinné v době stavby nadjezdu [§ 18 odst. 4 zákona č. 135/1961 Sb., o pozemních komunikacích (silniční zákon)]"
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Těžební společnost rozšiřuje kamenolom; dobývací prostor pohltí úsek silnice III. třídy, jejíž užívání bude trvale znemožněno. Kraj jako vlastník požaduje, aby společnost na své náklady vybudovala přeložku v plnohodnotných parametrech a převedla mu ji; společnost chce stavět jen užší „náhradní" cestu a ponechat si ji ve vlastnictví. Důkazy: záměr a harmonogram těžby, projektová dokumentace přeložky, dopravně-technické parametry původní silnice.
@@ -848,6 +858,11 @@ Jádro **veřejnoprávní** úpravy ZPK. Definuje:
 > b) celní úřad, Inspekce silniční dopravy a stavební úřad.
 
 **Výklad.** § 40 je **nejdůležitější kompetenční katalog** zákona. Logická struktura **„od nejvyššího k nejnižšímu úřadu"** kopíruje hierarchii kategorií komunikací:
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 37/2019 - 213](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/418696) — 30. 6. 2020
+  > „[P]ůsobnost obecního úřadu jakožto silničního správního úřadu ‚ve věcech veřejně přístupných účelových komunikací' dle § 40 odst. 5 písm. c) zákona č. 13/1997 Sb., o pozemních komunikacích, v sobě zahrnuje i pravomoc tohoto silničního správního úřadu v pochybnostech posoudit, zda se jedná o veřejně přístupnou účelovou komunikaci, či o neveřejnou účelovou komunikaci umístěnou v uzavřeném prostoru či objektu (§ 7 odst. 2 téhož zákona)"
 
 #### Ministerstvo dopravy (odst. 2)
 
@@ -1151,6 +1166,11 @@ Toto rozdělení je důležité **pro odpovědnostní princip**: u § 42b se upl
 
 > PNM = příkaz na místě (operativně udělá policista, celník nebo inspektor přímo při kontrole).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 39/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-39-06) — nález, 14. 11. 2006
+  > „Znečištění nebo poškození dálnice, silnice nebo místní komunikace, její součásti nebo příslušenství je také přestupkem ve smyslu § 42a odst. 1 písm. l) zákona č. 13/1997 Sb., o pozemních komunikacích. Obci tedy nepřísluší tyto právní vztahy, které jsou již předmětem zákonné úpravy, normovat"
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Fyzická osoba (nepodnikatel) si na svém poli u silnice II. třídy, v silničním ochranném pásmu, umístí maringotku s velkoplošnou reklamní plachtou bez povolení podle § 31. Při svozu dřeva navíc traktorem znečistí vozovku blátem, neoznačí je ani neoznámí správci. Téhož léta jede osobním autem po dálnici bez uhrazeného časového poplatku (zjistí celní úřad). Důkazy: fotodokumentace plachty a znečištění, zaměření polohy v SOP, úřední záznam obecní policie, výstup z evidence úhrad časového poplatku.
@@ -1321,6 +1341,11 @@ Toto rozdělení je důležité **pro odpovědnostní princip**: u § 42b se upl
 | **do 100 000** | odst. 1 n), r), w), y), odst. 2 |
 | **do 5 000** | odst. 1 s), t) |
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 214/2017 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/438726) — 30. 4. 2019
+  > „Pojem „provozovatel vozidla" v § 42b zákona č. 13/1997 Sb., o pozemních komunikacích, který sám definici tohoto pojmu neobsahuje, je třeba vykládat v souladu s § 2 odst. 16 zákona č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích. Provozovatelem vozidla tak není ten, kdo vozidlo reálně provozuje, ale ten, kdo je zapsán podle § 4 odst. 4 zákona o podmínkách provozu vozidel na pozemních komunikacích v registru silničních vozidel jako vlastník, resp. provozovatel předmětného vozidla"
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Stavební s.r.o. při výstavbě haly: (i) bez povolení zvláštního užívání složí na silnici II. třídy kontejner a postaví lešení, (ii) její soupravy jsou při vysokorychlostním vážení opakovaně zachyceny s překročenou hmotností, (iii) vozidla vyjíždějící ze staveniště znečišťují vozovku a firma znečištění neodstraňuje ani neoznačuje. ORP zahajuje řízení. Důkazy: fotodokumentace záboru a znečištění, vážní lístky, stavební deník, smlouvy se subdodavateli a odesílateli, vnitřní směrnice o kontrole hmotnosti.
@@ -1422,6 +1447,13 @@ Druhá liberace: **přeprava sypkého materiálu** (písek, štěrk) — pokud s
 > (7) Nepodaří-li se adresátovi, jehož sídlo nebo pobyt, popřípadě jiná adresa pro doručování je v cizině, doručit oznámení o zahájení řízení o přestupku, příkaz vydávaný jako první úkon v řízení o přestupku nebo jinou písemnost v řízení o přestupku podle tohoto zákona, doručí se mu tato písemnost i další písemnosti v tomto řízení prostřednictvím veřejné vyhlášky; opatrovník se mu neustanovuje. Správní orgán současně učiní pokus vyrozumět adresáta vhodným způsobem o dalších doručovaných písemnostech, pokud jsou jeho sídlo, pobyt, adresa pro doručování nebo elektronická adresa známy.
 
 **Výklad — odst. 7 (cizinci).** **Speciální procesní pravidlo** pro doručování zahraničním pachatelům. **Vylučuje obecná pravidla SŘ**: lze doručovat **veřejnou vyhláškou** bez ustanovení opatrovníka. Účelem je překonat praktickou nedostupnost dopravců z balkánských zemí, Ukrajiny apod.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 61/2023 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714392) — 13. 9. 2023
+  > „Účelem § 43 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích, který obsahuje liberační důvod, je zabránění sankce ve zcela výjimečných případech, kdy by její uložení odporovalo jejímu smyslu; odpovědnosti za spáchaný správní delikt se nelze zprostit toliko odkazem na zabezpečení povinného školení řidičů"
+- *NSS* [52 A 9/2024 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724157) — 21. 5. 2024
+  > „Zákonodárce s účinností od 1. 1. 2010 zavedl ustanovení týkající se vážení motorových vozidel (§ 38a až § 38d zákona o pozemních komunikacích), a to z důvodu ochrany pozemních komunikací. Je tedy zjevné, proč zákonodárce trvá na tom, aby jízdní soupravy pozemní komunikace nepřetěžovaly. Dochází-li k překračování hmotnostních limitů provozovaných vozidel, mohou být v důsledku toho způsobeny závažné následky v podobě dopravních nehod či poškození konkrétních pozemních komunikací"
 
 #### F. Kazuistika
 
@@ -1720,6 +1752,11 @@ U mýtných a známkových přestupků vozidel z EU musí celní úřad přilož
 
 **§ 44 odst. 2** — **úleva od § 14, § 60 zákona o majetku ČR**: při převodu dálnice z ČR → kraji nebo obci (např. když se z dálnice stane silnice I. třídy a postupně silnice II. třídy) **není třeba souhlasu vlády** apod. Praktické zjednodušení **přeřazování komunikací** mezi vlastníky.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 265/2022 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724638) — 6. 9. 2024
+  > „Nezávaznost stanoviska dotčeného orgánu pro stavební řízení […] vyplývá z § 44 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích, ve znění účinném do 31. 12. 2023 […], a je potvrzena i odbornou literaturou"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Po dostavbě obchvatu má dosavadní průtah silnice I. třídy klesnout na silnici II. třídy a přejít z vlastnictví státu na kraj. Krajský zastupitel namítá, že převod vyžaduje souhlasy podle zákona o majetku státu. Souběžně sousední obec podala správní žalobu přímo proti stanovisku Ministerstva dopravy uplatněnému k návrhu územního plánu (vymezení koridoru přeložky). Důkazy: rozhodnutí o změně kategorie/třídy podle § 3, návrh převodní smlouvy, text stanoviska k ÚPD.
@@ -1806,6 +1843,11 @@ Vše, co obecní a krajské úřady podle ZPK rozhodují, je státní správa: o
 > Obec je účastníkem v řízeních ve věcech veřejně přístupných účelových komunikací nacházejících se na jejím území i v případě, že není jejich vlastníkem.
 
 **Výklad.** **Speciální procesní pravidlo** pro VPÚK: obec je vždy **účastníkem řízení**, i když ji nevlastní (často je vlastníkem fyzická nebo právnická osoba — vlastník zemědělského pozemku). Tím je zajištěno, že obec může **chránit veřejný zájem** na zachování VPÚK (např. proti pokusu vlastníka komunikaci zrušit nebo oplotit).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 251/2023 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718545) — 13. 2. 2024
+  > „Takto vymezený rozsah samostatné působnosti nalézá odraz v § 44b zákona č. 13/1997 Sb., o pozemních komunikacích, jenž zakládá obci účastenství v řízení ve věcech veřejně přístupných účelových komunikací nacházejících se na jejím území i v případě, že není jejich vlastníkem"
 
 #### F. Kazuistika
 

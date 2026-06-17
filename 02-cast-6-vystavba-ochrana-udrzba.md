@@ -40,7 +40,9 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4546/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C19252A89B2F861C1257A4E00657492?openDocument) — 9. 12. 2010, kat. A
+- *ÚS* [II.ÚS 3608/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3608-10_1) — nález, 21. 9. 2011
+  > „V případě tzv. veřejně přístupných účelových komunikací definovaných v § 7 odst. 1 zákona o pozemních komunikacích je vlastnické právo omezeno tím, že vlastník musí strpět obecné užívání pozemku jako komunikace (§ 19 citovaného zákona) a umožnit na něj veřejný přístup … Zákon o pozemních komunikacích však toto omezení nespojuje s poskytnutím finanční náhrady. Jediný ústavně konformní výklad je tudíž ten, že s takovým omezením vlastnického práva musí vlastník příslušného pozemku souhlasit"
+- *NS* [21 Cdo 4546/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C19252A89B2F861C1257A4E00657492?openDocument) — kat. A, 9. 12. 2010
   > „Je-li vlastníkem místní komunikace nebo průjezdního úseku silnice v souladu s ustanovením § 19 odst. 5 a 6 zákona č. 13/1997 Sb., o pozemních komunikacích, odstraněno silniční vozidlo na náklady jeho provozovatele, je vlastník místní komunikace nebo průjezdního úseku silnice (nepřevzal-li poté vozidlo jeho provozovatel) po odpadnutí důvodu veřejného zájmu, pro který byla místní komunikace nebo průjezdní úsek silnice označena dočasně dopravní značkou zákazu stání silničních vozidel, povinen vrátit odtažené vozidlo zpět na místo, odkud bylo odtaženo"
 
 #### Pojem obecného užívání (odst. 1) — veřejnoprávní oprávnění každého
@@ -1075,6 +1077,11 @@ Parkovací zóny se zřizují nařízením obce; zpoplatnit lze krátkodobé st�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 451/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-451-11_1) — nález, 11. 1. 2012
+  > „Pro danou věc je právně významné, že obec jakožto vlastník místní komunikace je povinna strpět obecné užívání této komunikace bez možnosti regulovat provoz na ní. Takové oprávnění náleží (s výjimkami stanovenými v § 24 odst. 8 zákona č. 13/1997 Sb., o pozemních komunikacích, týkajícími se případů, kdy hrozí nebezpečí z prodlení) – a to i v případě uzavření či částečného uzavření místní komunikace ve smyslu § 24 odst. 2 tohoto zákona, příslušnému silničnímu správnímu úřadu; s vlastníkem pozemní komunikace je žádost o uzavírku pouze projednána"
+
 #### Forma — individuální rozhodnutí, nikoli OOP
 
 Na rozdíl od § 19a (dočasný zákaz stání = OOP) je uzavírka a objížďka **individuálním správním rozhodnutím** (§ 67 SŘ) — adresovaným typicky stavební firmě nebo pořadateli akce, která uzavírku vyvolala. Odvolání proti rozhodnutí **nemá odkladný účinek** (odst. 4) — to je nutné, neboť jinak by každý odvolatel mohl uzavírku zablokovat.
@@ -1367,6 +1374,13 @@ Ministerstvo dopravy vydává OOP s platností do 5 let; lze prodloužit. V OOP 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 44/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-44-06_1) — nález, 3. 4. 2007
+  > „Obecně je povolování zvláštního užívání veřejného prostranství výkonem státní správy upraveno zvláštními zákony, kam obce svými vyhláškami zasahovat nemohou. … Ke zvláštnímu užívání, které toto ustanovení zákona vymezuje jako užívání dálnic, silnic a místních komunikací jiným než obvyklým způsobem nebo k jiným účelům, než pro které jsou určeny, je třeba povolení příslušného silničního správního úřadu"
+- *ÚS* [Pl.ÚS 38/97](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-38-97) — nález, 24. 11. 1998
+  > „Týká-li se zvláštní užívání pozemní komunikace, je navíc třeba povolení příslušného silničního správního úřadu dle § 25 zákona č. 13/1997 Sb., o pozemních komunikacích, vydaného po předchozím souhlasu vlastníka, popřípadě příslušného orgánu Policie ČR nebo ministerstva vnitra"
+
 #### Konstrukce institutu — povolovací režim s trojstranným souhlasem
 
 Zvláštní užívání je **úkonem nad rámec obecného užívání**, k němuž je nezbytné **kombinované povolení**:
@@ -1590,13 +1604,9 @@ Nadměrné jízdy vyžadují individuální povolení (není-li kryta jízda OOP
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 2393/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF1969C8AD559ED0C1258B8E004D3F42?openDocument) — 31. 7. 2024, kat. A
-  > „Vlastník komunikace je povinen nahradit újmu způsobenou uživateli komunikace závadou ve schůdnosti či sjízdnosti zřídí-li však k tomu účelu právnickou osobu (správce), má takovou povinnost správce, zatímco vlastník za splnění povinnosti k náhradě poškozenému ručí (§ 27 odst. 6 zákona č. 13/1997 Sb.). Naproti tomu povinnost hradit újmu způsobenou porušením zákonné povinnosti udržovat komunikace v řádném stavu vzniká jen samotnému vlastníku komunikace bez ohledu na to, zda si i k tomuto účelu zřídil samostatný subjekt"
-- *NS* [31 Cdo 1178/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9E01CD14D5C3CEFC1258A8C0031A342?openDocument) — 8. 11. 2023, kat. A
-  > „Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení přípustnosti dovolání prostřednictvím hodnotového censu vyjádřeného v § 238 odst. 1 písm. c/ o. s. ř. se neuplatní, jestliže se dovolání týká právních otázek, jejichž řešení je těmto nárokům společné (vychází ze skutkového základu těmto nárokům společného). Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení…"
-- *NS* [31 Cdo 1621/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F249664E9FEC2A2EC125866400318FCC?openDocument) — 9. 12. 2020, kat. A
-  > „Zákon č. 13/1997 Sb., o pozemních komunikacích (silniční zákon), zakládá přísnou (tzv. objektivní) odpovědnost vlastníka komunikace za újmy, jejichž příčinou byla závada ve schůdnosti. Jde o odpovědnost bez ohledu na protiprávnost a zavinění, která je spojena s existencí závady ve schůdnosti, tedy s takovým nedostatkem komunikace, který se vymyká jejímu stavu z hlediska stavebního, dopravně technického i z hlediska celkového působení povětrnostních vlivů a který představuje pro chodce nenadálou a nepředvídatelnou změnu hrozící vznikem újmy. Požadavek předvídavosti chodce ve vztahu k celkové kvalitě komunikace se projeví jen při hodnocení povahy závady ve smyslu § 26 odst. 7 silničního zákona a nemůže být zdvojován v rámci závěru o spoluzpůsobení si újmy poškozeným (§ 2918 o. z.) zde je možno hodnotit již jen další projevy neobezřetnosti chodce při samotném pohybu po takovém úseku…"
-- *NS* [25 Cdo 1713/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F29FA2456AC310FC1257A4E006758EC?openDocument) — 25. 8. 2010, kat. A
+- *NS* [31 Cdo 1621/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F249664E9FEC2A2EC125866400318FCC?openDocument) — kat. A, 9. 12. 2020
+  > „Zákon č. 13/1997 Sb., o pozemních komunikacích (silniční zákon), zakládá přísnou (tzv. objektivní) odpovědnost vlastníka komunikace za újmy, jejichž příčinou byla závada ve schůdnosti. Jde o odpovědnost bez ohledu na protiprávnost a zavinění, která je spojena s existencí závady ve schůdnosti, tedy s takovým nedostatkem komunikace, který se vymyká jejímu stavu z hlediska stavebního, dopravně technického i z hlediska celkového působení povětrnostních vlivů a který představuje pro chodce nenadálou a nepředvídatelnou změnu hrozící vznikem újmy"
+- *NS* [25 Cdo 1713/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F29FA2456AC310FC1257A4E006758EC?openDocument) — kat. A, 25. 8. 2010
   > „Závadami ve schůdnosti pozemní komunikace se rozumí natolik významné změny (zhoršení) schůdnosti komunikace, že chodec ani při obezřetné chůzi respektující stav komunikace či důsledky povětrnostních vlivů nemůže jejich výskyt předpokládat a účinně na ně reagovat"
 
 #### Sjízdnost a schůdnost — relativní pojmy
@@ -1693,12 +1703,10 @@ Pro chodce platí obdobný relativní koncept. Závada ve schůdnosti je nepřed
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 2393/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF1969C8AD559ED0C1258B8E004D3F42?openDocument) — 31. 7. 2024, kat. A
+- *NS* [25 Cdo 2393/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF1969C8AD559ED0C1258B8E004D3F42?openDocument) — kat. A, 31. 7. 2024
   > „Vlastník komunikace je povinen nahradit újmu způsobenou uživateli komunikace závadou ve schůdnosti či sjízdnosti zřídí-li však k tomu účelu právnickou osobu (správce), má takovou povinnost správce, zatímco vlastník za splnění povinnosti k náhradě poškozenému ručí (§ 27 odst. 6 zákona č. 13/1997 Sb.). Naproti tomu povinnost hradit újmu způsobenou porušením zákonné povinnosti udržovat komunikace v řádném stavu vzniká jen samotnému vlastníku komunikace bez ohledu na to, zda si i k tomuto účelu zřídil samostatný subjekt"
-- *NS* [31 Cdo 1178/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9E01CD14D5C3CEFC1258A8C0031A342?openDocument) — 8. 11. 2023, kat. A
-  > „Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení přípustnosti dovolání prostřednictvím hodnotového censu vyjádřeného v § 238 odst. 1 písm. c/ o. s. ř. se neuplatní, jestliže se dovolání týká právních otázek, jejichž řešení je těmto nárokům společné (vychází ze skutkového základu těmto nárokům společného). Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení…"
-- *NS* [25 Cdo 1713/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F29FA2456AC310FC1257A4E006758EC?openDocument) — 25. 8. 2010, kat. A
-  > „Závadami ve schůdnosti pozemní komunikace se rozumí natolik významné změny (zhoršení) schůdnosti komunikace, že chodec ani při obezřetné chůzi respektující stav komunikace či důsledky povětrnostních vlivů nemůže jejich výskyt předpokládat a účinně na ně reagovat"
+- *ÚS* [I.ÚS 451/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-451-11_1) — nález, 11. 1. 2012
+  > „Analogicky lze poukázat na vyloučení odpovědnosti obce za škody vyplývající z provozu na pozemních komunikacích, jež je přímo zakotveno v § 27 odst. 4 zákona č. 13/1997 Sb., podle něhož platí, že vlastník dálnice, silnice, místní komunikace nebo chodníku odpovídá podle obecných právních předpisů vlastníkům sousedních nemovitostí za škody, které jim vznikly v důsledku stavebního stavu nebo dopravně technického stavu těchto komunikací; neodpovídá však za škody vzniklé vlastníkům sousedních nemovitostí v důsledku provozu na těchto pozemních komunikacích"
 
 #### Strukturní význam § 27 — speciální deliktní skutková podstata
 
@@ -1908,6 +1916,11 @@ Závěr odst. 1 odkazuje na zvláštní předpisy o nakládání s nebezpečným
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 A 13/2025 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747616) — 9. 10. 2025
+  > „K nařízení odstranění nepovolené pevné překážky ve smyslu § 29 zákona č. 13/1997 Sb., ve znění pozdějších předpisů (dále jen „silniční zákon“) je třeba zkoumat, zda je překážka umístěna na veřejné pozemní komunikaci, v daném případě na veřejně přístupné účelové komunikaci"
+
 #### Pojem pevné překážky — negativní vymezení
 
 Zákon definuje pevnou překážku **negativně**: pevnou překážkou jsou **všechny předměty na vozovce, dopravních ostrůvcích a krajnicích KROMĚ**:
@@ -2105,6 +2118,11 @@ Cílem je **včasné koordinované doručení informací** všem dotčeným subj
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [52 A 27/2025 - 119](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745651) — 30. 7. 2025
+  > „V silničním ochranném pásmu ve smyslu § 30 zákona č. 13/1997 Sb., o pozemních komunikacích … jsou, jak plyne z § 31 a násl. téhož zákona, omezeny určité činnosti (například výstavba bez povolení, umísťování reklamních zařízení, terénní úpravy, výsadba stromů a keřů, které by mohly narušit rozhled nebo bezpečnost provozu apod.) a vlastník pozemku v ochranném pásmu musí (v nezbytně nutných případech, na nezbytnou dobu a v nezbytné míře etc.) strpět omezení využití pozemku (např. nemůže stavět bez zvláštního povolení), musí umožnit vstup správci komunikace…"
+
 #### Funkce ochranných pásem — sui generis omezení vlastnického práva
 
 Silniční ochranná pásma jsou **veřejnoprávní omezení vlastnického práva** k pozemkům a stavbám nacházejícím se v zákonem vymezené blízkosti PK. Pásma slouží:
@@ -2211,6 +2229,11 @@ Silniční ochranná pásma omezují ex lege využití pozemků mimo zastavěné
 > *- c) Policie České republiky, jde-li o silniční ochranné pásmo silnice a místní komunikace.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 208/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-208-04) — usnesení, 22. 9. 2004
+  > „Stěžovatelka totiž vychází z nesprávného předpokladu, že při splnění formálních podmínek má právní nárok na to, aby jí bylo uděleno povolení zřídit a provozovat reklamní zařízení ve smyslu § 31 odst. 1 zákona č. 13/1997 Sb., avšak toto povolení vydává příslušný silniční správní úřad po předchozím souhlasu mimo jiné Ministerstva vnitra. Pokud toto ministerstvo souhlas nevydalo, protože umístění předmětného zařízení by mohlo narušit bezpečnost silničního provozu, nemohlo … [neboť při takovém výkladu by uvedené ustanovení ztratilo jakýkoliv smysl, a postrádá-li stěžovatelka zákonná kritéria pro jeho vydání či odepření, lze dovodit, že tato tkví rovněž v § 31 odst. 1 cit. zákona.]"
 
 #### Vztah § 31 (reklama v ochranném pásmu) a § 25 odst. 6 písm. c) bod 1 (reklama na PK)
 

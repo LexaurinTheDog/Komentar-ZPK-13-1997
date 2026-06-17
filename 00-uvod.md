@@ -63,12 +63,12 @@ Nejvíce **mediálně i prakticky exponované** ustanovení ZPK je **§ 27** o o
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 2393/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF1969C8AD559ED0C1258B8E004D3F42?openDocument) — 31. 7. 2024, kat. A
-  > „Vlastník komunikace je povinen nahradit újmu způsobenou uživateli komunikace závadou ve schůdnosti či sjízdnosti zřídí-li však k tomu účelu právnickou osobu (správce), má takovou povinnost správce, zatímco vlastník za splnění povinnosti k náhradě poškozenému ručí (§ 27 odst. 6 zákona č. 13/1997 Sb.). Naproti tomu povinnost hradit újmu způsobenou porušením zákonné povinnosti udržovat komunikace v řádném stavu vzniká jen samotnému vlastníku komunikace bez ohledu na to, zda si i k tomuto účelu zřídil samostatný subjekt"
-- *NS* [31 Cdo 1178/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9E01CD14D5C3CEFC1258A8C0031A342?openDocument) — 8. 11. 2023, kat. A
-  > „Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení přípustnosti dovolání prostřednictvím hodnotového censu vyjádřeného v § 238 odst. 1 písm. c/ o. s. ř. se neuplatní, jestliže se dovolání týká právních otázek, jejichž řešení je těmto nárokům společné (vychází ze skutkového základu těmto nárokům společného). Je-li v době vydání dovoláním napadeného rozhodnutí odvolacího soudu předmětem řízení peněžité plnění převyšující 50.000 Kč, které se skládá z nároků, jež, ač mají původ v téže události, jsou obecně vzato pokládány za nároky se „samostatným skutkovým základem“, z nichž každý samostatně nepřevyšuje 50.000 Kč, omezení…"
-- *NS* [25 Cdo 1713/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F29FA2456AC310FC1257A4E006758EC?openDocument) — 25. 8. 2010, kat. A
+- *NS* [25 Cdo 1713/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F29FA2456AC310FC1257A4E006758EC?openDocument) — kat. A, 25. 8. 2010
   > „Závadami ve schůdnosti pozemní komunikace se rozumí natolik významné změny (zhoršení) schůdnosti komunikace, že chodec ani při obezřetné chůzi respektující stav komunikace či důsledky povětrnostních vlivů nemůže jejich výskyt předpokládat a účinně na ně reagovat"
+- *NS* [25 Cdo 2393/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF1969C8AD559ED0C1258B8E004D3F42?openDocument) — kat. A, 31. 7. 2024
+  > „Vlastník komunikace je povinen nahradit újmu způsobenou uživateli komunikace závadou ve schůdnosti či sjízdnosti zřídí-li však k tomu účelu právnickou osobu (správce), má takovou povinnost správce, zatímco vlastník za splnění povinnosti k náhradě poškozenému ručí (§ 27 odst. 6 zákona č. 13/1997 Sb.). Naproti tomu povinnost hradit újmu způsobenou porušením zákonné povinnosti udržovat komunikace v řádném stavu vzniká jen samotnému vlastníku komunikace bez ohledu na to, zda si i k tomuto účelu zřídil samostatný subjekt"
+- *ÚS* [Pl.ÚS 4/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-05_1) — nález, 6. 3. 2007
+  > „Schůdnost chodníků (viz čl. 3 odst. 2 vyhlášky) je upravena ustanovením § 27 odst. 4 téhož zákona (včetně zákonné odpovědnosti za škodu). Povinnosti stanovené v článku 2 vyhlášky jsou v úplnosti regulovány obecně zákonem a vynucovány dozorem orgánů státní správy"
 
 ### F. Kazuistika
 
