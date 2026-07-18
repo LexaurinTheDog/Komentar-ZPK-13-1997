@@ -70,6 +70,58 @@ ZPK upravuje **statické** otázky pozemních komunikací (vlastnictví, kategor
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f539f0438e07d00aedbc generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> Tento zákon zapracovává příslušné předpisy Evropské unie1) a upravuje
+>
+> - a) kategorizaci pozemních komunikací, jejich stavbu, podmínky užívání a jejich ochranu,
+>
+> - b) práva a povinnosti vlastníků pozemních komunikací a jejich uživatelů a
+>
+> - c) výkon státní správy ve věcech pozemních komunikací příslušnými silničními správními úřady a jinými správními orgány.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f539f0438e07d00aedbc -->
+
 ### § 2 — Pozemní komunikace a jejich rozdělení
 
 > **§ 2**
@@ -156,6 +208,62 @@ Před jakýmkoli sporem o cestu je třeba postavit najisto (a) zda vůbec jde o 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cc8294070ff0c71288d7 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 2 — Pozemní komunikace a jejich rozdělení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Pozemní komunikace je dopravní cesta určená k užití silničními a jinými vozidly1a) a chodci, včetně pevných zařízení nutných pro zajištění tohoto užití a jeho bezpečnosti.
+>
+> (2) Pozemní komunikace se dělí na tyto kategorie:
+>
+> - a) dálnice,
+>
+> - b) silnice,
+>
+> - c) místní komunikace,
+>
+> - d) účelová komunikace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cc8294070ff0c71288d7 -->
+
 ### § 3 — Zařazování pozemních komunikací do kategorií a tříd
 
 > **§ 3**
@@ -241,6 +349,56 @@ Změna kategorie je konstitutivní správní akt; tam, kde s sebou nese změnu v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a0e2dd23df7c09e96f21 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) O zařazení pozemní komunikace do kategorie dálnice, silnice nebo místní komunikace a jejich tříd rozhoduje příslušný silniční správní úřad na základě jejího určení, dopravního významu a stavebně technického vybavení.
+>
+> (2) Dojde-li ke změně dopravního významu nebo určení pozemní komunikace, rozhodne příslušný silniční správní úřad o změně kategorie nebo třídy.
+>
+> (3) V případě, kdy změna kategorie nebo třídy pozemní komunikace vyžaduje změnu vlastnických vztahů k pozemní komunikaci, může příslušný silniční správní úřad vydat rozhodnutí o změně kategorie pouze na základě smlouvy o budoucí smlouvě o převodu vlastnického práva k dotčené pozemní komunikaci uzavřené mezi stávajícím vlastníkem a budoucím vlastníkem. Do doby převodu vlastnického práva k dotčené pozemní komunikaci vykonává všechna práva a povinnosti k této pozemní komunikaci její dosavadní vlastník.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a0e2dd23df7c09e96f21 -->
+
 ### § 4 — Dálnice
 
 > **§ 4**
@@ -311,6 +469,56 @@ Dálnice je definována šesti kumulativními znaky, ale v praxi rozhoduje zařa
 **Typicky rozhodné důkazy / podklady:** technický průkaz vozidla, rozhodnutí o zařazení úseku, dopravní značení (fotodokumentace), úřední záznam PČR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b1003dd83cda1e72b481 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 4 — Dálnice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Dálnice je pozemní komunikace určená pro rychlou dálkovou a mezistátní dopravu motorovými vozidly, která je budována bez úrovňových křížení, s oddělenými místy napojení pro vjezd a výjezd a která má směrově oddělené jízdní pásy.
+>
+> (2) Dálnice se podle svého určení a dopravního významu rozdělují na dálnice I. třídy a dálnice II. třídy.
+>
+> (3) Dálnice je přístupná pouze motorovým vozidlům, jejichž nejvyšší povolená rychlost není nižší, než stanoví zvláštní předpis.2)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1003dd83cda1e72b481 -->
 
 ### § 5 — Silnice
 
@@ -387,6 +595,62 @@ Silnice je veřejně přístupná každému; její přeměna na silnici pro moto
 **Typicky rozhodné důkazy / podklady:** evidence připojení (§ 10), projektová dokumentace, rozhodnutí o zařazení do třídy, stanovisko PČR, pasport silnice.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a638e1d2da0495178843 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 5 — Silnice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Silnice je veřejně přístupná pozemní komunikace určená k užití silničními a jinými vozidly a chodci. Silnice tvoří silniční síť.
+>
+> (2) Silnice se podle svého určení a dopravního významu rozdělují do těchto tříd:
+>
+> - a) silnice I. třídy, která je určena zejména pro dálkovou a mezistátní dopravu,
+>
+> - b) silnice II. třídy, která je určena pro dopravu mezi okresy,
+>
+> - c) silnice III. třídy, která je určena k vzájemnému spojení obcí nebo jejich napojení na ostatní pozemní komunikace.
+>
+> (3) Silnice může být označena jako silnice pro motorová vozidla podle zvláštního právního předpisu2), pouze jde-li o silnici I. třídy, která je budována bez úrovňových křížení, s oddělenými místy napojení pro vjezd a výjezd a na níž není přímo připojena sousední nemovitost s výjimkou nemovitostí přímo připojených z odpočívek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a638e1d2da0495178843 -->
 
 ### § 6 — Místní komunikace
 
@@ -473,6 +737,66 @@ U místních komunikací vždy ověřit existenci rozhodnutí o zařazení — p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e65cb0d8ab2265aec281 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 6 — Místní komunikace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Místní komunikace je veřejně přístupná pozemní komunikace, která slouží převážně místní dopravě na území obce.
+>
+> (2) Místní komunikace se rozdělují podle dopravního významu, určení a stavebně technického vybavení do těchto tříd:
+>
+> - a) místní komunikace I. třídy,
+>
+> - b) místní komunikace II. třídy, kterou je dopravně významná sběrná komunikace s omezením přímého připojení sousedních nemovitostí,
+>
+> - c) místní komunikace III. třídy, kterou je obslužná komunikace,
+>
+> - d) místní komunikace IV. třídy, kterou je komunikace nepřístupná provozu silničních motorových vozidel nebo na které je umožněn smíšený provoz.
+>
+> (3) Místní komunikace může být označena jako silnice pro motorová vozidla podle zvláštního právního předpisu2), pouze jde-li o místní komunikaci I. třídy, která je budována bez úrovňových křížení, s oddělenými místy napojení pro vjezd a výjezd a na níž není přímo připojena sousední nemovitost s výjimkou nemovitostí přímo připojených z odpočívek.
+>
+> (4) Prováděcí předpis blíže vymezí znaky pro rozdělení místních komunikací do jednotlivých tříd.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e65cb0d8ab2265aec281 -->
+
 ### § 7 — Účelová komunikace
 
 > **§ 7**
@@ -557,6 +881,54 @@ Odstavec 2 upravuje účelové komunikace v **uzavřeném prostoru nebo objektu*
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6b4fa2658781c93db333 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 7 — Účelová komunikace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Účelová komunikace je pozemní komunikace, která slouží ke spojení jednotlivých nemovitostí pro potřeby vlastníků těchto nemovitostí nebo ke spojení těchto nemovitostí s ostatními pozemními komunikacemi nebo k obhospodařování zemědělských a lesních pozemků. Příslušný silniční správní úřad obecního úřadu obce s rozšířenou působností může na žádost vlastníka účelové komunikace a po projednání s Policií České republiky upravit nebo omezit veřejný přístup na účelovou komunikaci, pokud je to nezbytně nutné k ochraně oprávněných zájmů tohoto vlastníka. Úprava nebo omezení veřejného přístupu na účelové komunikace stanovené zvláštními právními předpisy21) tím není dotčena.
+>
+> (2) Účelovou komunikací je i pozemní komunikace v uzavřeném prostoru nebo objektu, která slouží potřebě vlastníka nebo provozovatele uzavřeného prostoru nebo objektu. Tato účelová komunikace není přístupná veřejně, ale v rozsahu a způsobem, který stanoví vlastník nebo provozovatel uzavřeného prostoru nebo objektu. V pochybnostech, zda z hlediska pozemní komunikace jde o uzavřený prostor nebo objekt, rozhoduje příslušný silniční správní úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6b4fa2658781c93db333 -->
+
 ### § 8 — Průjezdní úsek dálnice a silnice
 
 > **§ 8**
@@ -618,6 +990,54 @@ V průjezdním úseku platí: vozovka s krajnicemi = vlastník silnice (kraj/st�
 **Typicky rozhodné důkazy / podklady:** fotodokumentace a zaměření místa, pasporty kraje a obce, plány zimní údržby, lékařské zprávy, svědecké výpovědi.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a436dc42378ffa87651a generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 8 — Průjezdní úsek dálnice a silnice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Dálnice a silnice mohou vést zastavěným územím nebo zastavitelnými plochami (dále jen „průjezdní úsek dálnice“ nebo „průjezdní úsek silnice“), pokud se tím převádí převážně průjezdná doprava tímto územím.
+>
+> (2) Prováděcí předpis stanoví stavebně technické podmínky pro určování hranic průjezdního úseku podle předchozího odstavce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a436dc42378ffa87651a -->
 
 ### § 9 — Vlastnické vztahy a správa pozemních komunikací
 
@@ -737,6 +1157,66 @@ Vlastnictví komunikací je kogentně rozděleno podle kategorie; odpovědnostn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9dc17fdffe9b3d579402 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Vlastníkem dálnic a silnic I. třídy je stát. Vlastníkem silnic II. a III. třídy je kraj, na jehož území se silnice nacházejí, a vlastníkem místních komunikací je obec, na jejímž území se místní komunikace nacházejí. Vlastníkem účelových komunikací je právnická nebo fyzická osoba. Stavba dálnice, silnice a místní komunikace není součástí pozemku.
+>
+> (2) Vlastník dálnice, silnice nebo místní komunikace vede evidenci jím vlastněných pozemních komunikací.
+>
+> (3) Vlastník dálnice, silnice nebo místní komunikace je povinen vykonávat její správu zahrnující zejména její pravidelné a mimořádné prohlídky, údržbu a opravy. Výkon správy může vlastník dálnice, silnice nebo místní komunikace zajišťovat prostřednictvím správce, jímž je právnická osoba zřízená nebo založená vlastníkem dálnice, silnice nebo místní komunikace za podmínky, že je vůči ní vlastník po celou dobu výkonu správy ovládající osobou. Vlastník, popřípadě správce, mohou dílčími činnostmi v rámci správy dálnice, silnice nebo místní komunikace, zejména činnostmi souvisejícími s údržbou a opravami dotčené dálnice, silnice nebo místní komunikace, pověřit osobu vybranou postupem podle zvláštního právního předpisu2a) nebo kraj u silnic I. třídy nacházejících se v jeho územním obvodu na základě veřejnoprávní smlouvy; tato osoba nebo kraj se nestávají správcem dotčené pozemní komunikace.
+>
+> (4) Je-li výkon správy dálnice, silnice nebo místní komunikace zajišťován prostřednictvím správce, musí zahrnovat alespoň pravidelné a mimořádné prohlídky, údržbu a opravy, a vlastník musí zveřejnit způsobem umožňujícím dálkový přístup identifikační údaje správce, vymezení pozemních komunikací, jejichž správu vykonává, a rozsah jím vykonávané správy. Povinně zveřejňovanými identifikačními údaji správce jsou obchodní firma nebo název, adresa sídla a identifikační číslo osoby, bylo-li přiděleno; je-li správcem kraj, je povinně zveřejňovaným identifikačním údajem pouze jeho název.
+>
+> (5) Sousedící kraje mohou veřejnoprávní smlouvou sjednat převod vlastnictví úseku silnice II. nebo III. třídy, jestliže
+>
+> - a) po dotčeném úseku silnice probíhá hranice mezi územím obou krajů, nebo
+>
+> - b) dotčený úsek silnice je vymezen průběhem hranice mezi územím obou krajů a s ním sousedící úseky této silnice jsou na území kraje, který má vlastnictví nabýt.
+>
+> (6) Prováděcí právní předpis stanoví členění, rozsah, obsah, četnost a způsob provádění prohlídek dálnic, silnic a místních komunikací, členění, rozsah, obsah a způsob provádění údržby a opravy dálnic, silnic a místních komunikací a obsah, rozsah, formu a způsob vedení evidence dálnic, silnic a místních komunikací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9dc17fdffe9b3d579402 -->
+
 ### § 9a — Ředitelství silnic a dálnic s. p.
 
 > **§ 9a**
@@ -837,6 +1317,64 @@ Označení **„generální ředitel"** odlišuje vrcholného manažera ŘSD od 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c7de7b52df4f26b1a687 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 9a — Ředitelství silnic a dálnic s. p.
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Právo hospodařit s dálnicemi a silnicemi I. třídy a jejich součástmi a příslušenstvím má Ředitelství silnic a dálnic s. p.
+>
+> (2) Ředitelství silnic a dálnic s. p. zajišťuje výstavbu dálnic a silnic I. třídy a jejich součástí a příslušenství, je správcem dálnic a silnic I. třídy a vykonává další činnosti svěřené mu zakládací listinou.
+>
+> (3) Za dluhy Ředitelství silnic a dálnic s. p. ručí stát. Jde-li o dluh vzniklý v souvislosti s úvěrem nebo s peněžními prostředky poskytnutými dočasně v jiné formě k úhradě nákladů na výstavbu dálnic nebo silnic I. třídy nebo jejich součástí nebo příslušenství, stát za něj ručí, pouze pokud tak stanoví zvláštní zákon. Stát jako ručitele zastupuje Ministerstvo dopravy.
+>
+> (4) Je-li Ředitelství silnic a dálnic s. p. povinným v exekučním řízení, neuplatní se na něj zákaz nakládání s majetkem po doručení vyrozumění o zahájení exekuce podle exekučního řádu. Zákaz povinného převést nebo zatížit majetek postižený exekučním příkazem nebo s ním jinak nakládat tím není dotčen.
+>
+> (5) Ředitelství silnic a dálnic s. p. zavede a udržuje vnitřní kontrolní systém podle zákona o finanční kontrole.
+>
+> (6) Dálnice a silnice I. třídy a jejich součásti a příslušenství se neodpisují podle právních předpisů upravujících účetnictví.
+>
+> (7) Ředitel Ředitelství silnic a dálnic s. p. se označuje jako generální ředitel.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c7de7b52df4f26b1a687 -->
+
 ### § 10 — Připojování pozemních komunikací
 
 > **§ 10**
@@ -927,6 +1465,62 @@ Připojení nemovitosti je vždy povolovací proces bez právního nároku: souv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1f33ad230a9dc138e101 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 10 — Připojování pozemních komunikací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Pozemní komunikace lze navzájem připojovat zřizováním křižovatek nebo připojovat na ně sousední nemovitosti zřízením sjezdů nebo nájezdů. Přímé připojení sousední nemovitosti na pozemní komunikaci není účelovou komunikací.
+>
+> (2) Větve mimoúrovňových křižovatek a kruhové křižovatky jsou přiřazeny k pozemní komunikaci vyšší kategorie nebo třídy, větve úrovňových křižovatek jsou přiřazeny k pozemní komunikaci nižší kategorie nebo třídy.
+>
+> (3) Na dálnici, silnici podle § 5 odst. 3 nebo místní komunikaci podle § 6 odst. 3 může být přímo připojena z odpočívky jen stavba, která svým účelem slouží výlučně uživatelům těchto pozemních komunikací (např. čerpací stanice pohonných hmot, motorest, motel, autoservis).
+>
+> (4) Souvisí-li připojení pozemních komunikací navzájem nebo připojení sousední nemovitosti na dálnici, silnici a místní komunikaci, vyžadující povolení podle tohoto zákona, se záměrem povolovaným podle [[stavebního zákona|stavebního zákona]], rozhodne o povolení připojení pozemních komunikací navzájem nebo připojení sousední nemovitosti na dálnici, silnici a místní komunikaci, jakož i úpravě takového připojení nebo jeho zrušení stavební úřad rozhodnutím o povolení záměru podle [[stavebního zákona|stavebního zákona]].
+>
+> (5) K žádosti o povolení připojení podle odstavce 4 žadatel připojí také vyjádření vlastníka dotčené pozemní komunikace a jedná-li se o dálnici vyjádření Ministerstva vnitra, v ostatních případech vyjádření Policie České republiky. Nevydá-li vlastník dotčené komunikace vyjádření do 30 dnů od doručení žádosti, která má všechny náležitosti potřebné pro posouzení připojení, platí, že k připojení nemá připomínky a s připojením souhlasí.
+>
+> (6) Prováděcí předpis upraví technické podmínky pro připojování pozemních komunikací navzájem a podmínky pro připojování sousední nemovitosti na dálnici, silnici a místní komunikaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f33ad230a9dc138e101 -->
+
 ## ČÁST DRUHÁ — SILNIČNÍ POZEMEK, SOUČÁSTI A PŘÍSLUŠENSTVÍ DÁLNIC, SILNIC A MÍSTNÍCH KOMUNIKACÍ
 
 ### § 11 — Silniční pozemek
@@ -1014,6 +1608,60 @@ Hranici silničního pozemku určuje technický průběh tělesa (vnější hran
 **Typicky rozhodné důkazy / podklady:** geometrický plán, znalecký posudek (průběh tělesa, cena), katastrální mapa, pasport silnice, fotodokumentace terénu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f7ef952bf9ec99611cdb generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 11 — Silniční pozemek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Silničním pozemkem se rozumí pozemky, na nichž je umístěno těleso dálnice, silnice a místní komunikace a silniční pomocný pozemek.
+>
+> (2) Těleso dálnice nebo těleso silnice a místní komunikace mimo zastavěné území nebo zastavitelné plochy je ohraničeno spodním okrajem a vnějšími okraji stavby pozemní komunikace, kterými jsou vnější okraje zaoblených hran zářezů či zaoblených pat náspů, vnější hrany silničních nebo záchytných příkopů nebo rigolů nebo vnější hrany pat opěrných zdí, tarasů, koruny obkladních nebo zárubních zdí nebo zářezů nad těmito zdmi.
+>
+> (3) Těleso průjezdního úseku silnice je ohraničeno šířkou vozovky s krajnicemi mezi zvýšenými obrubami chodníků, zelených pásů nebo obdobných ploch. Na náměstích a podobných prostranstvích je šířkou průjezdního úseku šířka pruhu odlišeného od okolního povrchu druhem nebo materiálem vozovky nebo plochými rigoly, a není-li ani jich, šířka pruhu odpovídající šířce vozovky s krajnicemi navazujících úseků silnice. V ostatních případech je průjezdní úsek dálnice nebo průjezdní úsek silnice ohraničen obdobně jako v odstavci 2.
+>
+> (4) Šířka průjezdního úseku dálnice nebo průjezdního úseku silnice celništěm na hraničním přechodu odpovídá šířce vozovky s krajnicemi navazujících úseků dálnice nebo silnice.
+>
+> (5) Silniční pomocný pozemek je pruh pozemku přilehlého po obou stranách k tělesu dálnice, silnice nebo místní komunikace mimo zastavěné území, který slouží účelům ochrany a údržby dálnice, silnice nebo místní komunikace, pokud tyto pozemky jsou ve vlastnictví vlastníka dálnice, silnice nebo místní komunikace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f7ef952bf9ec99611cdb -->
 
 ### § 12 — Součásti dálnice, silnice a místní komunikace
 
@@ -1121,6 +1769,74 @@ U sporů o odvodnění platí: komunikace „vlastní" jen vpusť, šachtu a př
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=27e618e33e04ad036b43 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 12
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Součástmi dálnice, silnice a místní komunikace jsou
+>
+> - a) všechny konstrukční vrstvy vozovek a krajnic, odpočívky, stavby a technická a jiná zařízení určená k provádění kontrolní činnosti při dohledu na bezpečnost a plynulost provozu na pozemních komunikacích, přidružené a přídatné pruhy, včetně zastávkových pruhů linkové osobní dopravy,
+>
+> - b) mostní objekty (nadjezdy), po nichž je komunikace vedena, včetně chodníků, revizních zařízení, ochranných štítů a sítí na nich, strojní vybavení sklopných mostů, ledolamy, propustky, lávky pro chodce nebo cyklisty,
+>
+> - c) tunely, galérie, opěrné, zárubní, obkladní a parapetní zdi, tarasy, násypy a svahy, dělicí pásy, příkopy a ostatní povrchová odvodňovací zařízení, silniční pomocné pozemky,
+>
+> - d) svislé dopravní značky, zábradlí, odrazníky, svodidla, pružidla, směrové sloupky, dopravní knoflíky, staničníky, mezníky, vodorovná dopravní značení, dopravní ostrůvky, odrazné a vodicí proužky a zpomalovací prahy,
+>
+> - e) únikové zóny, protihlukové stěny a protihlukové valy, pokud jsou umístěny na silničním pozemku.
+>
+> (2) Jestliže je konstrukce vozovky uložena přímo na konstrukci jiné stavby (vodního díla, metra, haly, garáží), patří mezi součásti pouze tato vozovka.
+>
+> (3) Kanalizace, včetně úprav k odvádění vody, lapolů a sedimentačních nebo retenčních nádrží, je součástí dálnice, silnice nebo místní komunikace jen tehdy, slouží-li výlučně k odvádění povrchových vod z této komunikace. V ostatních případech je součástí pouze dešťová vpusť s šachtou a přípojkou do kanalizačního řádu.
+>
+> (4) Pokud nejsou samostatnými místními komunikacemi, jsou součástmi místních komunikací též přilehlé chodníky, chodníky pod podloubími, veřejná parkoviště a obratiště, podchody a zařízení pro zajištění a zabezpečení přechodů pro chodce.
+>
+> (5) Odpočívka je stavebně a provozně vymezená plocha dálnice, silnice nebo místní komunikace určená k bezúplatnému stání silničního motorového vozidla na dobu potřebnou pro zajištění bezpečnosti a plynulosti silničního provozu a k odpočinku uživatelů, popřípadě k jejich občerstvení a k doplnění pohonných hmot.
+>
+> (6) Veřejné parkoviště je stavebně a provozně vymezená plocha místní nebo účelové komunikace anebo samostatná místní nebo účelová komunikace určená ke stání silničního motorového vozidla.
+>
+> (7) Jízdní pruh nebo pás pro cyklisty je součástí té pozemní komunikace, na jejímž tělese je umístěn. Samostatná stezka pro cyklisty je podle své povahy a umístění buď místní komunikací IV. třídy, nebo účelovou komunikací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=27e618e33e04ad036b43 -->
+
 ### § 12a — Bezpečnost provozu tunelů nad 500 m
 
 > **§ 12a**
@@ -1192,6 +1908,62 @@ U tunelů nad 500 m platí zvláštní bezpečnostní režim: dokumentaci a koor
 **Typicky rozhodné důkazy / podklady:** bezpečnostní dokumentace s revizemi, zprávy o mimořádných událostech, doklady kvalifikace pověřené osoby, zásahová dokumentace IZS, korespondence úřad–správce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8041eb4d21613676cc0b generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 12a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Příslušný silniční správní úřad odpovídá za bezpečnost provozu tunelu o délce přesahující 500 metrů (dále jen „tunel nad 500 m“). Příslušný silniční správní úřad při správě tunelu nad 500 m na základě podkladů správce pozemní komunikace, jejíž součástí je tunel nad 500 m
+>
+> - a) sestavuje bezpečnostní dokumentaci a průběžně v ní zaznamenává změny údajů,
+>
+> - b) vyhotovuje zprávu o mimořádných událostech, k nimž došlo v tunelu nad 500 m,
+>
+> - c) pověřuje koordinací opatření k zajištění bezpečného provozu tunelu nad 500 m fyzickou osobu splňující požadavky, stanovené prováděcím právním předpisem na odbornou kvalifikaci a praxi (dále jen „pověřená osoba“).
+>
+> (2) Zprávu vyhotovenou podle odstavce 1 písm. b) zašle správce tunelu nad 500 m do 30 dnů ode dne, kdy došlo k mimořádné události Ministerstvu dopravy a složkám integrovaného záchranného systému11c). Údaje z těchto zpráv oznamuje Ministerstvo dopravy každé dva roky Evropské komisi.
+>
+> (3) Náležitosti bezpečnostní dokumentace tunelu nad 500 m, vzor zprávy o mimořádných událostech v tunelu nad 500 m, vymezení činnosti pověřené osoby při koordinaci opatření k zajištění bezpečnosti provozu tunelu nad 500 m, požadavky na její odbornou kvalifikaci a praxi stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8041eb4d21613676cc0b -->
 
 ### § 13 — Příslušenství dálnice, silnice a místní komunikace
 
@@ -1282,6 +2054,74 @@ Pevně instalovaná mýtná, vážicí a kontrolní technika na silničním poze
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e71c73993d8eb30b4e47 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> Příslušenstvím dálnice, silnice a místní komunikace jsou
+>
+> - a) přenosné svislé dopravní značky, a dopravní zařízení,2)
+>
+> - b) hlásiče náledí, hlásky a jiná zařízení pro provozní informace,
+>
+> - c) veřejné osvětlení, světelná signalizační zařízení sloužící k řízení provozu,
+>
+> - d) silniční vegetace, zásněžky, zásobníky a skládky údržbových hmot,
+>
+> - e) objekty a prostranství bezprostředně sloužící výkonu údržby dálnice, silnice nebo místní komunikace (cestmistrovství) nebo k zabezpečení úkolů složek integrovaného záchranného systému a jejich napojení na příslušnou pozemní komunikaci,
+>
+> - f) zařízení zabraňující vniknutí volně žijících živočichů (např. ploty, přechodové můstky, tunely),
+>
+> - g) zařízení pro placení ceny za užívání vymezeného úseku místní komunikace,
+>
+> - h) technická zařízení a jejich součásti, určená k vyměření, výběru a kontrole úhrady poplatku za užití pozemní komunikace (dále jen „systém elektronického mýtného“), jsou-li umístěna na pozemní komunikaci nebo na silničním pozemku,
+>
+> - i) technická zařízení a jejich součásti určené k provádění vysokorychlostního kontrolního vážení pomocí nepřenosných vysokorychlostních vah, jsou-li umístěna na pozemní komunikaci nebo na silničním pozemku,
+>
+> - j) technická zařízení a jejich součásti určená ke kontrole úhrady časového poplatku za užití pozemní komunikace, jsou-li pevně umístěna na pozemní komunikaci nebo na silničním pozemku,
+>
+> - k) kabelovody, pokud jsou umístěny na silničním pozemku a pokud nejsou součástí jiné technické infrastruktury.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e71c73993d8eb30b4e47 -->
+
 ### § 14 — Součásti a příslušenství průjezdního úseku a obecná vyloučení
 
 > **§ 14**
@@ -1371,6 +2211,68 @@ Před uplatněním nároku ze závady „na silnici" vždy zkontrolovat negativn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bd2b9bb49b274d4b04ce generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) O součástech a příslušenství průjezdního úseku dálnice a průjezdního úseku silnice platí ustanovení [[#§ 12|§ 12]] a [[#§ 13|13]] s těmito odchylkami:
+>
+> - a) zábradlí a obdobná zařízení jsou součástmi pouze na mostních objektech a na zdech,
+>
+> - b) součástmi ani příslušenstvím nejsou zábradlí, řetězy a jiná zařízení pro zajištění a zabezpečení přechodů pro chodce, veřejné osvětlení, světelná signalizační zařízení sloužící k řízení provozu.
+>
+> (2) Součástmi ani příslušenstvím dálnice, silnice a místní komunikace nejsou
+>
+> - a) sjezdy nebo nájezdy na sousední nemovitosti, hráze vodních nádrží a rybníků, břehy vodních toků, po nichž komunikace probíhá pod úrovní břehové čáry, nábřežní zdi vybudované k regulaci vodního toku, vodohospodářské objekty pod mosty, zařízení melioračních úprav (propusti, podchody),
+>
+> - b) nástupní ostrůvky, zařízení pro zveřejnění jízdních řádů a čekárny linkové osobní dopravy a hromadné veřejné dopravy, trolejová vedení a jejich sloupy, provozní a technická policejní zařízení,
+>
+> - c) úrovňové přejezdy drah bez závor do vzdálenosti 2,5 m od osy krajní koleje a úrovňové přejezdy drah se závorami ve vzdálenosti mezi závorami, zařízení k zabezpečení přejezdů drah, kolejový svršek tramvajové a železniční dopravy v úrovni vozovky do vzdálenosti 0,5 m od vnější hrany kolejnice, samostatná tělesa drah,
+>
+> - d) autobusová nádraží, motely, motoresty, čerpací stanice pohonných hmot a celniště na hraničních přechodech.
+>
+> (3) Součástmi ani příslušenstvím dálnic, silnic a místních komunikací dále nejsou inženýrské sítě, energetická, telekomunikační, tepelná a jiná vedení včetně sloupů těchto vedení, pokud neslouží výlučně vlastníkovi dotčené komunikace s výjimkou kabelovodů podle § 13 písm. k), a dále reklamní tabule a poutače všeho druhu, stánky a jiná pojízdná nebo přenosná prodejní zařízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12, § 13
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bd2b9bb49b274d4b04ce -->
+
 ### § 15 — Silniční vegetace
 
 > **§ 15**
@@ -1442,6 +2344,56 @@ Kácení silniční vegetace vyžaduje kumulativně: dopravně-bezpečnostní d�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7ab1a7b74813cfb7a75e generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 15 — Silniční vegetace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Silniční vegetace na silničních pomocných pozemcích a na jiných vhodných pozemcích tvořících součást dálnice, silnice nebo místní komunikace nesmí ohrožovat bezpečnost užití pozemní komunikace nebo neúměrně ztěžovat použití těchto pozemků k účelům údržby těchto komunikací nebo neúměrně ztěžovat obhospodařování sousedních pozemků.
+>
+> (2) Na návrh Policie České republiky nebo po projednání s ní nebo na návrh silničního správního úřadu nebo po projednání s ním je vlastník, popřípadě správce dálnice, silnice a místní komunikace oprávněn v souladu se zvláštními předpisy3) kácet dřeviny na silničních pozemcích.
+>
+> (3) Na silničním pozemku se přípustná vzdálenost stromu od společné hranice se sousedním pozemkem podle občanského zákoníku snižuje v rozsahu, v jakém je to nezbytné pro splnění požadavků podle odstavce 1, přičemž však nesmí být kratší než 0,5 m. Na pozemku přilehlém k veřejně přístupné účelové komunikaci se tato vzdálenost snižuje v rozsahu, v jakém je to nezbytné pro zajištění bezpečnosti užití této komunikace, přičemž však nesmí být kratší než 0,5 m.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ab1a7b74813cfb7a75e -->
+
 ## ČÁST TŘETÍ — VÝSTAVBA DÁLNICE, SILNICE, MÍSTNÍ KOMUNIKACE A VEŘEJNĚ PŘÍSTUPNÉ ÚČELOVÉ KOMUNIKACE
 
 ### § 16 — Povolování záměru stavby pozemní komunikace
@@ -1511,6 +2463,56 @@ Povolování staveb komunikací je integrováno do stavebního zákona, ale ZPK 
 **Typicky rozhodné důkazy / podklady:** spis povolovacího řízení, vyjádření PČR/MV, bezpečnostní dokumentace tunelu, vyjádření MD, projektová dokumentace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=61c4e3b010459ef7426c generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Jsou-li záměry pozemních komunikací povolovány podle [[stavebního zákona|stavebního zákona]], posoudí stavební úřad v řízení o povolení záměru také požadavky na plynulost a bezpečnost provozu na pozemní komunikaci. K žádosti o povolení záměru stavby pozemní komunikace stavebník připojí kromě náležitostí stanovených stavebním zákonem také vyjádření z hlediska zajištění bezpečnosti a plynulosti provozu na pozemní komunikaci. Jde-li o dálnici, je příslušné k vydání vyjádření Ministerstvo vnitra, v ostatních případech Policie České republiky.
+>
+> (2) K žádosti o povolení záměru podle [[stavebního zákona|stavebního zákona]], kterým je stavba tunelu nad 500 m, stavebník kromě náležitostí stanovených stavebním zákonem připojí také bezpečnostní dokumentaci podle [[#§ 12a|§ 12a]] tohoto zákona obsahující bezpečnostní požadavky na tunely nad 500 m a vyjádření Ministerstva dopravy k této dokumentaci, které je podkladem v řízení o povolení záměru podle [[stavebního zákona|stavebního zákona]].
+>
+> (3) Prováděcí předpis stanoví obecné technické požadavky pro stavbu dálnice, silnice a místní komunikace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=61c4e3b010459ef7426c -->
 
 ### § 17 — Veřejná prospěšnost a vyvlastnění
 
@@ -1601,6 +2603,62 @@ Nájem **nesmí překročit ani jednu** z těchto hranic. Toto pravidlo má dopa
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2027c23849753e5a1895 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Dálnice, silnice a místní komunikace I. třídy, jejich součásti, příslušenství a stavby související jsou veřejně prospěšné. Za související stavbu se pro tyto účely považuje i stezka pro cyklisty a stezka pro chodce a cyklisty souběžná se silnicí nebo místní komunikací I. třídy.
+>
+> (2) Podle zvláštního právního předpisu7) lze odejmout nebo omezit
+>
+> - a) vlastnické právo k pozemku nebo ke stavbě nebo právo odpovídající věcnému břemenu k pozemku nebo ke stavbě potřebným k uskutečnění výstavby, opravy, úpravy, modernizace nebo rekonstrukce dálnice, silnice, místní komunikace I. třídy, jejich součástí, příslušenství nebo staveb souvisejících,
+>
+> - b) vlastnické právo k pozemku, jestliže byla dálnice, silnice nebo místní komunikace zřízena na cizím pozemku.
+>
+> (3) Pokud se vlastnické právo k pozemku nebo stavbě potřebným k uskutečnění výstavby, opravy, úpravy, modernizace nebo rekonstrukce staveb uvedených v odstavci 1 omezuje smlouvou, sjednává se výše úplaty ve výši 10 000 Kč. Nesouhlasí-li vyvlastňovaný s částkou podle předchozí věty, sjednává se úplata ve výši odpovídající ocenění tohoto omezení stanovené znaleckým posudkem.
+>
+> (4) Sjednává-li se nájem pozemku nebo stavby potřebných k uskutečnění výstavby, opravy, úpravy, údržby, modernizace nebo rekonstrukce dálnice, silnice I. třídy, jejich součástí, příslušenství nebo staveb souvisejících, nesmí nájemné překročit nejvyšší možnou výši vyplývající z regulace cen stanovené a vydávané podle [[zákona o cenách|zákona o cenách]] pro pozemky veřejné infrastruktury užívané ve veřejném zájmu, je-li uplatněna, a současně nesmí překročit cenu obvyklou; to platí i v případě, sjednává-li se nájem pozemku, na kterém byla zřízena dálnice, silnice I. třídy, jejich součásti, příslušenství nebo stavby související.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2027c23849753e5a1895 -->
+
 ### § 18 — Zrušení dálnice, silnice nebo místní komunikace
 
 > **§ 18**
@@ -1657,6 +2715,52 @@ Zrušení komunikace je krajní řešení: nejprve objektivně doložit zánik d
 **Typicky rozhodné důkazy / podklady:** sčítání dopravy, stanoviska obce a vlastníka, technický stav úseku (diagnostika), návrh dalšího využití, spis silničního správního úřadu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cd140dfbc3bea66ea54b generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18 — Zrušení dálnice, silnice nebo místní komunikace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> Jestliže zanikl dopravní význam dálnice, silnice nebo místní komunikace a nebylo rozhodnuto o změně kategorie pozemní komunikace, rozhodne příslušný silniční správní úřad o jejím zrušení. Stavební úřad neprodleně rozhodne o změně v užívání stavby nebo o jejím odstranění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cd140dfbc3bea66ea54b -->
 
 ## ČÁST ČTVRTÁ — PŘEVEDENÍ VÝKONU NĚKTERÝCH PRÁV A POVINNOSTÍ STÁTU V SOUVISLOSTI S VÝSTAVBOU, PROVOZOVÁNÍM A ÚDRŽBOU DÁLNICE
 
@@ -1719,6 +2823,52 @@ Jakékoli svěření financování, výstavby, provozu a údržby dálnice či s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=92c3827b8a031fc95612 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> Financovat a zajišťovat výstavbu, provozování a údržbu dálnice nebo silnice I. třídy lze na základě smlouvy o převedení výkonu některých práv a povinností státu jako vlastníka dálnice nebo silnice I. třídy (dále jen „koncesionářská smlouva“) na právnickou osobu vybranou k uzavření koncesionářské smlouvy postupem podle zákona [[o zadávání veřejných zakázek|o zadávání veřejných zakázek]] (dále jen „koncesionář“)2b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92c3827b8a031fc95612 -->
+
 ### § 18b — Úhrada koncesionáři
 
 > **§ 18b**
@@ -1770,6 +2920,52 @@ Plať za dostupnost, ne za rozestavěnost: úhrada koncesionáři běží až po
 **Typicky rozhodné důkazy / podklady:** koncesionářská smlouva (platební mechanismus, alokace rizik), protokoly o dokončení a zprovoznění, rozpočet SFDI, stanoviska MD/MF, kontrolní závěry NKÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ac56d82e45cb4e3a4265 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> Úhrada za výstavbu, provozování a údržbu dálnice nebo silnice I. třídy je koncesionáři na základě koncesionářské smlouvy poskytována postupně v závislosti na ujednání o rozložení rizik, obsaženém v koncesionářské smlouvě, po dokončení výstavby dálnice nebo silnice I. třídy z příjmů Státního fondu dopravní infrastruktury určených na financování výstavby, modernizace, oprav a údržby dálnic a silnic I. třídy.8a)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ac56d82e45cb4e3a4265 -->
 
 ### § 18c — Uzavření koncesionářské smlouvy
 
@@ -1825,6 +3021,52 @@ Bez výslovného souhlasu Poslanecké sněmovny s konkrétními finančními zá
 **Typicky rozhodné důkazy / podklady:** usnesení vlády, sněmovní tisk a usnesení PS, finální návrh smlouvy s finančními parametry, podpisová doložka, právní stanoviska k procesu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fefbcb8fd37019006729 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> Koncesionářskou smlouvu s koncesionářem uzavře jménem státu Ministerstvo dopravy po jejím schválení vládou a po vyslovení souhlasu s údaji vyjadřujícími finanční závazky státu vůči koncesionáři obsaženými v návrhu smlouvy Poslaneckou sněmovnou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fefbcb8fd37019006729 -->
 
 ### § 18d — Předmět a doba koncesionářské smlouvy
 
@@ -1887,6 +3129,56 @@ Jádrem § 18d je výměna: stát dodá územní rozhodnutí, koncesionář vše
 **Typicky rozhodné důkazy / podklady:** koncesionářská smlouva, diagnostika vozovky a objektů, záznamy údržby, přejímací protokoly, znalecké posudky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7a9cb44c226b55fdc2bb generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Koncesionářskou smlouvou se stát zavazuje odevzdat koncesionáři územní rozhodnutí pro výstavbu dálnice nebo silnice I. třídy. Koncesionář se zavazuje v území určeném v územním rozhodnutí zajistit na své náklady financování a výstavbu dálnice nebo silnice I. třídy, její provozování a údržbu. Koncesionářská smlouva se uzavírá na dobu nejméně 25 let (dále jen „koncesionářská doba“).
+>
+> (2) Úhradu podle [[#§ 18b|§ 18b]] lze koncesionáři poskytovat ode dne zahájení provozu na dokončené dálnici nebo silnici I. třídy.
+>
+> (3) Po skončení smluvní doby je koncesionář povinen odevzdat vybudovanou a provozovanou dálnici nebo silnici I. třídy včetně jejího příslušenství státu a stát se zavazuje tuto dálnici nebo silnici I. třídy převzít, odpovídá-li její stavební a dopravně technický stav stavu stanovenému v koncesionářské smlouvě. Součástí odevzdání a převzetí dálnice nebo silnice I. třídy je společné prohlášení o vzájemném vypořádání všech závazků z koncesionářské smlouvy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a9cb44c226b55fdc2bb -->
 
 ### § 18e — Obsah koncesionářské smlouvy
 
@@ -1992,6 +3284,84 @@ Rozložení rizik je **jádrem každé PPP smlouvy**. Standardní rozdělení:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9c87a3dc930ca98afa5f generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18e — Obsah koncesionářské smlouvy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> Koncesionářská smlouva musí obsahovat
+>
+> - a) vymezení úseku dálnice nebo silnice I. třídy, který je předmětem výstavby, provozování a údržby a lhůtu jeho výstavby,
+>
+> - b) stanovení výše celkové investice a návratnosti vynaložených prostředků,
+>
+> - c) stanovení technických kritérií pro výstavbu, provoz a údržbu úseku dálnice nebo silnice I. třídy a způsob kontroly jejich dodržování,
+>
+> - d) závazek státu předat koncesionáři územní rozhodnutí k výstavbě úseku dálnice nebo silnice I. třídy a závazek koncesionáře toto územní rozhodnutí převzít,
+>
+> - e) rozložení rizik mezi stát a koncesionáře po dobu zajištění výstavby úseku dálnice nebo silnice I. třídy, výstavby, provozování a údržby úseku dálnice nebo silnice I. třídy a závazek koncesionáře převzít území určené územním rozhodnutím k výstavbě úseku dálnice nebo silnice I. třídy po zajištění vlastnických práv nebo práv založených smlouvou provést stavbu nebo práv odpovídajících věcnému břemenu,
+>
+> - f) závazek koncesionáře financovat a zajistit výstavbu, provoz a údržbu úseku dálnice nebo silnice I. třídy podle parametrů stanovených smlouvou,
+>
+> - g) závazek koncesionáře uzavřít s pojišťovnou, která má povolení provozovat pojišťovací činnost na území České republiky,8b) pojištění majetku a pojištění odpovědnosti za škodu,
+>
+> - h) závazek státu převést ve smlouvě uvedená práva a povinnosti státu jako vlastníka dálnice nebo silnice I. třídy na koncesionáře za cenu dohodnutou ve smlouvě a závazek koncesionáře tato práva a povinnosti od státu za dohodnutou cenu převzít,
+>
+> - i) stanovení doby, po kterou bude úsek dálnice nebo silnice I. třídy provozován a udržován koncesionářem,
+>
+> - j) vymezení stavebního a dopravně technického stavu dálnice nebo silnice I. třídy v době jejího odevzdání koncesionářem a převzetí státem po uplynutí koncesionářské doby,
+>
+> - k) závazek koncesionáře předat po uplynutí dohodnuté doby úsek dálnice nebo silnice I. třídy státu ve stavebním a dopravně technickém stavu stanoveném smlouvou a závazek státu jej převzít,
+>
+> - l) závazek koncesionáře poskytovat čtvrtletně Ministerstvu dopravy písemnou informaci o průběhu výstavby, způsobech zajištění provozování, oprav a údržby dálnice nebo silnice I. třídy,
+>
+> - m) závazek koncesionáře poskytnout na výzvu Ministerstva dopravy informace potřebné pro ověření trvání podmínek stanovených v koncesionářské smlouvě,
+>
+> - n) důvody pro odstoupení od smlouvy,
+>
+> - o) způsob vzájemného vypořádání pro případ odstoupení od smlouvy,
+>
+> - p) sankce v případě nedodržení smluvních podmínek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c87a3dc930ca98afa5f -->
+
 ### § 18f — Oddělené účtování a odpovědnost koncesionáře
 
 > **§ 18f**
@@ -2051,6 +3421,54 @@ Veřejné platby smí krýt výhradně koncesní činnost — oddělené, audito
 **Typicky rozhodné důkazy / podklady:** analytické účetnictví a závěrky, vnitroskupinové smlouvy, výpisy z účtů, diagnostika vozovky, kontrolní protokoly MD/NKÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a961ba8325be4daf4e08 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Jestliže koncesionář provozuje jiné činnosti než výstavbu, provozování a údržbu dálnice nebo silnice I. třídy, je povinen vést pro tyto činnosti oddělené účtování nákladů, tržeb a výnosů včetně tržeb; finanční prostředky z činností hrazených z veřejných prostředků nelze použít na financování jiných činností.
+>
+> (2) Po dobu trvání koncesionářské smlouvy koncesionář odpovídá za výstavbu, provozování a údržbu dálnice nebo silnice I. třídy a za dodržení stavebního a dopravně technického stavu dálnice nebo silnice I. třídy stanoveného tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a961ba8325be4daf4e08 -->
 
 ## ČÁST PÁTÁ — BEZPEČNOST POZEMNÍCH KOMUNIKACÍ
 
@@ -2189,6 +3607,106 @@ U TEN-T, dálnic, silnic I. třídy a EU-financovaných mimosídelních úseků 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c16910ca5947f266af4f generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18g — Posouzení stavby a její dokumentace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Pozemní komunikací podléhající posuzování bezpečnosti je, s výjimkou tunelu nad 500 m, který je součástí pozemní komunikace zařazené do transevropské silniční sítě22),
+>
+> - a) pozemní komunikace, která je zařazena do transevropské silniční sítě22),
+>
+> - b) dálnice,
+>
+> - c) silnice I. třídy, nebo
+>
+> - d) úsek silnice II. nebo III. třídy, na jehož výstavbu, rekonstrukci nebo opravu byly nebo mají být využity prostředky Evropské unie, s výjimkou úseku nacházejícího se v zastavěném území.
+>
+> (2) Stavebník stavby pozemní komunikace podléhající posuzování bezpečnosti je povinen zajistit posouzení záměru z hlediska zajištění bezpečnosti silničního provozu při užívání stavby, které se provádí v rámci
+>
+> - a) prvotního hodnocení záměru a
+>
+> - b) auditu bezpečnosti pozemních komunikací.
+>
+> (3) Součástí prvotního hodnocení záměru je
+>
+> - a) rozbor stávajícího stavu sítě pozemních komunikací v území, ve kterém má být záměr uskutečněn, bezpečnosti silničního provozu na ní, jejich nedostatků a dalšího vývoje úrovně bezpečnosti silničního provozu v případě neuskutečnění záměru,
+>
+> - b) stanovení cílů zvýšení úrovně bezpečnosti silničního provozu na síti pozemních komunikací v území, ve kterém má být záměr uskutečněn,
+>
+> - c) vymezení způsobů dosažení stanovených cílů zvýšení úrovně bezpečnosti silničního provozu a posouzení jejich předpokládaných dopadů na bezpečnost silničního provozu a
+>
+> - d) srovnání nákladů a přínosů jednotlivých způsobů dosažení stanovených cílů zvýšení úrovně bezpečnosti silničního provozu.
+>
+> (4) Výsledkem prvotního hodnocení záměru je zpráva obsahující údaje podle odstavce 3, kterou stavebník stavby pozemní komunikace podléhající posuzování bezpečnosti zohlední při zpracování návrhu dokumentace pro povolení záměru a přiloží k této dokumentaci.
+>
+> (5) Auditu bezpečnosti pozemních komunikací podléhá
+>
+> - a) návrh dokumentace pro povolení záměru,
+>
+> - b) návrh dokumentace pro provádění stavby,
+>
+> - c) provedená stavba před zahájením zkušebního provozu a
+>
+> - d) dokončená stavba pro kolaudaci.
+>
+> (6) Výsledkem auditu bezpečnosti pozemních komunikací je zpráva, která obsahuje zejména souhrnný popis předpokládaných dopadů stavebních, technických a provozních vlastností pozemní komunikace na bezpečnost silničního provozu při jejím užívání a návrhy na odstranění nebo snížení předpokládaných rizik, která plynou z vlastností pozemní komunikace pro účastníky silničního provozu. Stavebník stavby pozemní komunikace podléhající posuzování bezpečnosti doplní zprávu vyhodnocením, zda a jakým způsobem vyhověl návrhům obsaženým ve zprávě, a u návrhů, kterým nevyhověl, uvede důvody jejich nepřijetí.
+>
+> (7) Stavebník stavby pozemní komunikace podléhající posuzování bezpečnosti předloží stavebnímu úřadu zprávu a vyhodnocení podle odstavce 6 vztahující se
+>
+> - a) k návrhu dokumentace podle odstavce 5 písm. a) k žádosti o povolení záměru,
+>
+> - b) k návrhu dokumentace podle odstavce 5 písm. b) k žádosti o vydání kolaudačního rozhodnutí,
+>
+> - c) ke stavbě podle odstavce 5 písm. c) k žádosti o vydání kolaudačního rozhodnutí a
+>
+> - d) ke stavbě podle odstavce 5 písm. d) k žádosti o vydání kolaudačního rozhodnutí.
+>
+> (8) V rozhodnutí o povolení záměru pro stavbu pozemní komunikace podléhající posuzování bezpečnosti stavební úřad uloží provedení zkušebního provozu.
+>
+> (9) Při zpracování auditu bezpečnosti pozemních komunikací se zohlední zejména vliv okolí pozemní komunikace, vliv součástí a příslušenství pozemní komunikace a jejího připojení na ostatní pozemní komunikace a vliv charakteru provozu na pozemní komunikaci na bezpečnost provozu na této pozemní komunikaci.
+>
+> (10) Kritéria pro posouzení předpokládaných dopadů na bezpečnost silničního provozu podle odstavce 3 písm. c) a předmět auditu bezpečnosti pozemních komunikací stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c16910ca5947f266af4f -->
+
 ### § 18h — Auditor bezpečnosti pozemních komunikací
 
 > **§ 18h**
@@ -2252,6 +3770,60 @@ Bezúhonnost auditora je definována úzce a negativně: diskvalifikuje jen úmy
 **Typicky rozhodné důkazy / podklady:** elektronický výpis z rejstříku trestů, doklady vzdělání a praxe, protokol o zkoušce, výpis z veřejného seznamu auditorů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ed04c448022b5ea1291b generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18h — Auditor bezpečnosti pozemních komunikací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Provádět audit bezpečnosti pozemních komunikací a zpracovávat zprávu o výsledku auditu může pouze fyzická osoba s platným povolením (dále jen „auditor bezpečnosti pozemních komunikací“).
+>
+> (2) Povolení podle odstavce 1 vydá Ministerstvo dopravy na žádost žadateli, který je bezúhonný a prokázal odbornou způsobilost k provádění auditu bezpečnosti pozemních komunikací.
+>
+> (3) Ministerstvo dopravy zveřejní způsobem umožňujícím dálkový přístup seznam jmen a příjmení, identifikačních čísel osoby a sídla nebo místa podnikání auditorů bezpečnosti pozemních komunikací, kteří jsou držiteli platného povolení, a pravidelně jej aktualizuje.
+>
+> (4) Za bezúhonného podle odstavce 2 se nepovažuje ten, kdo byl pravomocně odsouzen pro trestný čin spáchaný úmyslně, ať již samostatně nebo v souběhu s jinými trestnými činy, a byl mu uložen nepodmíněný trest odnětí svobody v trvání nejméně jednoho roku.
+>
+> (5) Za účelem zjištění, zda je žadatel bezúhonný, si Ministerstvo dopravy vyžádá podle zvláštního právního předpisu23) výpis z rejstříku trestů. Žádost o vydání výpisu z rejstříku trestů a výpis z rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed04c448022b5ea1291b -->
 
 ### § 18i — Odborná způsobilost
 
@@ -2330,6 +3902,70 @@ Odborná způsobilost auditora = vzdělání + odstupňovaná praxe v bezpečnos
 **Typicky rozhodné důkazy / podklady:** diplomy/vysvědčení, potvrzení praxe s popisem činností, osvědčení o školení, jmenování komise, protokol o zkoušce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1cb021011ecc72978e60 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18i — Odborná způsobilost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Odbornou způsobilost prokazuje žadatel
+>
+> - a) absolvováním bakalářského, magisterského nebo doktorského studijního programu24) v oblasti technických věd a technologií nebo ukončeným vyšším odborným vzděláním nebo středním vzděláním s maturitní zkouškou v oborech souvisejících s prováděním auditu bezpečnosti pozemních komunikací,
+>
+> - b) praxí v oblasti bezpečnosti silničního provozu v délce
+>
+> - 1. 3 roky, pokud absolvoval bakalářský, magisterský nebo doktorský studijní program24),
+>
+> - 2. 4 roky, pokud absolvoval vyšší odborné vzdělání, nebo
+>
+> - 3. 5 let, pokud absolvoval střední vzdělání s maturitní zkouškou, a
+>
+> - c) úspěšným složením zkoušky.
+>
+> (2) Zkouška zahrnuje ověření znalostí potřebných pro provedení auditu bezpečnosti pozemních komunikací. Zkoušku skládá žadatel před komisí jmenovanou Ministerstvem dopravy. Komise musí být nejméně tříčlenná a mít lichý počet členů. Předsedou komise musí být státní zaměstnanec zařazený k výkonu státní služby v Ministerstvu dopravy. O výsledku zkoušky vyhotoví komise protokol, který její předseda předá bez zbytečného odkladu Ministerstvu dopravy a oznámí výsledky zkoušky žadateli.
+>
+> (3) Skládat zkoušku může pouze žadatel, který absolvoval školení pro získání potřebných znalostí, dovedností a postupů pro provádění auditu bezpečnosti pozemních komunikací.
+>
+> (4) Prováděcí právní předpis stanoví rozsah, obsah a způsob provádění zkoušky, způsob hodnocení výsledků zkoušky, rozsah a obsah školení a obory související s auditem bezpečnosti pozemních komunikací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1cb021011ecc72978e60 -->
 
 ### § 18j — Povinnosti auditora
 
@@ -2417,6 +4053,74 @@ Auditor nesmí kontrolovat, co sám (nebo jeho rodina či obchodní partneři) p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=25e177175b39cc40a5f5 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18j — Povinnosti auditora bezpečnosti pozemních komunikací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Auditor bezpečnosti pozemních komunikací nesmí provádět činnosti, jejichž výkon svěřuje tento zákon auditorům bezpečnosti pozemních komunikací, u staveb pozemních komunikací, na jejichž přípravě anebo provádění se podílel, podílí nebo má podílet sám nebo
+>
+> - a) jeho příbuzný v řadě přímé, sourozenec, manžel nebo partner, nebo
+>
+> - b) osoba, s níž je
+>
+> - 1. ve vztahu jako společník, člen orgánů společnosti, družstva nebo jako účastník sdružení,
+>
+> - 2. v základním pracovněprávním vztahu, nebo
+>
+> - 3. ve vztahu obchodním nebo obdobném a tento vztah by mohl ohrozit nezávislost nebo nestrannost auditora bezpečnosti pozemních komunikací.
+>
+> (2) Auditor bezpečnosti pozemních komunikací je povinen postupovat při činnostech, jejichž výkon svěřuje tento zákon auditorům bezpečnosti pozemních komunikací, nestranně a s řádnou odbornou péčí.
+>
+> (3) Auditor bezpečnosti pozemních komunikací je povinen Ministerstvu dopravy sdělit, že přestal splňovat podmínku bezúhonnosti podle § 18h odst. 4, bez zbytečného odkladu poté, co se o této skutečnosti dozví.
+>
+> (4) Auditor bezpečnosti pozemních komunikací je povinen účastnit se pravidelného školení, jehož předmětem je udržování a prohlubování potřebných znalostí, dovedností a postupů pro provádění auditu bezpečnosti pozemních komunikací. Pravidelného školení se auditor bezpečnosti pozemních komunikací zúčastní do konce třetího roku ode dne
+>
+> - a) vydání povolení podle § 18h odst. 1, nebo
+>
+> - b) konání předchozího pravidelného školení.
+>
+> (5) Rozsah a obsah pravidelného školení stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18h
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25e177175b39cc40a5f5 -->
+
 ### § 18k — Odnětí povolení
 
 > **§ 18k**
@@ -2484,6 +4188,62 @@ Důvody odnětí jsou kogentní a MD nemá uvážení; tříletý zákaz nové �
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o odnětí, evidence účasti na školeních, seznam akreditovaných školitelů a nabídka termínů, korespondence s MD, výpis z RT.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=36d316174dd5590f8278 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18k — Odnětí povolení auditora bezpečnosti pozemních komunikací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo dopravy odejme povolení podle § 18h odst. 1 auditoru bezpečnosti pozemních komunikací, který
+>
+> - a) přestal být bezúhonný,
+>
+> - b) opakovaně nebo hrubým způsobem porušil povinnosti podle § 18j odst. 1 nebo [[#§ 2|2]],
+>
+> - c) nezúčastnil se pravidelného školení podle § 18j odst. 4, nebo
+>
+> - d) o odnětí požádal.
+>
+> (2) Auditor bezpečnosti pozemních komunikací, kterému bylo povolení odejmuto podle odstavce 1 písm. b), může o vydání nového povolení požádat až po uplynutí 3 let ode dne nabytí právní moci rozhodnutí o odnětí povolení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18h, § 18j, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36d316174dd5590f8278 -->
 
 ### § 18l — Akreditace k poskytování školení
 
@@ -2569,6 +4329,74 @@ Akreditace školitele není jednorázový akt: plán, kvalifikovaní lektoři (v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=38d99c2162a5353f1cca generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18l — Akreditace k poskytování školení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Školení podle § 18i odst. 3 a § 18j odst. 4 může poskytovat pouze osoba, které byla udělena akreditace k provozování této činnosti Ministerstvem dopravy.
+>
+> (2) Akreditaci udělí Ministerstvo dopravy osobě, která doloží, že
+>
+> - a) má vytvořen plán pro zajištění školení, ve kterém vymezí organizaci, rozsah a způsob školení, včetně dozoru,
+>
+> - b) školení budou zajišťovat odborně způsobilé osoby, které mají ukončené vzdělání podle § 18i odst. 1 písm. a) a [[#§ 5|5]] let praxe v oblasti posuzování bezpečnosti pozemních komunikací,
+>
+> - c) má právo k užívání nebytových prostor a vybavení nezbytného pro poskytování školení a
+>
+> - d) uhradila Ministerstvu dopravy správní poplatek.
+>
+> (3) Osoba, které byla udělena akreditace k poskytování školení, je povinna
+>
+> - a) zajišťovat školení podle vytvořeného plánu,
+>
+> - b) zajišťovat školení odborně způsobilými osobami a
+>
+> - c) mít po celou dobu provozování své činnosti právo k užívání nebytových prostor a vybavení nezbytného pro poskytování školení a mít tyto prostory a vybavení po celou dobu k dispozici.
+>
+> (4) Ministerstvo dopravy odejme akreditaci k poskytování školení osobě, která opakovaně nebo hrubým způsobem porušila povinnosti podle odstavce 3.
+>
+> (5) Ministerstvo dopravy zveřejní způsobem umožňujícím dálkový přístup seznam jmen a příjmení, obchodních firem nebo názvů, identifikačních čísel osoby a sídel nebo míst podnikání osob, kterým udělilo akreditaci, a pravidelně jej aktualizuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18i, § 18j, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=38d99c2162a5353f1cca -->
+
 ### § 18m — Posouzení pozemních komunikací v provozu
 
 > **§ 18m**
@@ -2649,6 +4477,64 @@ Vlastníci komunikací z okruhu § 18g odst. 1 musí každých 5 let zajistit au
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2f0bb5978e7ac55658f2 generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18m — Posouzení pozemních komunikací v provozu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Vlastník pozemní komunikace zajistí posouzení jím vlastněných pozemních komunikací podléhajících posuzování bezpečnosti z hlediska rizika dopravních nehod a z hlediska závažnosti jejich dopadů. Posouzení provede auditor bezpečnosti pozemních komunikací na základě
+>
+> - a) prohlídky skutečného stavu pozemní komunikace provedené na místě nebo prostřednictvím elektronického záznamu zobrazujícího pozemní komunikaci nebo její parametry a
+>
+> - b) informací o úsecích pozemních komunikací podléhajících posuzování bezpečnosti, jež jsou v provozu déle než 3 roky, s vysokým počtem dopravních nehod, při nichž došlo k usmrcení nebo těžké újmě na zdraví, v poměru k intenzitě provozu na pozemní komunikaci; tyto informace předá auditorovi bezpečnosti pozemních komunikací vlastník pozemní komunikace před zahájením posuzování.
+>
+> (2) Výsledkem posouzení je zpráva zpracovaná auditorem bezpečnosti pozemních komunikací, která obsahuje souhrnný popis provedeného posouzení a hodnocení posuzovaných úseků pozemních komunikací. Posuzované úseky pozemních komunikací se hodnotí z hlediska rizika dopravních nehod a z hlediska závažnosti jejich dopadů jako úseky pozemních komunikací s vysokou, střední nebo nízkou úrovní bezpečnosti.
+>
+> (3) Zprávy o posouzení jím vlastněných pozemních komunikací předá vlastník pozemní komunikace Ministerstvu dopravy nejpozději do 31. října kalendářního roku, v němž proběhlo toto posouzení. Současně vlastník pozemní komunikace předá Ministerstvu dopravy přehled posuzovaných úseků jím vlastněných pozemních komunikací a jejich hodnocení. Do 31. prosince tohoto roku zveřejní Ministerstvo dopravy způsobem umožňujícím dálkový přístup přehled všech posuzovaných úseků pozemních komunikací a jejich hodnocení.
+>
+> (4) Vlastník pozemní komunikace zajišťuje, aby bylo posouzení pozemních komunikací podléhajících posuzování bezpečnosti provedeno vždy v průběhu pátého kalendářního roku následujícího po zpracování předchozích zpráv o posouzení jím vlastněných pozemních komunikací.
+>
+> (5) Způsob určení úseků pozemních komunikací podléhajících posuzování bezpečnosti s vysokým počtem dopravních nehod, při nichž došlo k usmrcení nebo těžké újmě na zdraví, v poměru k intenzitě provozu na pozemní komunikaci, a předmět posouzení a kritéria pro hodnocení posuzovaných úseků pozemních komunikací stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f0bb5978e7ac55658f2 -->
+
 ### § 18n — Podrobné prohlídky, plánování nápravných opatření a jejich provádění
 
 > **§ 18n**
@@ -2727,6 +4613,62 @@ Vlastníci hlásí každoročně, jaká nápravná opatření z plánu reálně 
 **Typicky rozhodné důkazy / podklady:** zprávy o posouzení (§ 18m) a o podrobných prohlídkách, doklady o kvalifikaci členů skupiny, sdělení vlastníka MD, publikovaný plán zvyšování bezpečnosti a jeho aktualizace, doklady o provedených opatřeních.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d4a8583d98904e8be58b generator=2026-07-17.4 source_sha256=1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619 -->
+#### Revizní doplnění k § 18n — Podrobné prohlídky, plánování nápravných opatření a jejich provádění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 9. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1997/13-1997 Zákon o pozemních komunikacích.md`; identifikátor verze: `SB-1997-00013_2025-09-10`; SHA-256: `1fab4bd3b54268617a4fb53bc1fff76a5062cbe9056c887281fb29c91152f619`.
+
+##### Znění ustanovení
+
+> (1) Vlastník pozemní komunikace zajistí v kalendářním roce následujícím po zpracování zpráv o posouzení jím vlastněných pozemních komunikací provedení podrobné prohlídky úseků pozemních komunikací, které byly ve zprávě hodnoceny jako úseky s nízkou úrovní bezpečnosti a u nichž v tomto kalendářním roce nedojde k provedení nápravných opatření, kterými se zvýší úroveň jejich bezpečnosti. Podrobnou prohlídku provádí skupina nejméně 3 fyzických osob s ukončeným středním vzděláním s maturitní zkouškou a roční praxí v oblasti správy pozemních komunikací nebo bezpečnosti silničního provozu, z nichž alespoň 1 musí být auditorem bezpečnosti pozemních komunikací. Podrobná prohlídka se provádí na místě a zaměřuje se na posouzení dopadů zejména stavebních, technických a provozních vlastností pozemní komunikace na její bezpečnost.
+>
+> (2) Výsledkem podrobné prohlídky je zpráva o jejích výsledcích zpracovaná auditorem bezpečnosti pozemních komunikací, která obsahuje zejména popis zjištěných rizik a návrhy nápravných opatření včetně posloupnosti jejich provedení. Při zpracování zprávy auditor bezpečnosti pozemních komunikací zohlední obsah poslední zprávy o posouzení pozemních komunikací, obsah předchozích zpráv o výsledcích podrobných prohlídek dotčeného úseku pozemní komunikace, byly-li zpracovány, a údaje o dopravních nehodách na tomto úseku pozemní komunikace.
+>
+> (3) Na základě zpráv o výsledcích podrobných prohlídek určí vlastník pozemních komunikací podléhajících posuzování bezpečnosti úseky, u nichž lze předpokládat, že nápravná opatření povedou k výraznému zvýšení bezpečnosti a snížení nákladů vynakládaných v důsledku dopravních nehod, a určí tato nápravná opatření a posloupnost jejich provedení. Do konce kalendářního roku, v němž jsou podrobné prohlídky prováděny, sdělí vlastník pozemní komunikace Ministerstvu dopravy informaci o vybraných úsecích pozemních komunikací a provedených nebo plánovaných nápravných opatřeních včetně posloupnosti jejich provedení.
+>
+> (4) Na základě informací podle odstavce 3 Ministerstvo dopravy do 3 měsíců po uplynutí lhůty pro jejich sdělení sestaví na dobu 5 let plán zvyšování bezpečnosti pozemních komunikací obsahující přehled úseků pozemních komunikací podléhajících posuzování bezpečnosti vybraných k provedení nápravných opatření a provedených nebo plánovaných nápravných opatření včetně posloupnosti jejich provedení. Plán zvyšování bezpečnosti pozemních komunikací Ministerstvo dopravy zveřejní způsobem umožňujícím dálkový přístup.
+>
+> (5) Do konce každého kalendářního roku sdělí vlastník pozemní komunikace podléhající posuzování bezpečnosti Ministerstvu dopravy informaci o provedených nápravných opatřeních obsažených v plánu zvyšování bezpečnosti pozemních komunikací. Na základě tohoto sdělení Ministerstvo dopravy aktualizuje zveřejněné informace uvedené v plánu zvyšování bezpečnosti pozemních komunikací.
+>
+> (6) Předmět podrobné prohlídky stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d4a8583d98904e8be58b -->
 
 ## Klíčové průřezové instituty Částí I–V — souhrnný přehled
 

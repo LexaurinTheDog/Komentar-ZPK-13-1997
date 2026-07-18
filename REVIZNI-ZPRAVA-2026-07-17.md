@@ -1,0 +1,298 @@
+<!-- LEGAL-REVISION-REPORT:BEGIN id=2cfea2f0ca34d0cc05b4 generator=2026-07-17.4 -->
+# Revizní zpráva — 17. 7. 2026
+
+## Rozsah doplnění
+
+- Naplánované revizní bloky: **83**.
+- Bloky z kurátorovaných záznamů: **0**.
+- Provenienční koncepty bez věcné revize: **83**.
+- Jednotky místního předpisu bez komentářového kotevního nadpisu: **20**.
+- Diagnostická upozornění: **0**.
+
+## Metoda a omezení
+
+Generátor zachovává každý původní bajt a pouze vkládá označené bloky. Automaticky ověřuje identitu a znění místního předpisového zdroje. Bez kurátorovaného záznamu nevytváří doktrinální závěry, nepřiřazuje judikaturu ani literaturu a blok ponechává ve stavu `koncept`. Označení `revidováno` vyžaduje nejméně dvě deklarovaná kola kontroly a existující místní soubory ke všem ověřovaným rozhodnutím.
+
+## Doplněné jednotky
+
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 1; marker `f539f0438e07d00aedbc`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 2; marker `cc8294070ff0c71288d7`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 3; marker `a0e2dd23df7c09e96f21`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 4; marker `b1003dd83cda1e72b481`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 5; marker `a638e1d2da0495178843`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 6; marker `e65cb0d8ab2265aec281`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 7; marker `6b4fa2658781c93db333`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 8; marker `a436dc42378ffa87651a`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 9; marker `9dc17fdffe9b3d579402`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 9a; marker `c7de7b52df4f26b1a687`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 10; marker `1f33ad230a9dc138e101`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 11; marker `f7ef952bf9ec99611cdb`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 12; marker `27e618e33e04ad036b43`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 12a; marker `8041eb4d21613676cc0b`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 13; marker `e71c73993d8eb30b4e47`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 14; marker `bd2b9bb49b274d4b04ce`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 15; marker `7ab1a7b74813cfb7a75e`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 16; marker `61c4e3b010459ef7426c`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 17; marker `2027c23849753e5a1895`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18; marker `cd140dfbc3bea66ea54b`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18a; marker `92c3827b8a031fc95612`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18b; marker `ac56d82e45cb4e3a4265`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18c; marker `fefbcb8fd37019006729`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18d; marker `7a9cb44c226b55fdc2bb`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18e; marker `9c87a3dc930ca98afa5f`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18f; marker `a961ba8325be4daf4e08`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18g; marker `c16910ca5947f266af4f`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18h; marker `ed04c448022b5ea1291b`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18i; marker `1cb021011ecc72978e60`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18j; marker `25e177175b39cc40a5f5`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18k; marker `36d316174dd5590f8278`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18l; marker `38d99c2162a5353f1cca`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18m; marker `2f0bb5978e7ac55658f2`; koncept — pouze provenience.
+- `01-casti-1-5-druhy-vlastnictvi-uzivani.md` — § 18n; marker `d4a8583d98904e8be58b`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 19; marker `26b4b47ae84edf4faa24`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 19a; marker `110b39c9d5abc77088ef`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 19b; marker `5407ca2e1e18a3cdfe36`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 19d; marker `4b43e953b9118b02dd8f`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 19e; marker `823a034e15cdbb37e1d7`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 19c; marker `86a09355e842b2585f51`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 20; marker `f926e6aff7a5aa43ef72`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 20a; marker `93f701a7fdc8e7212084`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 21; marker `4f9afed35802d72b5ee5`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22; marker `52e82b8f63f60b08a2ce`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22h; marker `1043f27f5c003b8dc21f`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22b; marker `43c95e94d7554688783b`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22d; marker `58860daf59ab5581da80`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22c; marker `72578e187efe504cf0d0`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22g; marker `96d46c69afbfabe8214c`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22e; marker `9dadc90d6865f522c9f7`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22a; marker `b2e1f73240ce8ad9add7`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22f; marker `e44463020a47b7becc63`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22k; marker `0d4da1f8a410dff7edcf`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22i; marker `7d1c650203a5894db507`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 22j; marker `f835b50a981968230ee1`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 23; marker `b043c893b8700e1ea9d5`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 24; marker `294fa0fdbe9416eeb9d2`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 24a; marker `8da6da33bbe5aec05304`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 24b; marker `3e37e99053aadb8c71b1`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 25; marker `99375e463047c69f318f`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 25a; marker `e0e6dc98fdaf3ba0e30a`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 26; marker `a17a0efdfb27c4858661`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 27; marker `4e7dec79f9041ea0318e`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 28; marker `53caf4b7dec0c99e2d8d`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 29; marker `2b2dc07fb35231d30ba4`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 29a; marker `98aa1411ef394a593d42`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 30; marker `8050bc0ca0b10cca8650`; koncept — pouze provenience.
+- `02-cast-6-vystavba-ochrana-udrzba.md` — § 31; marker `6d344c197070c6e7f8d7`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 40; marker `883998bcb3902f673e6e`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 41; marker `aa2afd5cfc2953e51bec`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 41b; marker `65c4755da43fb56303f5`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 43; marker `1e249a981e7e42008dde`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 43a; marker `f42b0b2f30204d0d3e96`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 43b; marker `2778c248413e9d9ba83a`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 43c; marker `e323e23b0c25e85849ad`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 43d; marker `e0a8091d8c06d06f01dc`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 44; marker `6b55d23715ccc1c9dcf2`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 44a; marker `001ae34ed7c22f155a59`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 44b; marker `478eae0a914d27f295f5`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 45; marker `1ab523d9f00a75881aca`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 46; marker `ae6451585beb182b0dbc`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 47; marker `929b9f8a4e5fa69d29bb`; koncept — pouze provenience.
+- `03-casti-7-10-silnicni-uradu-prestupky-zaverecna.md` — § 48; marker `842bd1744ddf682aafa5`; koncept — pouze provenience.
+
+## Citace označené jako neověřené
+
+- § 1: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 2: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 3: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 4: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 5: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 6: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 7: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 8: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 9: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 9a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 10: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 11: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 12: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 12a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 13: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 14: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 15: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 16: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 17: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18b: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18c: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18d: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18e: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18f: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18g: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18h: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18i: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18j: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18k: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18l: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18m: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 18n: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 19: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 19a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 19b: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 19d: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 19e: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 19c: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 20: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 20a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 21: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22h: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22b: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22d: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22c: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22g: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22e: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22f: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22k: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22i: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 22j: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 23: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 24: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 24a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 24b: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 25: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 25a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 26: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 27: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 28: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 29: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 29a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 30: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 31: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 40: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 41: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 41b: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 43: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 43a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 43b: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 43c: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 43d: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 44: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 44a: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 44b: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 45: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 46: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 47: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+- § 48: literatura, konkrétní pasáž důvodové zprávy a judikatura nebyly automaticky ověřeny.
+
+## Otevřené otázky
+
+- Bez kotevního nadpisu: 13/1997 Sb., § 21a.
+- Bez kotevního nadpisu: 13/1997 Sb., § 21b.
+- Bez kotevního nadpisu: 13/1997 Sb., § 21c.
+- Bez kotevního nadpisu: 13/1997 Sb., § 32.
+- Bez kotevního nadpisu: 13/1997 Sb., § 32a.
+- Bez kotevního nadpisu: 13/1997 Sb., § 33.
+- Bez kotevního nadpisu: 13/1997 Sb., § 34.
+- Bez kotevního nadpisu: 13/1997 Sb., § 35.
+- Bez kotevního nadpisu: 13/1997 Sb., § 36.
+- Bez kotevního nadpisu: 13/1997 Sb., § 37.
+- Bez kotevního nadpisu: 13/1997 Sb., § 37a.
+- Bez kotevního nadpisu: 13/1997 Sb., § 38.
+- Bez kotevního nadpisu: 13/1997 Sb., § 38a.
+- Bez kotevního nadpisu: 13/1997 Sb., § 38b.
+- Bez kotevního nadpisu: 13/1997 Sb., § 38c.
+- Bez kotevního nadpisu: 13/1997 Sb., § 38d.
+- Bez kotevního nadpisu: 13/1997 Sb., § 39.
+- Bez kotevního nadpisu: 13/1997 Sb., § 39a.
+- Bez kotevního nadpisu: 13/1997 Sb., § 42a.
+- Bez kotevního nadpisu: 13/1997 Sb., § 42b.
+
+## Návrhy commit messages
+
+`komentar(doplnění): přidat revizní bloky z místních zdrojů (2026-07-17)`
+- `komentar(§ 1): doplnit provenienční revizní koncept`
+- `komentar(§ 2): doplnit provenienční revizní koncept`
+- `komentar(§ 3): doplnit provenienční revizní koncept`
+- `komentar(§ 4): doplnit provenienční revizní koncept`
+- `komentar(§ 5): doplnit provenienční revizní koncept`
+- `komentar(§ 6): doplnit provenienční revizní koncept`
+- `komentar(§ 7): doplnit provenienční revizní koncept`
+- `komentar(§ 8): doplnit provenienční revizní koncept`
+- `komentar(§ 9): doplnit provenienční revizní koncept`
+- `komentar(§ 9a): doplnit provenienční revizní koncept`
+- `komentar(§ 10): doplnit provenienční revizní koncept`
+- `komentar(§ 11): doplnit provenienční revizní koncept`
+- `komentar(§ 12): doplnit provenienční revizní koncept`
+- `komentar(§ 12a): doplnit provenienční revizní koncept`
+- `komentar(§ 13): doplnit provenienční revizní koncept`
+- `komentar(§ 14): doplnit provenienční revizní koncept`
+- `komentar(§ 15): doplnit provenienční revizní koncept`
+- `komentar(§ 16): doplnit provenienční revizní koncept`
+- `komentar(§ 17): doplnit provenienční revizní koncept`
+- `komentar(§ 18): doplnit provenienční revizní koncept`
+- `komentar(§ 18a): doplnit provenienční revizní koncept`
+- `komentar(§ 18b): doplnit provenienční revizní koncept`
+- `komentar(§ 18c): doplnit provenienční revizní koncept`
+- `komentar(§ 18d): doplnit provenienční revizní koncept`
+- `komentar(§ 18e): doplnit provenienční revizní koncept`
+- `komentar(§ 18f): doplnit provenienční revizní koncept`
+- `komentar(§ 18g): doplnit provenienční revizní koncept`
+- `komentar(§ 18h): doplnit provenienční revizní koncept`
+- `komentar(§ 18i): doplnit provenienční revizní koncept`
+- `komentar(§ 18j): doplnit provenienční revizní koncept`
+- `komentar(§ 18k): doplnit provenienční revizní koncept`
+- `komentar(§ 18l): doplnit provenienční revizní koncept`
+- `komentar(§ 18m): doplnit provenienční revizní koncept`
+- `komentar(§ 18n): doplnit provenienční revizní koncept`
+- `komentar(§ 19): doplnit provenienční revizní koncept`
+- `komentar(§ 19a): doplnit provenienční revizní koncept`
+- `komentar(§ 19b): doplnit provenienční revizní koncept`
+- `komentar(§ 19d): doplnit provenienční revizní koncept`
+- `komentar(§ 19e): doplnit provenienční revizní koncept`
+- `komentar(§ 19c): doplnit provenienční revizní koncept`
+- `komentar(§ 20): doplnit provenienční revizní koncept`
+- `komentar(§ 20a): doplnit provenienční revizní koncept`
+- `komentar(§ 21): doplnit provenienční revizní koncept`
+- `komentar(§ 22): doplnit provenienční revizní koncept`
+- `komentar(§ 22h): doplnit provenienční revizní koncept`
+- `komentar(§ 22b): doplnit provenienční revizní koncept`
+- `komentar(§ 22d): doplnit provenienční revizní koncept`
+- `komentar(§ 22c): doplnit provenienční revizní koncept`
+- `komentar(§ 22g): doplnit provenienční revizní koncept`
+- `komentar(§ 22e): doplnit provenienční revizní koncept`
+- `komentar(§ 22a): doplnit provenienční revizní koncept`
+- `komentar(§ 22f): doplnit provenienční revizní koncept`
+- `komentar(§ 22k): doplnit provenienční revizní koncept`
+- `komentar(§ 22i): doplnit provenienční revizní koncept`
+- `komentar(§ 22j): doplnit provenienční revizní koncept`
+- `komentar(§ 23): doplnit provenienční revizní koncept`
+- `komentar(§ 24): doplnit provenienční revizní koncept`
+- `komentar(§ 24a): doplnit provenienční revizní koncept`
+- `komentar(§ 24b): doplnit provenienční revizní koncept`
+- `komentar(§ 25): doplnit provenienční revizní koncept`
+- `komentar(§ 25a): doplnit provenienční revizní koncept`
+- `komentar(§ 26): doplnit provenienční revizní koncept`
+- `komentar(§ 27): doplnit provenienční revizní koncept`
+- `komentar(§ 28): doplnit provenienční revizní koncept`
+- `komentar(§ 29): doplnit provenienční revizní koncept`
+- `komentar(§ 29a): doplnit provenienční revizní koncept`
+- `komentar(§ 30): doplnit provenienční revizní koncept`
+- `komentar(§ 31): doplnit provenienční revizní koncept`
+- `komentar(§ 40): doplnit provenienční revizní koncept`
+- `komentar(§ 41): doplnit provenienční revizní koncept`
+- `komentar(§ 41b): doplnit provenienční revizní koncept`
+- `komentar(§ 43): doplnit provenienční revizní koncept`
+- `komentar(§ 43a): doplnit provenienční revizní koncept`
+- `komentar(§ 43b): doplnit provenienční revizní koncept`
+- `komentar(§ 43c): doplnit provenienční revizní koncept`
+- `komentar(§ 43d): doplnit provenienční revizní koncept`
+- `komentar(§ 44): doplnit provenienční revizní koncept`
+- `komentar(§ 44a): doplnit provenienční revizní koncept`
+- `komentar(§ 44b): doplnit provenienční revizní koncept`
+- `komentar(§ 45): doplnit provenienční revizní koncept`
+- `komentar(§ 46): doplnit provenienční revizní koncept`
+- `komentar(§ 47): doplnit provenienční revizní koncept`
+- `komentar(§ 48): doplnit provenienční revizní koncept`
+
+<!-- LEGAL-REVISION-REPORT:END id=2cfea2f0ca34d0cc05b4 -->
